@@ -57,8 +57,16 @@
         const rows = csvData.split('\n');
         const table = document.getElementById('csvTable');
 
-        for (let i = 0; i < rows.length; i++) {
-            const cells = rows[i].split(',');
+        // Handle the header separately
+        const headerCells = rows[0].split('|');
+        const headerRow = table.insertRow();
+        for (let j = 0; j < headerCells.length; j++) {
+            const cell = headerRow.insertCell();
+            cell.textContent = headerCells[j];
+        }
+
+        for (let i = 1; i < rows.length; i++) {
+            const cells = rows[i].split('|');
 
             // Skip rows with incorrect number of cells
             if (cells.length === 8) {
