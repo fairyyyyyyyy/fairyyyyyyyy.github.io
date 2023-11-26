@@ -67,9 +67,9 @@
 
         for (let i = 1; i < rows.length; i++) {
             const cells = rows[i].split('|');
-
-            // Skip rows with incorrect number of cells
-            if (cells.length === 8) {
+            
+            // Check if the row has the correct number of cells
+            if (cells.length === headerCells.length) {
                 const row = table.insertRow();
 
                 for (let j = 0; j < cells.length; j++) {
