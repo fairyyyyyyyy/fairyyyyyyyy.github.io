@@ -33,12 +33,14 @@
             background-color: #333;
             color: white;
             font-size: 1.2em;  /* Bigger font size for headers */
+            font-weight: bold; /* Make the text bold */
+            padding: 12px;     /* Increase padding for better visibility */
         }
 
         tr:nth-child(even) {
             background-color: #333;  /* Dark grey background for even rows */
         }
-        
+
         /* Additional style for even rows with dynamic cell length */
         tr:nth-child(even) td {
             background: linear-gradient(to right, #333 0%, #333 calc(100% - 8px), black calc(100% - 8px), black 100%);
