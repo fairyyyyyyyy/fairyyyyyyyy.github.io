@@ -33,7 +33,6 @@
             background-color: #333;
             color: white;
             font-size: 1.2em;  /* Bigger font size for headers */
-            font-weight: bold;  /* Thicker font for headers */
         }
 
         tr:nth-child(even) {
@@ -57,19 +56,9 @@
         const rows = csvData.split('\n');
         const table = document.getElementById('csvTable');
 
-        // Handle the header separately
-        const headerCells = rows[0].split('|');
-        const headerRow = table.insertRow();
-        for (let j = 0; j < headerCells.length; j++) {
-            const cell = headerRow.insertCell();
-            cell.textContent = headerCells[j];
-        }
-
-        for (let i = 1; i < rows.length; i++) {
-            const cells = rows[i].split('|');
-            
-            // Check if the row has the correct number of cells
-            if (cells.length === headerCells.length) {
+        for (let i = 0; i < rows.length; i++) {
+            const cells = rows[i].split(',');
+            if (cells.length > 1) {  // Skip rows with no data
                 const row = table.insertRow();
 
                 for (let j = 0; j < cells.length; j++) {
