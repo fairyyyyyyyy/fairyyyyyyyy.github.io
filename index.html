@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Data Viewer</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>CSV Data Viewer</h2>
+
+<table id="csvTable">
+    <!-- CSV data will be inserted here dynamically -->
+</table>
+
+<script>
+    // Function to fetch and display CSV data
+    async function loadCSVData() {
+        const response = await fetch('output.csv');
+        const csvData = await response.text();
+        const rows = csvData.split('\n');
+        const table = document.getElementById('csvTable');
+
+        for (let i = 0; i < rows.length; i++) {
+            const cells = rows[i].split(',');
+            const row = table.insertRow();
+
+            for (let j = 0; j < cells.length; j++) {
+                const cell = row.insertCell();
+                cell.textContent = cells[j];
+            }
+        }
+    }
+
+    // Load CSV data when the page is loaded
+    window.onload = loadCSVData;
+</script>
+
+</body>
+</html>
