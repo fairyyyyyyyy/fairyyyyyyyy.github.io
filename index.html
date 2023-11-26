@@ -57,24 +57,33 @@
 
 <script>
     // Function to fetch and display CSV data
-    async function loadCSVData() {
-        const response = await fetch('output.csv');
-        const csvData = await response.text();
-        const rows = csvData.split('\n');
-        const table = document.getElementById('csvTable');
+    // Function to fetch and display CSV data
+async function loadCSVData() {
+    const response = await fetch('output.csv');
+    const csvData = await response.text();
+    const rows = csvData.split('\n');
+    const table = document.getElementById('csvTable');
 
-        for (let i = 0; i < rows.length; i++) {
-            const cells = rows[i].split(',');
-            if (cells.length > 1) {  // Skip rows with no data
-                const row = table.insertRow();
+    for (let i = 0; i < rows.length; i++) {
+        const cells = rows[i].split(',');
+        if (cells.length > 1) {  // Skip rows with no data
+            const row = table.insertRow();
 
-                for (let j = 0; j < cells.length; j++) {
-                    const cell = row.insertCell();
+            for (let j = 0; j < cells.length; j++) {
+                const cell = row.insertCell();
+
+                // Combine "item" entries into a single cell
+                if (cells[j] === 'item' && cells[j + 1] === 'item') {
+                    cell.textContent = 'item';
+                    j++;  // Skip the next cell to avoid duplication
+                } else {
                     cell.textContent = cells[j];
                 }
             }
         }
     }
+}
+
 
     // Load CSV data when the page is loaded
     window.onload = loadCSVData;
