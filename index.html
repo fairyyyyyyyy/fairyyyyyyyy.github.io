@@ -58,7 +58,9 @@
 
         for (let i = 0; i < rows.length; i++) {
             const cells = rows[i].split(',');
-            if (cells.length > 1) {  // Skip rows with no data
+
+            // Skip rows with incorrect number of cells
+            if (cells.length === 8) {
                 const row = table.insertRow();
 
                 for (let j = 0; j < cells.length; j++) {
