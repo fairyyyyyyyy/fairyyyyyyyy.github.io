@@ -12,14 +12,12 @@ def extract_data(line):
             'is_true': match.group(5),
             'price': match.group(6),
             'guild': match.group(7),
-            'item': match.group(8),
+            'item': match.group(8).replace(',', ''),  # Replace commas in the item field
             'details': match.group(9)
         }
     else:
         print(f"Skipped line: {line.strip()}")
         return None
-
-
 
 def main(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', newline='', encoding='utf-8') as outfile:

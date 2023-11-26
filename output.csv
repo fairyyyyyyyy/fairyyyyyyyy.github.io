@@ -69,23 +69,23 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Thonrad93,@NixNoctia,883,1700486703,false,15,akuma,Natural Water,"rr03 white normal materials potion solvent"",
 "
-@jigumiz,@Llorydian,197517,1700497567,true,20000,akuma,"Telvanni Dresser, Large Fungal","rr01 purple epic furnishings suite"",
+@jigumiz,@Llorydian,197517,1700497567,true,20000,akuma,Telvanni Dresser Large Fungal,"rr01 purple epic furnishings suite"",
 "
-@ChargeYourWeapons,@JossetteLT,197555,1699687217,true,35000,akuma,"Pattern: Necrom Bed, Elegant Single","rr01 blue superior consumable recipe"",
+@ChargeYourWeapons,@JossetteLT,197555,1699687217,true,35000,akuma,Pattern: Necrom Bed Elegant Single,"rr01 blue superior consumable recipe"",
 "
-@VanBrunt,@TemplarShadows,197558,1699668395,true,289,akuma,"Blueprint: Necrom Shelf, Elegant","rr01 green fine consumable recipe"",
+@VanBrunt,@TemplarShadows,197558,1699668395,true,289,akuma,Blueprint: Necrom Shelf Elegant,"rr01 green fine consumable recipe"",
 "
-@VanBrunt,@JossetteLT,197558,1699686788,true,289,akuma,"Blueprint: Necrom Shelf, Elegant","rr01 green fine consumable recipe"",
+@VanBrunt,@JossetteLT,197558,1699686788,true,289,akuma,Blueprint: Necrom Shelf Elegant,"rr01 green fine consumable recipe"",
 "
-@ChargeYourWeapons,@rubium,197563,1699802924,true,32000,akuma,"Blueprint: Necrom Table, Elegant Dining","rr01 blue superior consumable recipe"",
+@ChargeYourWeapons,@rubium,197563,1699802924,true,32000,akuma,Blueprint: Necrom Table Elegant Dining,"rr01 blue superior consumable recipe"",
 "
-@Remsen,@Hellraisin1,197567,1700550235,false,950,akuma,"Praxis: Necrom Lamp, Elegant","rr01 green fine consumable recipe"",
+@Remsen,@Hellraisin1,197567,1700550235,false,950,akuma,Praxis: Necrom Lamp Elegant,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@Hellraisin1,197567,1700550272,false,1000,akuma,"Praxis: Necrom Lamp, Elegant","rr01 green fine consumable recipe"",
+@SavageHoax,@Hellraisin1,197567,1700550272,false,1000,akuma,Praxis: Necrom Lamp Elegant,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@Deminia,197575,1699967220,true,750,akuma,"Praxis: Necrom Memorial, Small","rr01 green fine consumable recipe"",
+@SavageHoax,@Deminia,197575,1699967220,true,750,akuma,Praxis: Necrom Memorial Small,"rr01 green fine consumable recipe"",
 "
-@Remsen,@Cheesed_GB,197575,1700340380,false,700,akuma,"Praxis: Necrom Memorial, Small","rr01 green fine consumable recipe"",
+@Remsen,@Cheesed_GB,197575,1700340380,false,700,akuma,Praxis: Necrom Memorial Small,"rr01 green fine consumable recipe"",
 "
 @ChargeYourWeapons,@shanleyp,33752,1700012462,false,1200,akuma,Red Meat,"rr01 white normal materials ingredient"",
 "
@@ -99,13 +99,13 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Fallen_Prophet,@GenghisRon,33754,1700289895,true,60,akuma,White Meat,"rr01 white normal materials ingredient"",
 "
-@TheRealCrazyCarmela,@Cheesed_GB,197598,1700340393,false,1100,akuma,"Blueprint: Telvanni Teacup, Fungal","rr01 green fine consumable recipe"",
+@TheRealCrazyCarmela,@Cheesed_GB,197598,1700340393,false,1100,akuma,Blueprint: Telvanni Teacup Fungal,"rr01 green fine consumable recipe"",
 "
-@VanBrunt,@TemplarShadows,197603,1699668409,true,389,akuma,"Design: Telvanni Meal, Fruit Breakfast","rr01 green fine consumable recipe"",
+@VanBrunt,@TemplarShadows,197603,1699668409,true,389,akuma,Design: Telvanni Meal Fruit Breakfast,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@Deminia,197603,1699967222,true,800,akuma,"Design: Telvanni Meal, Fruit Breakfast","rr01 green fine consumable recipe"",
+@SavageHoax,@Deminia,197603,1699967222,true,800,akuma,Design: Telvanni Meal Fruit Breakfast,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@Cheesed_GB,197603,1700340383,false,800,akuma,"Design: Telvanni Meal, Fruit Breakfast","rr01 green fine consumable recipe"",
+@SavageHoax,@Cheesed_GB,197603,1700340383,false,800,akuma,Design: Telvanni Meal Fruit Breakfast,"rr01 green fine consumable recipe"",
 "
 @akwaaa,@MadamFlutterbye,33773,1700322993,true,120,akuma,Mint,"rr01 white normal materials ingredient"",
 "
@@ -119,23 +119,23 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Miserables82,@MouthForWar79,197688,1700346274,false,16000,akuma,Style Page: Sancre Tor Sentry Greatsword,"rr01 gold legendary consumable collectible"",
 "
-@vKaotic,@TemplarShadows,132167,1699668386,true,100,akuma,"Praxis: Hagraven Cauldron, Ritual","rr01 blue superior consumable recipe"",
+@vKaotic,@TemplarShadows,132167,1699668386,true,100,akuma,Praxis: Hagraven Cauldron Ritual,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@JossetteLT,132167,1699686718,true,100,akuma,"Praxis: Hagraven Cauldron, Ritual","rr01 blue superior consumable recipe"",
+@vKaotic,@JossetteLT,132167,1699686718,true,100,akuma,Praxis: Hagraven Cauldron Ritual,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@JossetteLT,132167,1699686738,true,100,akuma,"Praxis: Hagraven Cauldron, Ritual","rr01 blue superior consumable recipe"",
+@vKaotic,@JossetteLT,132167,1699686738,true,100,akuma,Praxis: Hagraven Cauldron Ritual,"rr01 blue superior consumable recipe"",
 "
-@XPhenixFireX,@Cinnadots,132196,1699419177,false,777,akuma,"Pattern: Witches Corpse, Wrapped","rr01 purple epic consumable recipe"",
+@XPhenixFireX,@Cinnadots,132196,1699419177,false,777,akuma,Pattern: Witches Corpse Wrapped,"rr01 purple epic consumable recipe"",
 "
-@vKaotic,@JossetteLT,132196,1699687013,true,500,akuma,"Pattern: Witches Corpse, Wrapped","rr01 purple epic consumable recipe"",
+@vKaotic,@JossetteLT,132196,1699687013,true,500,akuma,Pattern: Witches Corpse Wrapped,"rr01 purple epic consumable recipe"",
 "
-@Peliciano,@NixNoctia,197756,1700172485,false,7250,akuma,"Pattern: Necrom Banner, Medium Patterned","rr01 purple epic consumable recipe"",
+@Peliciano,@NixNoctia,197756,1700172485,false,7250,akuma,Pattern: Necrom Banner Medium Patterned,"rr01 purple epic consumable recipe"",
 "
-@SavageHoax,@Cheesed_GB,197763,1700340433,false,10000,akuma,"Blueprint: Wood Carving, Dog","rr01 purple epic consumable recipe"",
+@SavageHoax,@Cheesed_GB,197763,1700340433,false,10000,akuma,Blueprint: Wood Carving Dog,"rr01 purple epic consumable recipe"",
 "
-@SavageHoax,@Deminia,197766,1699967241,true,1200,akuma,"Praxis: Stone Carving, Hand","rr01 green fine consumable recipe"",
+@SavageHoax,@Deminia,197766,1699967241,true,1200,akuma,Praxis: Stone Carving Hand,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@battousaikun,197766,1700108132,true,1200,akuma,"Praxis: Stone Carving, Hand","rr01 green fine consumable recipe"",
+@SavageHoax,@battousaikun,197766,1700108132,true,1200,akuma,Praxis: Stone Carving Hand,"rr01 green fine consumable recipe"",
 "
 @Shastan,@alex_strutin,99465,1699777501,true,5000,akuma,Ring of the Order of Diagna,"cp160 purple epic jewelry apparel set order of diagna ring healthy"",
 "
@@ -147,13 +147,13 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Advoprime,@SwankyNinja98,99648,1700446976,true,3500,akuma,Spinner's Necklace,"cp160 blue superior jewelry apparel set spinner's garments neck arcane"",
 "
-@Lunareklypse,@JossetteLT,198066,1699687853,true,97850,akuma,"Praxis: Necrom Column, Tall Elegant","rr01 blue superior consumable recipe"",
+@Lunareklypse,@JossetteLT,198066,1699687853,true,97850,akuma,Praxis: Necrom Column Tall Elegant,"rr01 blue superior consumable recipe"",
 "
 @Lunareklypse,@Xenran,132543,1699817831,true,13550,akuma,Crafting Motif 54: Bloodforge Maces,"rr01 purple epic consumable motif"",
 "
 @xamich,@Holy.est,132543,1700504080,true,13000,akuma,Crafting Motif 54: Bloodforge Maces,"rr01 purple epic consumable motif"",
 "
-@bruiseman5241990,@Cheesed_GB,198081,1700340423,false,5000,akuma,"Praxis: Necrom Stairs, Inner Corner Stone","rr01 green fine consumable recipe"",
+@bruiseman5241990,@Cheesed_GB,198081,1700340423,false,5000,akuma,Praxis: Necrom Stairs Inner Corner Stone,"rr01 green fine consumable recipe"",
 "
 @Leftthesky,@Holy.est,132558,1700504092,true,45000,akuma,Crafting Motif 56: Apostle Legs,"rr01 purple epic consumable motif"",
 "
@@ -243,11 +243,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Cheesed_GB,@HeyBobbyG,34527,1700626018,true,6000,akuma,Stygian Marwoleath's Torment,"cp160 blue superior jewelry apparel set stygian ring arcane"",
 "
-@NCC-42,@Remsen,198372,1699948297,false,600,akuma,"Apocrypha Ink Bottle, Black","rr01 blue superior furnishings library"",
+@NCC-42,@Remsen,198372,1699948297,false,600,akuma,Apocrypha Ink Bottle Black,"rr01 blue superior furnishings library"",
 "
-@bruiseman5241990,@PinkKanet,198372,1700847690,true,5000,akuma,"Apocrypha Ink Bottle, Black","rr01 blue superior furnishings library"",
+@bruiseman5241990,@PinkKanet,198372,1700847690,true,5000,akuma,Apocrypha Ink Bottle Black,"rr01 blue superior furnishings library"",
 "
-@bruiseman5241990,@Blood-Eye,198377,1700299397,true,2500,akuma,"Apocrypha Ink Jar, Black","rr01 blue superior furnishings library"",
+@bruiseman5241990,@Blood-Eye,198377,1700299397,true,2500,akuma,Apocrypha Ink Jar Black,"rr01 blue superior furnishings library"",
 "
 @Shastan,@DerAlleinTiger,198379,1699944687,true,3500,akuma,Apocrypha Inkwell,"rr01 blue superior furnishings library"",
 "
@@ -263,45 +263,45 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @EtedZ,@drpeppermd87,198379,1700941366,true,1000,akuma,Apocrypha Inkwell,"rr01 blue superior furnishings library"",
 "
-@flikao,@spookybishh,198381,1699484224,true,6400,akuma,"Apocrypha Ink Pestle, Green","rr01 green fine furnishings library"",
+@flikao,@spookybishh,198381,1699484224,true,6400,akuma,Apocrypha Ink Pestle Green,"rr01 green fine furnishings library"",
 "
-@GOPNICK,@Aeonstar,198381,1700633543,true,3000,akuma,"Apocrypha Ink Pestle, Green","rr01 green fine furnishings library"",
+@GOPNICK,@Aeonstar,198381,1700633543,true,3000,akuma,Apocrypha Ink Pestle Green,"rr01 green fine furnishings library"",
 "
-@SciFiFantasy2002,@siriussilver,198381,1700760549,true,3000,akuma,"Apocrypha Ink Pestle, Green","rr01 green fine furnishings library"",
+@SciFiFantasy2002,@siriussilver,198381,1700760549,true,3000,akuma,Apocrypha Ink Pestle Green,"rr01 green fine furnishings library"",
 "
-@SciFiFantasy2002,@EntropicSoul,198382,1699967829,true,35000,akuma,"Apocrypha Specimen Jar, Brains","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@EntropicSoul,198382,1699967829,true,35000,akuma,Apocrypha Specimen Jar Brains,"rr01 purple epic furnishings undercroft"",
 "
-@SciFiFantasy2002,@EntropicSoul,198382,1699967932,true,35000,akuma,"Apocrypha Specimen Jar, Brains","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@EntropicSoul,198382,1699967932,true,35000,akuma,Apocrypha Specimen Jar Brains,"rr01 purple epic furnishings undercroft"",
 "
-@SciFiFantasy2002,@EntropicSoul,198382,1699967934,true,35000,akuma,"Apocrypha Specimen Jar, Brains","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@EntropicSoul,198382,1699967934,true,35000,akuma,Apocrypha Specimen Jar Brains,"rr01 purple epic furnishings undercroft"",
 "
-@SciFiFantasy2002,@EntropicSoul,198382,1699967935,true,35000,akuma,"Apocrypha Specimen Jar, Brains","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@EntropicSoul,198382,1699967935,true,35000,akuma,Apocrypha Specimen Jar Brains,"rr01 purple epic furnishings undercroft"",
 "
-@Dwight3,@kolimiasteve,198382,1700463129,true,20000,akuma,"Apocrypha Specimen Jar, Brains","rr01 purple epic furnishings undercroft"",
+@Dwight3,@kolimiasteve,198382,1700463129,true,20000,akuma,Apocrypha Specimen Jar Brains,"rr01 purple epic furnishings undercroft"",
 "
-@EtedZ,@Newt711,198385,1700828512,true,8000,akuma,"Apocrypha Specimen Jar, Abyssal Eel","rr01 purple epic furnishings undercroft"",
+@EtedZ,@Newt711,198385,1700828512,true,8000,akuma,Apocrypha Specimen Jar Abyssal Eel,"rr01 purple epic furnishings undercroft"",
 "
-@ChargeYourWeapons,@gloomspore,198386,1699934350,true,9000,akuma,"Apocrypha Specimen Jar, Eyes","rr01 purple epic furnishings undercroft"",
+@ChargeYourWeapons,@gloomspore,198386,1699934350,true,9000,akuma,Apocrypha Specimen Jar Eyes,"rr01 purple epic furnishings undercroft"",
 "
-@SciFiFantasy2002,@Remsen,198386,1699948275,false,16000,akuma,"Apocrypha Specimen Jar, Eyes","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@Remsen,198386,1699948275,false,16000,akuma,Apocrypha Specimen Jar Eyes,"rr01 purple epic furnishings undercroft"",
 "
-@SciFiFantasy2002,@Remsen,198386,1699948275,false,16000,akuma,"Apocrypha Specimen Jar, Eyes","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@Remsen,198386,1699948275,false,16000,akuma,Apocrypha Specimen Jar Eyes,"rr01 purple epic furnishings undercroft"",
 "
-@SciFiFantasy2002,@Remsen,198386,1699948276,false,16000,akuma,"Apocrypha Specimen Jar, Eyes","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@Remsen,198386,1699948276,false,16000,akuma,Apocrypha Specimen Jar Eyes,"rr01 purple epic furnishings undercroft"",
 "
-@SciFiFantasy2002,@Remsen,198389,1699948159,false,22000,akuma,"Apocrypha Specimen Jar, Spider","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@Remsen,198389,1699948159,false,22000,akuma,Apocrypha Specimen Jar Spider,"rr01 purple epic furnishings undercroft"",
 "
-@SciFiFantasy2002,@Remsen,198389,1699948160,false,22000,akuma,"Apocrypha Specimen Jar, Spider","rr01 purple epic furnishings undercroft"",
+@SciFiFantasy2002,@Remsen,198389,1699948160,false,22000,akuma,Apocrypha Specimen Jar Spider,"rr01 purple epic furnishings undercroft"",
 "
 @RajputLancer,@Doomsar,1783,1700308969,true,171,akuma,Barkbite Breastplate,"cp160 green fine heavy apparel chest impenetrable"",
 "
-@baneheart,@shy-robot,198455,1699884378,true,18000,akuma,"Necrom Vase, Small Square Floral","rr01 green fine furnishings parlor"",
+@baneheart,@shy-robot,198455,1699884378,true,18000,akuma,Necrom Vase Small Square Floral,"rr01 green fine furnishings parlor"",
 "
-@bruiseman5241990,@Cheesed_GB,198514,1700340446,false,15000,akuma,"Pattern: Apocrypha Book Pile, Short","rr01 green fine consumable recipe"",
+@bruiseman5241990,@Cheesed_GB,198514,1700340446,false,15000,akuma,Pattern: Apocrypha Book Pile Short,"rr01 green fine consumable recipe"",
 "
 @ChargeYourWeapons,@JossetteLT,198516,1699687877,true,150000,akuma,Praxis: Paper Making Frame,"rr01 blue superior consumable recipe"",
 "
-@Lunareklypse,@JossetteLT,198544,1699687192,true,26850,akuma,"Design: Necrom Candle, Elegant","rr01 green fine consumable recipe"",
+@Lunareklypse,@JossetteLT,198544,1699687192,true,26850,akuma,Design: Necrom Candle Elegant,"rr01 green fine consumable recipe"",
 "
 @AVENFATE,@OnionBiscuit,133100,1700866739,false,9000,akuma,Belt of Unfathomable Darkness,"cp160 purple epic medium apparel set unfathomable darkness waist well-fitted"",
 "
@@ -521,11 +521,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @BlindLittleMole,@Hidraxkiller,166704,1699811010,true,8000,akuma,Cartographer's Boots,"rr01 purple epic consumable trophy"",
 "
-@SavageHoax,@Cheesed_GB,166737,1700340399,false,4000,akuma,"Blueprint: Vampiric Bookcase, Arched","rr01 blue superior consumable recipe"",
+@SavageHoax,@Cheesed_GB,166737,1700340399,false,4000,akuma,Blueprint: Vampiric Bookcase Arched,"rr01 blue superior consumable recipe"",
 "
-@SavageHoax,@Nongmicro,166747,1699962639,true,2500,akuma,"Blueprint: Vampiric Sideboard, Long","rr01 blue superior consumable recipe"",
+@SavageHoax,@Nongmicro,166747,1699962639,true,2500,akuma,Blueprint: Vampiric Sideboard Long,"rr01 blue superior consumable recipe"",
 "
-@Peliciano,@UmbralCalamity,166764,1700297726,true,2275,akuma,"Pattern: Vampiric Drapes, Pulled Back","rr01 blue superior consumable recipe"",
+@Peliciano,@UmbralCalamity,166764,1700297726,true,2275,akuma,Pattern: Vampiric Drapes Pulled Back,"rr01 blue superior consumable recipe"",
 "
 @Mystic.legend,@Skol_Greybeard,68492,1700838099,true,71000,akuma,Briarheart Boots,"cp160 purple epic medium apparel set briarheart feet divines"",
 "
@@ -535,11 +535,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Rt_GearZ,@leogcalex,68494,1700670378,true,15000,akuma,Briarheart Helmet,"cp160 blue superior medium apparel set briarheart head divines"",
 "
-@Ozzy29,@Savageprincess,166804,1700547029,true,3100,akuma,"Blueprint: Solitude Barstool, Wood","rr01 green fine consumable recipe"",
+@Ozzy29,@Savageprincess,166804,1700547029,true,3100,akuma,Blueprint: Solitude Barstool Wood,"rr01 green fine consumable recipe"",
 "
 @Argorious,@Vivii,68514,1700635323,true,1500,akuma,Briarheart Boots,"cp160 green fine medium apparel set briarheart feet reinforced"",
 "
-@MissDollypop,@Ardonye,166889,1700631702,true,18000,akuma,"Pattern: Solitude Bed, Rustic Cowhide Double","rr01 blue superior consumable recipe"",
+@MissDollypop,@Ardonye,166889,1700631702,true,18000,akuma,Pattern: Solitude Bed Rustic Cowhide Double,"rr01 blue superior consumable recipe"",
 "
 @Feiticeiraa,@bliss_abyss,199699,1700946121,true,20000,akuma,Battle Axe of Vicious Death,"cp160 purple epic weapon set vicious death axe two-handed charged"",
 "
@@ -577,9 +577,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @HappySuccubus,@FluffyPinkCloud,167217,1700256795,true,10000,akuma,Style Page: Sovngarde Stalwart Bracers,"rr01 gold legendary consumable collectible"",
 "
-@SavageHoax,@Deminia,134478,1699967251,true,5000,akuma,"Formula: Fabricant Saplings, Electrum","rr01 green fine consumable recipe"",
+@SavageHoax,@Deminia,134478,1699967251,true,5000,akuma,Formula: Fabricant Saplings Electrum,"rr01 green fine consumable recipe"",
 "
-@MissDollypop,@Elnynd,134479,1700625391,true,9500,akuma,"Formula: Fabricant Tree, Electrum","rr01 blue superior consumable recipe"",
+@MissDollypop,@Elnynd,134479,1700625391,true,9500,akuma,Formula: Fabricant Tree Electrum,"rr01 blue superior consumable recipe"",
 "
 @VanBrunt,@Bleztor,167250,1699822609,false,289,akuma,Style Page: Grave Dancer Mace,"rr01 gold legendary consumable collectible"",
 "
@@ -595,9 +595,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @ChaotixDemon,@Coconut42Nd,167262,1700780001,true,300,akuma,Style Page: Grave Dancer Axe,"rr01 gold legendary consumable collectible"",
 "
-@dawnarhinni,@Llorydian,134522,1700536786,true,2500,akuma,"Design: Clockwork Goblet, Recycled Water","rr01 blue superior consumable recipe"",
+@dawnarhinni,@Llorydian,134522,1700536786,true,2500,akuma,Design: Clockwork Goblet Recycled Water,"rr01 blue superior consumable recipe"",
 "
-@GrabbersDivinity,@WeWithACatHat,134526,1700771904,true,1500,akuma,"Design: Clockwork Meal, Dish","rr01 blue superior consumable recipe"",
+@GrabbersDivinity,@WeWithACatHat,134526,1700771904,true,1500,akuma,Design: Clockwork Meal Dish,"rr01 blue superior consumable recipe"",
 "
 @AVENFATE,@Izod3624,69071,1699884721,true,1800,akuma,Lightning Staff of Endurance,"cp160 purple epic weapon set endurance lightning staff two-handed infused"",
 "
@@ -659,7 +659,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @SeuJose,@pewterskier,69377,1699832900,false,1400,akuma,Greatsword of Agility,"cp160 purple epic weapon set agility sword two-handed training"",
 "
-@lubasik,@Blood-Eye,134914,1700299452,true,900,akuma,"Mushrooms, Large Puspocket Cluster","rr01 blue superior furnishings conservatory"",
+@lubasik,@Blood-Eye,134914,1700299452,true,900,akuma,Mushrooms Large Puspocket Cluster,"rr01 blue superior furnishings conservatory"",
 "
 @Evilpookie,@Mayev38,69385,1700535983,true,2000,akuma,Ring of Agility,"rr38 blue superior jewelry apparel set agility ring healthy"",
 "
@@ -673,7 +673,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Domiforu,@LuciButters,102170,1700944472,false,2000,akuma,Stygian Guards,"cp160 blue superior medium apparel set stygian legs impenetrable"",
 "
-@EuphoricWizard,@StretchyPants,134999,1700764795,true,34000,akuma,"Praxis: Table, Blackmarrow Slab","rr01 purple epic consumable recipe"",
+@EuphoricWizard,@StretchyPants,134999,1700764795,true,34000,akuma,Praxis: Table Blackmarrow Slab,"rr01 purple epic consumable recipe"",
 "
 @Peliciano,@Ardonye,69531,1700643296,true,100000,akuma,Crafting Motif 21: Ancient Orc Bows,"rr01 purple epic consumable motif"",
 "
@@ -1219,19 +1219,19 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @bugwithaknife,@RegulusMagnus,170215,1700077057,true,15000,akuma,Style Page: Doctrine Ordinator Girdle,"rr01 gold legendary consumable collectible"",
 "
-@Peliciano,@Samarn,203206,1700193836,true,17500,akuma,"Apocrypha Pipe, Medium","rr01 blue superior furnishings structures"",
+@Peliciano,@Samarn,203206,1700193836,true,17500,akuma,Apocrypha Pipe Medium,"rr01 blue superior furnishings structures"",
 "
-@ChargeYourWeapons,@tru418,203208,1699732676,true,20000,akuma,"Apocrypha Pipe, Small","rr01 blue superior furnishings structures"",
+@ChargeYourWeapons,@tru418,203208,1699732676,true,20000,akuma,Apocrypha Pipe Small,"rr01 blue superior furnishings structures"",
 "
-@ChargeYourWeapons,@Saikom,203209,1699716541,true,6000,akuma,"Apocrypha Spike, Tall","rr01 green fine furnishings courtyard"",
+@ChargeYourWeapons,@Saikom,203209,1699716541,true,6000,akuma,Apocrypha Spike Tall,"rr01 green fine furnishings courtyard"",
 "
-@bruiseman5241990,@S3N70R,203209,1700581870,true,2500,akuma,"Apocrypha Spike, Tall","rr01 green fine furnishings courtyard"",
+@bruiseman5241990,@S3N70R,203209,1700581870,true,2500,akuma,Apocrypha Spike Tall,"rr01 green fine furnishings courtyard"",
 "
-@bruiseman5241990,@S3N70R,203209,1700581871,true,2500,akuma,"Apocrypha Spike, Tall","rr01 green fine furnishings courtyard"",
+@bruiseman5241990,@S3N70R,203209,1700581871,true,2500,akuma,Apocrypha Spike Tall,"rr01 green fine furnishings courtyard"",
 "
-@bruiseman5241990,@S3N70R,203210,1700581872,true,2000,akuma,"Apocrypha Spike, Curved","rr01 green fine furnishings courtyard"",
+@bruiseman5241990,@S3N70R,203210,1700581872,true,2000,akuma,Apocrypha Spike Curved,"rr01 green fine furnishings courtyard"",
 "
-@bruiseman5241990,@S3N70R,203210,1700581872,true,2000,akuma,"Apocrypha Spike, Curved","rr01 green fine furnishings courtyard"",
+@bruiseman5241990,@S3N70R,203210,1700581872,true,2000,akuma,Apocrypha Spike Curved,"rr01 green fine furnishings courtyard"",
 "
 @ChargeYourWeapons,@Samarn,203211,1700193828,true,14900,akuma,Apocrypha Crescent,"rr01 blue superior furnishings courtyard"",
 "
@@ -1463,11 +1463,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @NoPantsStan,@GridicA,139016,1699728184,true,37500,akuma,Artaeum Pickled Fish Bowl,"rr01 purple epic consumable food"",
 "
-@dawnarhinni,@Elnynd,171797,1700625425,true,12000,akuma,"Praxis: Markarth Walkway, Stone","rr01 green fine consumable recipe"",
+@dawnarhinni,@Elnynd,171797,1700625425,true,12000,akuma,Praxis: Markarth Walkway Stone,"rr01 green fine consumable recipe"",
 "
-@Marinola,@Aquinor,171824,1700506978,true,50,akuma,"Mushroom, Tufted Cap","rr01 blue superior furnishings conservatory"",
+@Marinola,@Aquinor,171824,1700506978,true,50,akuma,Mushroom Tufted Cap,"rr01 blue superior furnishings conservatory"",
 "
-@Gav9n,@kannarius,139070,1700040262,true,65000,akuma,"Painting of College of the Sapiarchs, Refined","rr01 purple epic furnishings gallery"",
+@Gav9n,@kannarius,139070,1700040262,true,65000,akuma,Painting of College of the Sapiarchs Refined,"rr01 purple epic furnishings gallery"",
 "
 @LionOfJustice,@MaximusGiganticus,171879,1700439859,true,7500,akuma,Crafting Motif 103: Black Fin Legion Axes,"rr01 purple epic consumable motif"",
 "
@@ -2017,27 +2017,27 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Orishan,@width,42868,1699941442,false,20000,akuma,Longfin,"rr01 white normal consumable fish"",
 "
-@Fallen_Prophet,@Frankze,42869,1700316099,true,200,akuma,"Worms, Saltwater Bait","rr01 white normal miscellaneous lure"",
+@Fallen_Prophet,@Frankze,42869,1700316099,true,200,akuma,Worms Saltwater Bait,"rr01 white normal miscellaneous lure"",
 "
-@shanleyp,@ChristoVarian,42869,1700365174,false,1278,akuma,"Worms, Saltwater Bait","rr01 white normal miscellaneous lure"",
+@shanleyp,@ChristoVarian,42869,1700365174,false,1278,akuma,Worms Saltwater Bait,"rr01 white normal miscellaneous lure"",
 "
-@Eriodas,@ButterflyGirlie,42869,1700675102,true,14000,akuma,"Worms, Saltwater Bait","rr01 white normal miscellaneous lure"",
+@Eriodas,@ButterflyGirlie,42869,1700675102,true,14000,akuma,Worms Saltwater Bait,"rr01 white normal miscellaneous lure"",
 "
-@Fallen_Prophet,@Frankze,42870,1700316096,true,9,akuma,"Guts, Lake Bait","rr01 white normal miscellaneous lure"",
+@Fallen_Prophet,@Frankze,42870,1700316096,true,9,akuma,Guts Lake Bait,"rr01 white normal miscellaneous lure"",
 "
-@Erkla,@AzurasGuidance,42870,1700316438,true,7200,akuma,"Guts, Lake Bait","rr01 white normal miscellaneous lure"",
+@Erkla,@AzurasGuidance,42870,1700316438,true,7200,akuma,Guts Lake Bait,"rr01 white normal miscellaneous lure"",
 "
-@Erkla,@AzurasGuidance,42870,1700316439,true,7200,akuma,"Guts, Lake Bait","rr01 white normal miscellaneous lure"",
+@Erkla,@AzurasGuidance,42870,1700316439,true,7200,akuma,Guts Lake Bait,"rr01 white normal miscellaneous lure"",
 "
-@NixNoctia,@Klassical,42870,1700656028,true,12999,akuma,"Guts, Lake Bait","rr01 white normal miscellaneous lure"",
+@NixNoctia,@Klassical,42870,1700656028,true,12999,akuma,Guts Lake Bait,"rr01 white normal miscellaneous lure"",
 "
-@SphinxReverie,@Klassical,42870,1700656030,true,15000,akuma,"Guts, Lake Bait","rr01 white normal miscellaneous lure"",
+@SphinxReverie,@Klassical,42870,1700656030,true,15000,akuma,Guts Lake Bait,"rr01 white normal miscellaneous lure"",
 "
-@Jetchi,@squallsakura,42871,1700011841,true,54,akuma,"Crawlers, Foul Bait","rr01 white normal miscellaneous lure"",
+@Jetchi,@squallsakura,42871,1700011841,true,54,akuma,Crawlers Foul Bait,"rr01 white normal miscellaneous lure"",
 "
-@Primehunter501,@Frankze,42871,1700316071,true,160,akuma,"Crawlers, Foul Bait","rr01 white normal miscellaneous lure"",
+@Primehunter501,@Frankze,42871,1700316071,true,160,akuma,Crawlers Foul Bait,"rr01 white normal miscellaneous lure"",
 "
-@Primehunter501,@Frankze,42871,1700316163,true,103,akuma,"Crawlers, Foul Bait","rr01 white normal miscellaneous lure"",
+@Primehunter501,@Frankze,42871,1700316163,true,103,akuma,Crawlers Foul Bait,"rr01 white normal miscellaneous lure"",
 "
 @shane1395,@Doomsar,42978,1700308905,true,2500,akuma,Vampire Lord's Cold-Bite,"cp160 purple epic weapon set vampire lord sword two-handed precise"",
 "
@@ -2237,7 +2237,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @ashbellgames,@GunsmokePhoenix,175551,1700763381,true,9000,akuma,Blackwood Treasure Map V,"rr01 blue superior miscellaneous trophy"",
 "
-@MidasTouch21,@Oakberry,175691,1700314707,true,5000,akuma,"Leyawiin Canopy, Merchant","rr01 green fine furnishings structures"",
+@MidasTouch21,@Oakberry,175691,1700314707,true,5000,akuma,Leyawiin Canopy Merchant,"rr01 green fine furnishings structures"",
 "
 @dg1219,@rymach1,77406,1700516560,true,87,akuma,Sithis' Bracers,"cp160 green fine medium apparel set sithis' touch hands impenetrable"",
 "
@@ -2315,79 +2315,79 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @IsharaMeradin-Epic,@Trukimus,175912,1700745670,true,108,akuma,Companion's Restoration Staff,"rr01 purple epic weapon healing staff two-handed quickened"",
 "
-@Banshee_44,@yaharghoul,175920,1700879275,true,5000,akuma,"Blueprint: Leyawiin Cabinet, Sturdy","rr01 blue superior consumable recipe"",
+@Banshee_44,@yaharghoul,175920,1700879275,true,5000,akuma,Blueprint: Leyawiin Cabinet Sturdy,"rr01 blue superior consumable recipe"",
 "
-@Bobthedead,@Rioltan,175925,1700928993,true,7000,akuma,"Blueprint: Leyawiin Bookcase, Tall","rr01 blue superior consumable recipe"",
+@Bobthedead,@Rioltan,175925,1700928993,true,7000,akuma,Blueprint: Leyawiin Bookcase Tall,"rr01 blue superior consumable recipe"",
 "
-@SothaTeleferi,@MungoJeri,175927,1700934027,true,4850,akuma,"Blueprint: Leyawiin Bookcase, Narrow","rr01 blue superior consumable recipe"",
+@SothaTeleferi,@MungoJeri,175927,1700934027,true,4850,akuma,Blueprint: Leyawiin Bookcase Narrow,"rr01 blue superior consumable recipe"",
 "
-@Banshee_44,@Remsen,175933,1700544194,false,25000,akuma,"Pattern: Leyawiin Tapestry, Floral","rr01 purple epic consumable recipe"",
+@Banshee_44,@Remsen,175933,1700544194,false,25000,akuma,Pattern: Leyawiin Tapestry Floral,"rr01 purple epic consumable recipe"",
 "
-@Gav9n,@freckles75,175937,1700275871,true,2000,akuma,"Pattern: Leyawiin Tapestry, Fleet","rr01 purple epic consumable recipe"",
+@Gav9n,@freckles75,175937,1700275871,true,2000,akuma,Pattern: Leyawiin Tapestry Fleet,"rr01 purple epic consumable recipe"",
 "
-@gretler,@kamil.targaryen,175943,1700890439,true,7000,akuma,"Blueprint: Leyawiin End Table, Formal Round","rr01 blue superior consumable recipe"",
+@gretler,@kamil.targaryen,175943,1700890439,true,7000,akuma,Blueprint: Leyawiin End Table Formal Round,"rr01 blue superior consumable recipe"",
 "
-@Sanadora,@TheSquidychicken,175945,1700729159,true,200,akuma,"Blueprint: Leyawiin Table, Sturdy Square","rr01 green fine consumable recipe"",
+@Sanadora,@TheSquidychicken,175945,1700729159,true,200,akuma,Blueprint: Leyawiin Table Sturdy Square,"rr01 green fine consumable recipe"",
 "
 @Vaelfear,@Lyranis.Raine,44878,1700600511,false,180,akuma,Greater Repair Kit,"rr40 green fine consumable tool"",
 "
-@Banshee_44,@Instantlyseveresheep,175951,1700634260,true,15000,akuma,"Blueprint: Leyawiin Nightstand, Formal","rr01 blue superior consumable recipe"",
+@Banshee_44,@Instantlyseveresheep,175951,1700634260,true,15000,akuma,Blueprint: Leyawiin Nightstand Formal,"rr01 blue superior consumable recipe"",
 "
-@sconeindygw,@SavageHoax,175955,1700837082,false,8000,akuma,"Blueprint: Leyawiin Armchair, Backless","rr01 blue superior consumable recipe"",
+@sconeindygw,@SavageHoax,175955,1700837082,false,8000,akuma,Blueprint: Leyawiin Armchair Backless,"rr01 blue superior consumable recipe"",
 "
-@shanleyp,@Halewalnut,175958,1700911636,true,50000,akuma,"Blueprint: Leyawiin Bench, Cushioned Wide","rr01 purple epic consumable recipe"",
+@shanleyp,@Halewalnut,175958,1700911636,true,50000,akuma,Blueprint: Leyawiin Bench Cushioned Wide,"rr01 purple epic consumable recipe"",
 "
-@sconeindygw,@SavageHoax,175959,1700837084,false,8000,akuma,"Blueprint: Leyawiin Bench, Formal Wide","rr01 blue superior consumable recipe"",
+@sconeindygw,@SavageHoax,175959,1700837084,false,8000,akuma,Blueprint: Leyawiin Bench Formal Wide,"rr01 blue superior consumable recipe"",
 "
-@sconeindygw,@Rioltan,175959,1700929005,true,8000,akuma,"Blueprint: Leyawiin Bench, Formal Wide","rr01 blue superior consumable recipe"",
+@sconeindygw,@Rioltan,175959,1700929005,true,8000,akuma,Blueprint: Leyawiin Bench Formal Wide,"rr01 blue superior consumable recipe"",
 "
-@Akire2626,@Skessel,175963,1700283490,true,10000,akuma,"Blueprint: Leyawiin Trunk, Carved Octad","rr01 blue superior consumable recipe"",
+@Akire2626,@Skessel,175963,1700283490,true,10000,akuma,Blueprint: Leyawiin Trunk Carved Octad,"rr01 blue superior consumable recipe"",
 "
-@blazblue14589,@Elnynd,175965,1700625380,true,10000,akuma,"Blueprint: Leyawiin Streetlight, Carved Waves","rr01 blue superior consumable recipe"",
+@blazblue14589,@Elnynd,175965,1700625380,true,10000,akuma,Blueprint: Leyawiin Streetlight Carved Waves,"rr01 blue superior consumable recipe"",
 "
-@Argorious,@Ardonye,175977,1700631706,true,20000,akuma,"Praxis: Leyawiin Firepit, Stone","rr01 blue superior consumable recipe"",
+@Argorious,@Ardonye,175977,1700631706,true,20000,akuma,Praxis: Leyawiin Firepit Stone,"rr01 blue superior consumable recipe"",
 "
-@Banshee_44,@Zzmonsoon,175980,1700873373,true,5000,akuma,"Diagram: Leyawiin Chandelier, Twin Lanterns","rr01 blue superior consumable recipe"",
+@Banshee_44,@Zzmonsoon,175980,1700873373,true,5000,akuma,Diagram: Leyawiin Chandelier Twin Lanterns,"rr01 blue superior consumable recipe"",
 "
-@sconeindygw,@Rioltan,175981,1700928945,true,250,akuma,"Blueprint: Leyawiin Divider, Sturdy","rr01 green fine consumable recipe"",
+@sconeindygw,@Rioltan,175981,1700928945,true,250,akuma,Blueprint: Leyawiin Divider Sturdy,"rr01 green fine consumable recipe"",
 "
-@jigumiz,@Remsen,175989,1700544165,false,4500,akuma,"Pattern: Leyawiin Basket, Hamper Wide","rr01 blue superior consumable recipe"",
+@jigumiz,@Remsen,175989,1700544165,false,4500,akuma,Pattern: Leyawiin Basket Hamper Wide,"rr01 blue superior consumable recipe"",
 "
-@Mysteria295,@Oh_Pusit,175990,1700493787,true,813,akuma,"Pattern: Leyawiin Basket, Open","rr01 green fine consumable recipe"",
+@Mysteria295,@Oh_Pusit,175990,1700493787,true,813,akuma,Pattern: Leyawiin Basket Open,"rr01 green fine consumable recipe"",
 "
-@jigumiz,@hcollins222,175997,1700911264,true,6000,akuma,"Praxis: Leyawiin Pot, Waves","rr01 blue superior consumable recipe"",
+@jigumiz,@hcollins222,175997,1700911264,true,6000,akuma,Praxis: Leyawiin Pot Waves,"rr01 blue superior consumable recipe"",
 "
-@MouthForWar79,@Llorydian,175998,1700536614,true,444,akuma,"Praxis: Leyawiin Pot, Wide","rr01 green fine consumable recipe"",
+@MouthForWar79,@Llorydian,175998,1700536614,true,444,akuma,Praxis: Leyawiin Pot Wide,"rr01 green fine consumable recipe"",
 "
-@Sanadora,@TheSquidychicken,175998,1700729156,true,225,akuma,"Praxis: Leyawiin Pot, Wide","rr01 green fine consumable recipe"",
+@Sanadora,@TheSquidychicken,175998,1700729156,true,225,akuma,Praxis: Leyawiin Pot Wide,"rr01 green fine consumable recipe"",
 "
-@Bobthedead,@Rioltan,176000,1700928924,true,10000,akuma,"Praxis: Leyawiin Potted Plant, Aspen Sapling","rr01 blue superior consumable recipe"",
+@Bobthedead,@Rioltan,176000,1700928924,true,10000,akuma,Praxis: Leyawiin Potted Plant Aspen Sapling,"rr01 blue superior consumable recipe"",
 "
-@iamagear0,@Llorydian,176004,1700536657,true,600,akuma,"Design: Leyawiin Teacup, Full","rr01 green fine consumable recipe"",
+@iamagear0,@Llorydian,176004,1700536657,true,600,akuma,Design: Leyawiin Teacup Full,"rr01 green fine consumable recipe"",
 "
-@Banshee_44,@SavageHoax,176005,1700837057,false,5000,akuma,"Design: Leyawiin Kylix, Silver","rr01 blue superior consumable recipe"",
+@Banshee_44,@SavageHoax,176005,1700837057,false,5000,akuma,Design: Leyawiin Kylix Silver,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@Llorydian,176006,1700536637,true,500,akuma,"Design: Leyawiin Tomatoes, Vine","rr01 green fine consumable recipe"",
+@vKaotic,@Llorydian,176006,1700536637,true,500,akuma,Design: Leyawiin Tomatoes Vine,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Llorydian,176007,1700536584,true,300,akuma,"Design: Leyawiin Corncobs, Triple","rr01 green fine consumable recipe"",
+@vKaotic,@Llorydian,176007,1700536584,true,300,akuma,Design: Leyawiin Corncobs Triple,"rr01 green fine consumable recipe"",
 "
-@Linknerevar,@Hellraisin1,176007,1700550096,false,550,akuma,"Design: Leyawiin Corncobs, Triple","rr01 green fine consumable recipe"",
+@Linknerevar,@Hellraisin1,176007,1700550096,false,550,akuma,Design: Leyawiin Corncobs Triple,"rr01 green fine consumable recipe"",
 "
-@Banshee_44,@caspercross,176010,1700616079,true,7000,akuma,"Design: Leyawiin Bowl, Lobster Stew","rr01 blue superior consumable recipe"",
+@Banshee_44,@caspercross,176010,1700616079,true,7000,akuma,Design: Leyawiin Bowl Lobster Stew,"rr01 blue superior consumable recipe"",
 "
-@Sanadora,@TheSquidychicken,176010,1700729153,true,3000,akuma,"Design: Leyawiin Bowl, Lobster Stew","rr01 blue superior consumable recipe"",
+@Sanadora,@TheSquidychicken,176010,1700729153,true,3000,akuma,Design: Leyawiin Bowl Lobster Stew,"rr01 blue superior consumable recipe"",
 "
-@Linknerevar,@caspercross,176012,1700616112,true,11500,akuma,"Design: Leyawiin Meal, Octopus","rr01 blue superior consumable recipe"",
+@Linknerevar,@caspercross,176012,1700616112,true,11500,akuma,Design: Leyawiin Meal Octopus,"rr01 blue superior consumable recipe"",
 "
-@jigumiz,@Savageprincess,176020,1700547226,true,10000,akuma,"Blueprint: Leyawiin Plates, Stack","rr01 blue superior consumable recipe"",
+@jigumiz,@Savageprincess,176020,1700547226,true,10000,akuma,Blueprint: Leyawiin Plates Stack,"rr01 blue superior consumable recipe"",
 "
-@TheRealCrazyCarmela,@Llorydian,176023,1700536651,true,545,akuma,"Pattern: Leyawiin Canopy, Merchant","rr01 green fine consumable recipe"",
+@TheRealCrazyCarmela,@Llorydian,176023,1700536651,true,545,akuma,Pattern: Leyawiin Canopy Merchant,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@Savageprincess,176023,1700547357,true,1111,akuma,"Pattern: Leyawiin Canopy, Merchant","rr01 green fine consumable recipe"",
+@MouthForWar79,@Savageprincess,176023,1700547357,true,1111,akuma,Pattern: Leyawiin Canopy Merchant,"rr01 green fine consumable recipe"",
 "
-@sconeindygw,@Rioltan,176026,1700928973,true,5000,akuma,"Blueprint: Leyawiin Ox Cart, Sturdy","rr01 blue superior consumable recipe"",
+@sconeindygw,@Rioltan,176026,1700928973,true,5000,akuma,Blueprint: Leyawiin Ox Cart Sturdy,"rr01 blue superior consumable recipe"",
 "
-@Bobthedead,@yaharghoul,176031,1700946456,true,14000,akuma,"Blueprint: Deadlands Table, Ashen","rr01 blue superior consumable recipe"",
+@Bobthedead,@yaharghoul,176031,1700946456,true,14000,akuma,Blueprint: Deadlands Table Ashen,"rr01 blue superior consumable recipe"",
 "
 @dingidongo,@Rahzetta,176058,1700599595,true,19999,akuma,Crafting Motif 105: Crimson Oath Axes,"rr01 purple epic consumable motif"",
 "
@@ -3125,19 +3125,19 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Mystic.legend,@CapableDad,79441,1700860984,true,250,akuma,Maul of Trinimac's Valor,"cp160 blue superior weapon set trinimac's valor mace two-handed precise"",
 "
-@flikao,@dyanle,145317,1699499305,true,6900,akuma,"Gravestone, Broken","rr01 green fine furnishings undercroft"",
+@flikao,@dyanle,145317,1699499305,true,6900,akuma,Gravestone Broken,"rr01 green fine furnishings undercroft"",
 "
-@flikao,@dyanle,145318,1699499304,true,7000,akuma,"Gravestone, Small Broken","rr01 green fine furnishings undercroft"",
+@flikao,@dyanle,145318,1699499304,true,7000,akuma,Gravestone Small Broken,"rr01 green fine furnishings undercroft"",
 "
-@ChargeYourWeapons,@MorbidDreams1,145362,1699853205,true,140000,akuma,"Murkmire Lamp, Hanging Bottle","rr01 blue superior furnishings lighting"",
+@ChargeYourWeapons,@MorbidDreams1,145362,1699853205,true,140000,akuma,Murkmire Lamp Hanging Bottle,"rr01 blue superior furnishings lighting"",
 "
-@Marinola,@Aquinor,145474,1700506982,true,50,akuma,"Plant, Flytrap","rr01 blue superior furnishings conservatory"",
+@Marinola,@Aquinor,145474,1700506982,true,50,akuma,Plant Flytrap,"rr01 blue superior furnishings conservatory"",
 "
 @Fallen_Prophet,@MaximusGiganticus,145532,1700440354,true,1000,akuma,Crocodile Leather,"rr01 white normal materials style"",
 "
-@chesscat,@Remsen,178443,1700544249,false,20000,akuma,"Path of Eternity Painting, Wood","rr01 purple epic furnishings gallery"",
+@chesscat,@Remsen,178443,1700544249,false,20000,akuma,Path of Eternity Painting Wood,"rr01 purple epic furnishings gallery"",
 "
-@ChristoVarian,@Remsen,178444,1700452864,false,12000,akuma,"A Study in Structure Painting, Wood","rr01 purple epic furnishings gallery"",
+@ChristoVarian,@Remsen,178444,1700452864,false,12000,akuma,A Study in Structure Painting Wood,"rr01 purple epic furnishings gallery"",
 "
 @FNX2000,@Morrighan2112,178462,1700547387,true,22000,akuma,Inscribed Shard,"rr01 purple epic consumable trophy"",
 "
@@ -3195,7 +3195,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Wightwarriora,@Jysoul,178544,1700571079,true,900,akuma,Blaze-Veined Prism,"rr01 white normal materials style"",
 "
-@Miller_HighLife14,@Halewalnut,145915,1700911630,true,30000,akuma,"Praxis: Murkmire Desk, Engraved","rr01 green fine consumable recipe"",
+@Miller_HighLife14,@Halewalnut,145915,1700911630,true,30000,akuma,Praxis: Murkmire Desk Engraved,"rr01 green fine consumable recipe"",
 "
 @FaintyFox,@MouthForWar79,178707,1700346476,false,32500,akuma,Crafting Motif 108: Fargrave Guardian Axes,"rr01 purple epic consumable motif"",
 "
@@ -3209,13 +3209,13 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Wightwarriora,@Jysoul,178722,1700571078,true,200,akuma,Indigo Lucent,"rr01 white normal materials style"",
 "
-@SavageHoax,@Enceladus15,145976,1700559268,true,75000,akuma,"Design: Dragonfruit, Wax","rr01 green fine consumable recipe"",
+@SavageHoax,@Enceladus15,145976,1700559268,true,75000,akuma,Design: Dragonfruit Wax,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@Halewalnut,145976,1700911642,true,75000,akuma,"Design: Dragonfruit, Wax","rr01 green fine consumable recipe"",
+@SavageHoax,@Halewalnut,145976,1700911642,true,75000,akuma,Design: Dragonfruit Wax,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@Savageprincess,145978,1700547109,true,25000,akuma,"Blueprint: Murkmire Plate, Charger","rr01 green fine consumable recipe"",
+@SavageHoax,@Savageprincess,145978,1700547109,true,25000,akuma,Blueprint: Murkmire Plate Charger,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@Newt711,146013,1700828444,true,20000,akuma,"Pattern: Murkmire Rug, Crawling Serpents","rr01 green fine consumable recipe"",
+@SavageHoax,@Newt711,146013,1700828444,true,20000,akuma,Pattern: Murkmire Rug Crawling Serpents,"rr01 green fine consumable recipe"",
 "
 @Scarrebend,@DocQwerty,178799,1699967623,true,100000,akuma,Ruby Candlefly Gathering,"rr01 gold legendary furnishings miscellaneous"",
 "
@@ -3499,151 +3499,151 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Cpt.Zynbabwe,@ultimba,147735,1700186145,false,20999,akuma,Crafting Motif 75: Sunspire Chests,"rr01 purple epic consumable motif"",
 "
-@dg1219,@Newt711,115492,1700828563,true,300,akuma,"Argonian Scaleskin, Faded","rr01 blue superior furnishings suite"",
+@dg1219,@Newt711,115492,1700828563,true,300,akuma,Argonian Scaleskin Faded,"rr01 blue superior furnishings suite"",
 "
-@vKaotic,@artemissia,115651,1699834754,true,60,akuma,"Khajiit Banner, Claw","rr01 green fine furnishings parlor"",
+@vKaotic,@artemissia,115651,1699834754,true,60,akuma,Khajiit Banner Claw,"rr01 green fine furnishings parlor"",
 "
-@dg1219,@Bretta_Frey,115652,1700761713,true,120,akuma,"Khajiit Bed, Fur","rr01 green fine furnishings suite"",
+@dg1219,@Bretta_Frey,115652,1700761713,true,120,akuma,Khajiit Bed Fur,"rr01 green fine furnishings suite"",
 "
-@adghar,@GarkaLaGarka,115723,1700061603,false,120,akuma,"Pattern: Argonian Shelves, Half","rr01 green fine consumable recipe"",
+@adghar,@GarkaLaGarka,115723,1700061603,false,120,akuma,Pattern: Argonian Shelves Half,"rr01 green fine consumable recipe"",
 "
-@Ozzy29,@wxmxm,115724,1699889584,true,159,akuma,"Pattern: Argonian Shelves, Full","rr01 green fine consumable recipe"",
+@Ozzy29,@wxmxm,115724,1699889584,true,159,akuma,Pattern: Argonian Shelves Full,"rr01 green fine consumable recipe"",
 "
-@TheRealCrazyCarmela,@Llorydian,115727,1700536590,true,325,akuma,"Blueprint: Argonian Lattice, Rough","rr01 green fine consumable recipe"",
+@TheRealCrazyCarmela,@Llorydian,115727,1700536590,true,325,akuma,Blueprint: Argonian Lattice Rough,"rr01 green fine consumable recipe"",
 "
-@SerNemesis,@Jetxky,115732,1699999646,false,27,akuma,"Blueprint: Argonian Stool, Roped","rr01 green fine consumable recipe"",
+@SerNemesis,@Jetxky,115732,1699999646,false,27,akuma,Blueprint: Argonian Stool Roped,"rr01 green fine consumable recipe"",
 "
-@MidasTouch21,@Myever821,115741,1700293297,true,150,akuma,"Praxis: Argonian Ramekin, Hardened","rr01 green fine consumable recipe"",
+@MidasTouch21,@Myever821,115741,1700293297,true,150,akuma,Praxis: Argonian Ramekin Hardened,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@battousaikun,115762,1700108128,true,1111,akuma,"Blueprint: Argonian Bench, Woven","rr01 blue superior consumable recipe"",
+@MouthForWar79,@battousaikun,115762,1700108128,true,1111,akuma,Blueprint: Argonian Bench Woven,"rr01 blue superior consumable recipe"",
 "
-@MouthForWar79,@battousaikun,115771,1700108130,true,1111,akuma,"Blueprint: Argonian End Table, Woven","rr01 blue superior consumable recipe"",
+@MouthForWar79,@battousaikun,115771,1700108130,true,1111,akuma,Blueprint: Argonian End Table Woven,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@TemplarShadows,115778,1699668435,true,700,akuma,"Pattern: Argonian Tray, Woven","rr01 blue superior consumable recipe"",
+@vKaotic,@TemplarShadows,115778,1699668435,true,700,akuma,Pattern: Argonian Tray Woven,"rr01 blue superior consumable recipe"",
 "
 @TrafalgarDripLaw,@netkat,115795,1700939781,true,200,akuma,Design: Argonian Bone Chimes,"rr01 purple epic consumable recipe"",
 "
 @jigumiz,@Rhyven-Windseeker,115830,1700945446,true,30000,akuma,Blueprint: Argonian Gravestick,"rr01 purple epic consumable recipe"",
 "
-@Ghatlh,@Myever821,115835,1700293287,true,100,akuma,"Pattern: Wood Elf Shelf, Tiered","rr01 green fine consumable recipe"",
+@Ghatlh,@Myever821,115835,1700293287,true,100,akuma,Pattern: Wood Elf Shelf Tiered,"rr01 green fine consumable recipe"",
 "
-@vereesh,@MaximusGiganticus,115836,1700440312,true,27,akuma,"Pattern: Wood Elf Table, Leather","rr01 green fine consumable recipe"",
+@vereesh,@MaximusGiganticus,115836,1700440312,true,27,akuma,Pattern: Wood Elf Table Leather,"rr01 green fine consumable recipe"",
 "
-@XPhenixFireX,@TemplarShadows,115850,1699668430,true,527,akuma,"Praxis: Wood Elf Pedestal, Engraved","rr01 green fine consumable recipe"",
+@XPhenixFireX,@TemplarShadows,115850,1699668430,true,527,akuma,Praxis: Wood Elf Pedestal Engraved,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@TemplarShadows,115857,1699668390,true,110,akuma,"Pattern: Wood Elf Wall Hide, Pierced","rr01 green fine consumable recipe"",
+@vKaotic,@TemplarShadows,115857,1699668390,true,110,akuma,Pattern: Wood Elf Wall Hide Pierced,"rr01 green fine consumable recipe"",
 "
-@vereesh,@SphinxReverie,115859,1700431885,false,27,akuma,"Pattern: Wood Elf Wall Hide, Spotted","rr01 green fine consumable recipe"",
+@vereesh,@SphinxReverie,115859,1700431885,false,27,akuma,Pattern: Wood Elf Wall Hide Spotted,"rr01 green fine consumable recipe"",
 "
-@Cheesed_GB,@WeWithACatHat,115885,1700771900,true,1250,akuma,"Pattern: Wood Elf Bedding, Layered","rr01 blue superior consumable recipe"",
+@Cheesed_GB,@WeWithACatHat,115885,1700771900,true,1250,akuma,Pattern: Wood Elf Bedding Layered,"rr01 blue superior consumable recipe"",
 "
-@MouthForWar79,@Hellraisin1,115885,1700550571,false,1111,akuma,"Pattern: Wood Elf Bedding, Layered","rr01 blue superior consumable recipe"",
+@MouthForWar79,@Hellraisin1,115885,1700550571,false,1111,akuma,Pattern: Wood Elf Bedding Layered,"rr01 blue superior consumable recipe"",
 "
 @vKaotic,@Moonshadow42,115902,1699499089,true,100,akuma,Design: Wood Elf Bone Chimes,"rr01 purple epic consumable recipe"",
 "
-@vereesh,@SphinxReverie,115909,1700431899,false,40,akuma,"Pattern: Breton Bed, Single","rr01 green fine consumable recipe"",
+@vereesh,@SphinxReverie,115909,1700431899,false,40,akuma,Pattern: Breton Bed Single,"rr01 green fine consumable recipe"",
 "
-@Ploppa,@Myever821,115912,1700293304,true,199,akuma,"Blueprint: Breton Nightstand, Open","rr01 green fine consumable recipe"",
+@Ploppa,@Myever821,115912,1700293304,true,199,akuma,Blueprint: Breton Nightstand Open,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Leonie_Zephyr,115913,1700452358,true,100,akuma,"Blueprint: Breton Bookcase, Tall","rr01 green fine consumable recipe"",
+@vKaotic,@Leonie_Zephyr,115913,1700452358,true,100,akuma,Blueprint: Breton Bookcase Tall,"rr01 green fine consumable recipe"",
 "
-@Jellydem,@Darlaa214,115913,1700539248,false,250,akuma,"Blueprint: Breton Bookcase, Tall","rr01 green fine consumable recipe"",
+@Jellydem,@Darlaa214,115913,1700539248,false,250,akuma,Blueprint: Breton Bookcase Tall,"rr01 green fine consumable recipe"",
 "
-@Darlaa214,@limamari,115916,1700787519,false,500,akuma,"Blueprint: Breton Shelves, Double","rr01 green fine consumable recipe"",
+@Darlaa214,@limamari,115916,1700787519,false,500,akuma,Blueprint: Breton Shelves Double,"rr01 green fine consumable recipe"",
 "
-@Ghatlh,@Ancane,115925,1700006724,true,100,akuma,"Pattern: Breton Carpet, Green","rr01 green fine consumable recipe"",
+@Ghatlh,@Ancane,115925,1700006724,true,100,akuma,Pattern: Breton Carpet Green,"rr01 green fine consumable recipe"",
 "
-@TheRealCrazyCarmela,@limamari,115931,1700787474,false,325,akuma,"Blueprint: Breton Street Post, Stone","rr01 green fine consumable recipe"",
+@TheRealCrazyCarmela,@limamari,115931,1700787474,false,325,akuma,Blueprint: Breton Street Post Stone,"rr01 green fine consumable recipe"",
 "
-@MissDollypop,@Lunareklypse,115944,1700000484,false,1000,akuma,"Blueprint: Breton Counter, Long Cabinet","rr01 blue superior consumable recipe"",
+@MissDollypop,@Lunareklypse,115944,1700000484,false,1000,akuma,Blueprint: Breton Counter Long Cabinet,"rr01 blue superior consumable recipe"",
 "
-@Ploppa,@IIIxIIIxIII,115946,1700000030,true,999,akuma,"Blueprint: Breton Stool, Plain","rr01 blue superior consumable recipe"",
+@Ploppa,@IIIxIIIxIII,115946,1700000030,true,999,akuma,Blueprint: Breton Stool Plain,"rr01 blue superior consumable recipe"",
 "
-@EtedZ,@GingerbreadHag,181497,1700017409,true,12000,akuma,"Vampiric Sconce, Azure","rr01 blue superior furnishings lighting"",
+@EtedZ,@GingerbreadHag,181497,1700017409,true,12000,akuma,Vampiric Sconce Azure,"rr01 blue superior furnishings lighting"",
 "
-@EtedZ,@GingerbreadHag,181497,1700017408,true,12000,akuma,"Vampiric Sconce, Azure","rr01 blue superior furnishings lighting"",
+@EtedZ,@GingerbreadHag,181497,1700017408,true,12000,akuma,Vampiric Sconce Azure,"rr01 blue superior furnishings lighting"",
 "
-@SavageHoax,@Dark4ces-1,115966,1700076520,true,1000,akuma,"Diagram: Breton Streetlight, Paired","rr01 blue superior consumable recipe"",
+@SavageHoax,@Dark4ces-1,115966,1700076520,true,1000,akuma,Diagram: Breton Streetlight Paired,"rr01 blue superior consumable recipe"",
 "
-@Wynterlance,@JossetteLT,115979,1699687702,true,70000,akuma,"Blueprint: Breton Dresser, Knotwork","rr01 purple epic consumable recipe"",
+@Wynterlance,@JossetteLT,115979,1699687702,true,70000,akuma,Blueprint: Breton Dresser Knotwork,"rr01 purple epic consumable recipe"",
 "
-@vKaotic,@Tunacarp,181549,1699737946,true,300,akuma,"Praxis: Vampiric Lamp, Azure Triple","rr01 blue superior consumable recipe"",
+@vKaotic,@Tunacarp,181549,1699737946,true,300,akuma,Praxis: Vampiric Lamp Azure Triple,"rr01 blue superior consumable recipe"",
 "
-@Erkla,@GarkaLaGarka,116016,1700061614,false,135,akuma,"Pattern: Dark Elf Bed, Single","rr01 green fine consumable recipe"",
+@Erkla,@GarkaLaGarka,116016,1700061614,false,135,akuma,Pattern: Dark Elf Bed Single,"rr01 green fine consumable recipe"",
 "
-@iamagear0,@Darlaa214,116017,1700539178,false,150,akuma,"Blueprint: Dark Elf Table, Formal","rr01 green fine consumable recipe"",
+@iamagear0,@Darlaa214,116017,1700539178,false,150,akuma,Blueprint: Dark Elf Table Formal,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@JossetteLT,181555,1699686983,true,400,akuma,"Formula: Vampiric Lab Jar, Red Gelatinous","rr01 green fine consumable recipe"",
+@vKaotic,@JossetteLT,181555,1699686983,true,400,akuma,Formula: Vampiric Lab Jar Red Gelatinous,"rr01 green fine consumable recipe"",
 "
-@Cinnadots,@JossetteLT,181555,1699687025,true,500,akuma,"Formula: Vampiric Lab Jar, Red Gelatinous","rr01 green fine consumable recipe"",
+@Cinnadots,@JossetteLT,181555,1699687025,true,500,akuma,Formula: Vampiric Lab Jar Red Gelatinous,"rr01 green fine consumable recipe"",
 "
-@Wynterlance,@EntropicSoul,181559,1699967744,true,65000,akuma,"Praxis: Leyawiin Hearth, Carved Wood","rr01 gold legendary consumable recipe"",
+@Wynterlance,@EntropicSoul,181559,1699967744,true,65000,akuma,Praxis: Leyawiin Hearth Carved Wood,"rr01 gold legendary consumable recipe"",
 "
-@Mysteria295,@GarkaLaGarka,116028,1700061621,false,160,akuma,"Blueprint: Dark Elf Streetpost, Banners","rr01 green fine consumable recipe"",
+@Mysteria295,@GarkaLaGarka,116028,1700061621,false,160,akuma,Blueprint: Dark Elf Streetpost Banners,"rr01 green fine consumable recipe"",
 "
-@gretler,@kamil.targaryen,181569,1700890500,true,7500,akuma,"Praxis: Leyawiin Column, Castle","rr01 blue superior consumable recipe"",
+@gretler,@kamil.targaryen,181569,1700890500,true,7500,akuma,Praxis: Leyawiin Column Castle,"rr01 blue superior consumable recipe"",
 "
-@Hellraisin1,@KingKillerKvoth3,181579,1700678301,true,700,akuma,"Praxis: Leyawiin Platform, Wide Steps","rr01 green fine consumable recipe"",
+@Hellraisin1,@KingKillerKvoth3,181579,1700678301,true,700,akuma,Praxis: Leyawiin Platform Wide Steps,"rr01 green fine consumable recipe"",
 "
-@Vaelfear,@WarFareCheck,181580,1700514318,true,700,akuma,"Praxis: Leyawiin Post, Stone Garden","rr01 green fine consumable recipe"",
+@Vaelfear,@WarFareCheck,181580,1700514318,true,700,akuma,Praxis: Leyawiin Post Stone Garden,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@Llorydian,181580,1700577428,true,666,akuma,"Praxis: Leyawiin Post, Stone Garden","rr01 green fine consumable recipe"",
+@MouthForWar79,@Llorydian,181580,1700577428,true,666,akuma,Praxis: Leyawiin Post Stone Garden,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@KingKillerKvoth3,181581,1700678305,true,666,akuma,"Praxis: Leyawiin Wall, Straight Garden","rr01 green fine consumable recipe"",
+@MouthForWar79,@KingKillerKvoth3,181581,1700678305,true,666,akuma,Praxis: Leyawiin Wall Straight Garden,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@Llorydian,181582,1700536608,true,444,akuma,"Praxis: Leyawiin Wall, Curved Garden","rr01 green fine consumable recipe"",
+@MouthForWar79,@Llorydian,181582,1700536608,true,444,akuma,Praxis: Leyawiin Wall Curved Garden,"rr01 green fine consumable recipe"",
 "
-@TheRealCrazyCarmela,@limamari,116082,1700787469,false,325,akuma,"Pattern: Khajiit Loft, Reed","rr01 green fine consumable recipe"",
+@TheRealCrazyCarmela,@limamari,116082,1700787469,false,325,akuma,Pattern: Khajiit Loft Reed,"rr01 green fine consumable recipe"",
 "
-@iamagear0,@Jetxky,116087,1699999644,false,27,akuma,"Design: Khajiit Bottle, Amber","rr01 green fine consumable recipe"",
+@iamagear0,@Jetxky,116087,1699999644,false,27,akuma,Design: Khajiit Bottle Amber,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Jean94X,116088,1699674231,true,50,akuma,"Design: Khajiit Flask, Amber","rr01 green fine consumable recipe"",
+@vKaotic,@Jean94X,116088,1699674231,true,50,akuma,Design: Khajiit Flask Amber,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@SphinxReverie,116088,1700431943,false,111,akuma,"Design: Khajiit Flask, Amber","rr01 green fine consumable recipe"",
+@MouthForWar79,@SphinxReverie,116088,1700431943,false,111,akuma,Design: Khajiit Flask Amber,"rr01 green fine consumable recipe"",
 "
-@NCC-42,@GarkaLaGarka,116090,1700061602,false,106,akuma,"Design: Khajiit Vase, Amber","rr01 green fine consumable recipe"",
+@NCC-42,@GarkaLaGarka,116090,1700061602,false,106,akuma,Design: Khajiit Vase Amber,"rr01 green fine consumable recipe"",
 "
-@Erkla,@GarkaLaGarka,116094,1700061616,false,140,akuma,"Blueprint: Khajiit Frame, Arched","rr01 green fine consumable recipe"",
+@Erkla,@GarkaLaGarka,116094,1700061616,false,140,akuma,Blueprint: Khajiit Frame Arched,"rr01 green fine consumable recipe"",
 "
-@iamagear0,@SphinxReverie,116098,1700431940,false,110,akuma,"Blueprint: Khajiit Signpost, Fortified","rr01 green fine consumable recipe"",
+@iamagear0,@SphinxReverie,116098,1700431940,false,110,akuma,Blueprint: Khajiit Signpost Fortified,"rr01 green fine consumable recipe"",
 "
-@MissDollypop,@shadowjasmine,116101,1699909130,true,1000,akuma,"Blueprint: Khajiit Bookshelf, Arched","rr01 blue superior consumable recipe"",
+@MissDollypop,@shadowjasmine,116101,1699909130,true,1000,akuma,Blueprint: Khajiit Bookshelf Arched,"rr01 blue superior consumable recipe"",
 "
 @Cinnadots,@Buntington,181675,1699419121,true,39000,akuma,Crafting Motif 110: Dreadsails Swords,"rr01 purple epic consumable motif"",
 "
 @Cpt.Zynbabwe,@dewmanchu87,181679,1699912490,false,52999,akuma,Crafting Motif 111: Ascendant Order Axes,"rr01 purple epic consumable motif"",
 "
-@pewterskier,@Jetxky,116153,1699999643,false,27,akuma,"Design: Nord Pot, Ceramic","rr01 green fine consumable recipe"",
+@pewterskier,@Jetxky,116153,1699999643,false,27,akuma,Design: Nord Pot Ceramic,"rr01 green fine consumable recipe"",
 "
-@NCC-42,@Leonie_Zephyr,116153,1700452293,true,98,akuma,"Design: Nord Pot, Ceramic","rr01 green fine consumable recipe"",
+@NCC-42,@Leonie_Zephyr,116153,1700452293,true,98,akuma,Design: Nord Pot Ceramic,"rr01 green fine consumable recipe"",
 "
-@Ghatlh,@GarkaLaGarka,116155,1700061599,false,100,akuma,"Blueprint: Nord Bed, Single","rr01 green fine consumable recipe"",
+@Ghatlh,@GarkaLaGarka,116155,1700061599,false,100,akuma,Blueprint: Nord Bed Single,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Myever821,116160,1700293041,true,65,akuma,"Blueprint: Nord Shelf, Braced","rr01 green fine consumable recipe"",
+@vKaotic,@Myever821,116160,1700293041,true,65,akuma,Blueprint: Nord Shelf Braced,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Jean94X,116162,1699573393,true,20,akuma,"Design: Nord Pot, Stew","rr01 green fine consumable recipe"",
+@vKaotic,@Jean94X,116162,1699573393,true,20,akuma,Design: Nord Pot Stew,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@MidasTouch21,116162,1700120554,false,20,akuma,"Design: Nord Pot, Stew","rr01 green fine consumable recipe"",
+@vKaotic,@MidasTouch21,116162,1700120554,false,20,akuma,Design: Nord Pot Stew,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@GarkaLaGarka,116163,1700061579,false,65,akuma,"Diagram: Nord Candle, Tealight","rr01 green fine consumable recipe"",
+@vKaotic,@GarkaLaGarka,116163,1700061579,false,65,akuma,Diagram: Nord Candle Tealight,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@Leonie_Zephyr,116165,1700452373,true,111,akuma,"Blueprint: Nord Torch, Triple","rr01 green fine consumable recipe"",
+@MouthForWar79,@Leonie_Zephyr,116165,1700452373,true,111,akuma,Blueprint: Nord Torch Triple,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@Darlaa214,116176,1700539159,false,777,akuma,"Blueprint: Nord Counter, Long","rr01 blue superior consumable recipe"",
+@MouthForWar79,@Darlaa214,116176,1700539159,false,777,akuma,Blueprint: Nord Counter Long,"rr01 blue superior consumable recipe"",
 "
-@sconeindygw,@limamari,116180,1700787503,false,500,akuma,"Blueprint: Nord Table, Round","rr01 blue superior consumable recipe"",
+@sconeindygw,@limamari,116180,1700787503,false,500,akuma,Blueprint: Nord Table Round,"rr01 blue superior consumable recipe"",
 "
-@Jellydem,@Kooish,116182,1700009292,false,850,akuma,"Blueprint: Nord Trestle, Braced","rr01 blue superior consumable recipe"",
+@Jellydem,@Kooish,116182,1700009292,false,850,akuma,Blueprint: Nord Trestle Braced,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@caspercross,116183,1700615990,true,300,akuma,"Blueprint: Nord Footlocker, Braced","rr01 blue superior consumable recipe"",
+@vKaotic,@caspercross,116183,1700615990,true,300,akuma,Blueprint: Nord Footlocker Braced,"rr01 blue superior consumable recipe"",
 "
-@SavageHoax,@UmbralCalamity,116188,1700297720,true,1200,akuma,"Pattern: Nord Tapestry, Dragon","rr01 blue superior consumable recipe"",
+@SavageHoax,@UmbralCalamity,116188,1700297720,true,1200,akuma,Pattern: Nord Tapestry Dragon,"rr01 blue superior consumable recipe"",
 "
-@vereesh,@Chronogon,116213,1700773420,true,6000,akuma,"Diagram: Nord Brazier, Hanging","rr01 purple epic consumable recipe"",
+@vereesh,@Chronogon,116213,1700773420,true,6000,akuma,Diagram: Nord Brazier Hanging,"rr01 purple epic consumable recipe"",
 "
 @AVENFATE,@Deminia,149076,1699967114,true,1300,akuma,Undertaker's Helm,"cp160 blue superior heavy apparel set call of the undertaker head infused"",
 "
-@dg1219,@PinkKanet,116354,1700847698,true,85,akuma,"Orcish Bedding, Fur","rr01 green fine furnishings suite"",
+@dg1219,@PinkKanet,116354,1700847698,true,85,akuma,Orcish Bedding Fur,"rr01 green fine furnishings suite"",
 "
 @AVENFATE,@Bleztor,149180,1699822709,false,1500,akuma,Undertaker's Axe,"cp160 blue superior weapon set call of the undertaker axe one-handed decisive"",
 "
@@ -3747,19 +3747,19 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Domiforu,@Basedrevar,182826,1700421423,true,200,akuma,Bladebearer Edge,"cp160 blue superior weapon set eye of the grasp sword one-handed defending"",
 "
-@OMGWTFREALLY,@Llorydian,182943,1700536603,true,440,akuma,"Design: Fargrave Fish Pile, Deadlands Trout","rr01 green fine consumable recipe"",
+@OMGWTFREALLY,@Llorydian,182943,1700536603,true,440,akuma,Design: Fargrave Fish Pile Deadlands Trout,"rr01 green fine consumable recipe"",
 "
-@castleknight2001,@Deschain_10011,182966,1700750337,true,1030,akuma,"Diagram: Deadlands Bench, Etched Wide","rr01 blue superior consumable recipe"",
+@castleknight2001,@Deschain_10011,182966,1700750337,true,1030,akuma,Diagram: Deadlands Bench Etched Wide,"rr01 blue superior consumable recipe"",
 "
-@Peliciano,@Ardonye,182968,1700631734,true,55000,akuma,"Blueprint: Deadlands Table, Long Etched","rr01 purple epic consumable recipe"",
+@Peliciano,@Ardonye,182968,1700631734,true,55000,akuma,Blueprint: Deadlands Table Long Etched,"rr01 purple epic consumable recipe"",
 "
-@Lunareklypse,@Darksoul001,182970,1700141494,true,135750,akuma,"Praxis: Deadlands Lightning Rod, Crescent","rr01 purple epic consumable recipe"",
+@Lunareklypse,@Darksoul001,182970,1700141494,true,135750,akuma,Praxis: Deadlands Lightning Rod Crescent,"rr01 purple epic consumable recipe"",
 "
 @Noobin007,@MouthForWar79,182996,1700392688,false,6999,akuma,Design: Fargrave Box of Fruit,"rr01 blue superior consumable recipe"",
 "
 @GOPNICK,@CastleHawk,182998,1700623467,true,9000,akuma,Design: Fargrave Tomato Bunch,"rr01 blue superior consumable recipe"",
 "
-@Syncro17,@yaharghoul,183003,1700946531,true,120000,akuma,"Blueprint: Deadlands Bookcase, Large Cluttered","rr01 purple epic consumable recipe"",
+@Syncro17,@yaharghoul,183003,1700946531,true,120000,akuma,Blueprint: Deadlands Bookcase Large Cluttered,"rr01 purple epic consumable recipe"",
 "
 @flikao,@Tanneu,183005,1699828978,true,70000,akuma,Deadlands Treasure Map I,"rr01 blue superior miscellaneous trophy"",
 "
@@ -3847,7 +3847,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Tails888,@lschalk,84860,1699669987,true,10000,akuma,Dagger of the Sun,"cp160 blue superior weapon set silks of the sun dagger one-handed training"",
 "
-@dg1219,@Remsen,117697,1700452706,false,60,akuma,"Redguard Candleholder, Practical","rr01 green fine furnishings lighting"",
+@dg1219,@Remsen,117697,1700452706,false,60,akuma,Redguard Candleholder Practical,"rr01 green fine furnishings lighting"",
 "
 @flikao,@IZZEFlameLash,183264,1700752667,true,25000,akuma,Rallying Cry Greatsword,"cp160 purple epic weapon set rallying cry sword two-handed powered"",
 "
@@ -3857,7 +3857,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @flikao,@Photomac,183342,1700757187,true,85000,akuma,Rallying Cry Sash,"cp160 purple epic light apparel set rallying cry waist impenetrable"",
 "
-@Sanadora,@Amazonwonder,117828,1700244174,true,60000,akuma,"Redguard Counter, Grill","rr01 purple epic furnishings dining"",
+@Sanadora,@Amazonwonder,117828,1700244174,true,60000,akuma,Redguard Counter Grill,"rr01 purple epic furnishings dining"",
 "
 @flikao,@Alafoss,183385,1700748139,true,39000,akuma,Rallying Cry Axe,"cp160 purple epic weapon set rallying cry axe one-handed training"",
 "
@@ -3897,21 +3897,21 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Banshee_44,@width,150731,1700785550,false,300000,akuma,Dragon's Blood,"rr01 green fine materials reagent"",
 "
-@vKaotic,@Delphinnia,117985,1699734362,true,5,akuma,"Rough Bread, Morsel","rr01 white normal furnishings hearth"",
+@vKaotic,@Delphinnia,117985,1699734362,true,5,akuma,Rough Bread Morsel,"rr01 white normal furnishings hearth"",
 "
-@vKaotic,@Delphinnia,117985,1699734364,true,5,akuma,"Rough Bread, Morsel","rr01 white normal furnishings hearth"",
+@vKaotic,@Delphinnia,117985,1699734364,true,5,akuma,Rough Bread Morsel,"rr01 white normal furnishings hearth"",
 "
-@dg1219,@paleyhaley,118037,1700407319,true,60,akuma,"Common Candles, Pair","rr01 green fine furnishings lighting"",
+@dg1219,@paleyhaley,118037,1700407319,true,60,akuma,Common Candles Pair,"rr01 green fine furnishings lighting"",
 "
-@JuliaRoseBlack,@Grave_angel,118041,1700802413,true,1000,akuma,"Common Lantern, Hanging","rr01 green fine furnishings lighting"",
+@JuliaRoseBlack,@Grave_angel,118041,1700802413,true,1000,akuma,Common Lantern Hanging,"rr01 green fine furnishings lighting"",
 "
-@Jetxky,@Metalvoodoo,118146,1700088246,true,500000,akuma,"Firelogs, Flaming","rr01 green fine furnishings lighting"",
+@Jetxky,@Metalvoodoo,118146,1700088246,true,500000,akuma,Firelogs Flaming,"rr01 green fine furnishings lighting"",
 "
-@Jhayce,@oooSiroo,118146,1700690989,true,400000,akuma,"Firelogs, Flaming","rr01 green fine furnishings lighting"",
+@Jhayce,@oooSiroo,118146,1700690989,true,400000,akuma,Firelogs Flaming,"rr01 green fine furnishings lighting"",
 "
-@Dwight3,@Blood-Eye,118149,1700299414,true,5000,akuma,"Block and Axe, Chopping","rr01 blue superior furnishings workshop"",
+@Dwight3,@Blood-Eye,118149,1700299414,true,5000,akuma,Block and Axe Chopping,"rr01 blue superior furnishings workshop"",
 "
-@IAMB3Y0ND,@IIIxIIIxIII,118149,1699728124,true,5000,akuma,"Block and Axe, Chopping","rr01 blue superior furnishings workshop"",
+@IAMB3Y0ND,@IIIxIIIxIII,118149,1699728124,true,5000,akuma,Block and Axe Chopping,"rr01 blue superior furnishings workshop"",
 "
 @FaintyFox,@C-Lliph,118206,1700345954,true,6500,akuma,Gaming Die,"rr01 purple epic furnishings parlor"",
 "
@@ -3927,7 +3927,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @DanceyPants,@JHartEllis,183871,1700623478,true,10000,akuma,Revelry Shard,"rr01 purple epic consumable trophy"",
 "
-@Nerevarine_Nwah,@Newt711,118338,1700828579,true,500,akuma,"Fish, Bass","rr01 purple epic furnishings hearth"",
+@Nerevarine_Nwah,@Newt711,118338,1700828579,true,500,akuma,Fish Bass,"rr01 purple epic furnishings hearth"",
 "
 @boyblitzz2,@JHartEllis,183876,1700449076,true,3696,akuma,Style Page: Saberkeel Cuirass,"rr01 gold legendary consumable collectible"",
 "
@@ -3935,17 +3935,17 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Mystic.legend,@JHartEllis,183878,1700755821,true,2100,akuma,Style Page: Saberkeel Greaves,"rr01 gold legendary consumable collectible"",
 "
-@War-Carrots,@DerAlleinTiger,118487,1699944690,true,4997,akuma,"Letter, Personal","rr01 green fine furnishings library"",
+@War-Carrots,@DerAlleinTiger,118487,1699944690,true,4997,akuma,Letter Personal,"rr01 green fine furnishings library"",
 "
 @bruiseman5241990,@Cheesed_GB,184136,1700340473,false,15000,akuma,Blueprint: Fargrave Door,"rr01 blue superior consumable recipe"",
 "
-@bruiseman5241990,@tunnelvisi0n,184143,1700936629,false,5000,akuma,"Blueprint: Fargrave Bridge, Rope","rr01 purple epic consumable recipe"",
+@bruiseman5241990,@tunnelvisi0n,184143,1700936629,false,5000,akuma,Blueprint: Fargrave Bridge Rope,"rr01 purple epic consumable recipe"",
 "
-@Sweetleigh95,@kamil.targaryen,184145,1700890442,true,2000,akuma,"Praxis: Fargrave Facade, Huge","rr01 blue superior consumable recipe"",
+@Sweetleigh95,@kamil.targaryen,184145,1700890442,true,2000,akuma,Praxis: Fargrave Facade Huge,"rr01 blue superior consumable recipe"",
 "
-@Cheesed_GB,@MouthForWar79,184146,1700346204,false,10000,akuma,"Praxis: Fargrave Window, Medallion","rr01 purple epic consumable recipe"",
+@Cheesed_GB,@MouthForWar79,184146,1700346204,false,10000,akuma,Praxis: Fargrave Window Medallion,"rr01 purple epic consumable recipe"",
 "
-@DAN1968,@C3N50R3D,184147,1700868781,true,27,akuma,"Praxis: Fargrave Post, Garden Wall","rr01 green fine consumable recipe"",
+@DAN1968,@C3N50R3D,184147,1700868781,true,27,akuma,Praxis: Fargrave Post Garden Wall,"rr01 green fine consumable recipe"",
 "
 @GarkaLaGarka,@OfTheOrder,118711,1700603416,true,17344,akuma,Bounty Sheet: Argonian Male,"rr01 gold legendary furnishings library"",
 "
@@ -3969,107 +3969,107 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @shy-robot,@MouthForWar79,151621,1700095416,false,20000,akuma,Shimmering Sand,"rr01 white normal materials style"",
 "
-@Wynterlance,@JossetteLT,118920,1699687861,true,100000,akuma,"Blueprint: High Elf Armoire, Winged","rr01 purple epic consumable recipe"",
+@Wynterlance,@JossetteLT,118920,1699687861,true,100000,akuma,Blueprint: High Elf Armoire Winged,"rr01 purple epic consumable recipe"",
 "
 @Jack.Fyre,@Bleztor,86164,1699822743,false,1144,akuma,Werewolf Hide Helmet,"cp160 green fine medium apparel set hide of the werewolf head training"",
 "
-@shane1395,@IIIxIIIxIII,118964,1700000033,true,1000,akuma,"Praxis: High Elf Desk, Verdant","rr01 blue superior consumable recipe"",
+@shane1395,@IIIxIIIxIII,118964,1700000033,true,1000,akuma,Praxis: High Elf Desk Verdant,"rr01 blue superior consumable recipe"",
 "
-@ConjuringWorm,@WeWithACatHat,118966,1700771897,true,1222,akuma,"Praxis: High Elf End Table, Verdant","rr01 blue superior consumable recipe"",
+@ConjuringWorm,@WeWithACatHat,118966,1700771897,true,1222,akuma,Praxis: High Elf End Table Verdant,"rr01 blue superior consumable recipe"",
 "
-@MouthForWar79,@Leonie_Zephyr,118987,1700452376,true,111,akuma,"Praxis: High Elf Bookshelf, Verdant","rr01 green fine consumable recipe"",
+@MouthForWar79,@Leonie_Zephyr,118987,1700452376,true,111,akuma,Praxis: High Elf Bookshelf Verdant,"rr01 green fine consumable recipe"",
 "
-@XPhenixFireX,@Hellraisin1,118987,1700550085,false,527,akuma,"Praxis: High Elf Bookshelf, Verdant","rr01 green fine consumable recipe"",
+@XPhenixFireX,@Hellraisin1,118987,1700550085,false,527,akuma,Praxis: High Elf Bookshelf Verdant,"rr01 green fine consumable recipe"",
 "
-@OMGWTFREALLY,@UmbralCalamity,118988,1700297560,true,385,akuma,"Blueprint: High Elf Counter, Long Cabinet","rr01 green fine consumable recipe"",
+@OMGWTFREALLY,@UmbralCalamity,118988,1700297560,true,385,akuma,Blueprint: High Elf Counter Long Cabinet,"rr01 green fine consumable recipe"",
 "
-@NCC-42,@GarkaLaGarka,118989,1700061605,false,123,akuma,"Blueprint: High Elf Desk, Sturdy","rr01 green fine consumable recipe"",
+@NCC-42,@GarkaLaGarka,118989,1700061605,false,123,akuma,Blueprint: High Elf Desk Sturdy,"rr01 green fine consumable recipe"",
 "
-@Erkla,@Darlaa214,118989,1700539222,false,125,akuma,"Blueprint: High Elf Desk, Sturdy","rr01 green fine consumable recipe"",
+@Erkla,@Darlaa214,118989,1700539222,false,125,akuma,Blueprint: High Elf Desk Sturdy,"rr01 green fine consumable recipe"",
 "
-@jaekobcaed,@limamari,118991,1700787409,false,200,akuma,"Blueprint: High Elf Stool, Curved","rr01 green fine consumable recipe"",
+@jaekobcaed,@limamari,118991,1700787409,false,200,akuma,Blueprint: High Elf Stool Curved,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@SphinxReverie,119012,1700431935,false,100,akuma,"Blueprint: Orcish Table, Braced Formal","rr01 green fine consumable recipe"",
+@vKaotic,@SphinxReverie,119012,1700431935,false,100,akuma,Blueprint: Orcish Table Braced Formal,"rr01 green fine consumable recipe"",
 "
-@VanBrunt,@TemplarShadows,119017,1699668407,true,389,akuma,"Blueprint: Orcish Bar, Long Block","rr01 green fine consumable recipe"",
+@VanBrunt,@TemplarShadows,119017,1699668407,true,389,akuma,Blueprint: Orcish Bar Long Block,"rr01 green fine consumable recipe"",
 "
-@Ploppa,@GarkaLaGarka,119018,1700061623,false,199,akuma,"Blueprint: Orcish Counter, Block","rr01 green fine consumable recipe"",
+@Ploppa,@GarkaLaGarka,119018,1700061623,false,199,akuma,Blueprint: Orcish Counter Block,"rr01 green fine consumable recipe"",
 "
-@vereesh,@MaximusGiganticus,119031,1700440314,true,27,akuma,"Pattern: Orcish Banner, Worn","rr01 green fine consumable recipe"",
+@vereesh,@MaximusGiganticus,119031,1700440314,true,27,akuma,Pattern: Orcish Banner Worn,"rr01 green fine consumable recipe"",
 "
-@ChaotixDemon,@Elnynd,119042,1700625330,true,870,akuma,"Pattern: Orcish Curtain, Curved","rr01 blue superior consumable recipe"",
+@ChaotixDemon,@Elnynd,119042,1700625330,true,870,akuma,Pattern: Orcish Curtain Curved,"rr01 blue superior consumable recipe"",
 "
-@SavageHoax,@WeWithACatHat,119046,1700771907,true,1800,akuma,"Praxis: Orcish Bookcase, Engraved","rr01 blue superior consumable recipe"",
+@SavageHoax,@WeWithACatHat,119046,1700771907,true,1800,akuma,Praxis: Orcish Bookcase Engraved,"rr01 blue superior consumable recipe"",
 "
-@pumbz,@WarFareCheck,119047,1700514322,true,3000,akuma,"Blueprint: Orcish Bunkbed, Leather","rr01 blue superior consumable recipe"",
+@pumbz,@WarFareCheck,119047,1700514322,true,3000,akuma,Blueprint: Orcish Bunkbed Leather,"rr01 blue superior consumable recipe"",
 "
-@lavenderstar86,@Leigonaire762,151860,1700672444,true,10000,akuma,"Sapling, Blue Wisteria","rr01 purple epic furnishings conservatory"",
+@lavenderstar86,@Leigonaire762,151860,1700672444,true,10000,akuma,Sapling Blue Wisteria,"rr01 purple epic furnishings conservatory"",
 "
-@vKaotic,@limamari,119130,1700787434,false,50,akuma,"Design: Redguard Pot, Sealed","rr01 green fine consumable recipe"",
+@vKaotic,@limamari,119130,1700787434,false,50,akuma,Design: Redguard Pot Sealed,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@TerrorAnn,119141,1699772650,true,100,akuma,"Blueprint: Redguard Chair, Backless","rr01 green fine consumable recipe"",
+@vKaotic,@TerrorAnn,119141,1699772650,true,100,akuma,Blueprint: Redguard Chair Backless,"rr01 green fine consumable recipe"",
 "
-@pewterskier,@Jetxky,119144,1699999642,false,27,akuma,"Blueprint: Redguard Nightstand, Sturdy","rr01 green fine consumable recipe"",
+@pewterskier,@Jetxky,119144,1699999642,false,27,akuma,Blueprint: Redguard Nightstand Sturdy,"rr01 green fine consumable recipe"",
 "
-@Ozzy29,@wxmxm,119145,1699889500,true,150,akuma,"Blueprint: Redguard Table, Sturdy","rr01 green fine consumable recipe"",
+@Ozzy29,@wxmxm,119145,1699889500,true,150,akuma,Blueprint: Redguard Table Sturdy,"rr01 green fine consumable recipe"",
 "
-@pumbz,@Llorydian,119146,1700536521,true,50,akuma,"Blueprint: Redguard Stool, Sturdy","rr01 green fine consumable recipe"",
+@pumbz,@Llorydian,119146,1700536521,true,50,akuma,Blueprint: Redguard Stool Sturdy,"rr01 green fine consumable recipe"",
 "
-@xamich,@Llorydian,119171,1700536769,true,2100,akuma,"Blueprint: Redguard Cabinet, Inlaid","rr01 blue superior consumable recipe"",
+@xamich,@Llorydian,119171,1700536769,true,2100,akuma,Blueprint: Redguard Cabinet Inlaid,"rr01 blue superior consumable recipe"",
 "
-@fairysynth,@Lepidoptera3000,151945,1700951153,true,3600,akuma,"Plant, Spore Pod","rr01 green fine furnishings conservatory"",
+@fairysynth,@Lepidoptera3000,151945,1700951153,true,3600,akuma,Plant Spore Pod,"rr01 green fine furnishings conservatory"",
 "
-@ConjuringWorm,@Elnynd,119196,1700625356,true,5200,akuma,"Pattern: Redguard Runner, Sun","rr01 blue superior consumable recipe"",
+@ConjuringWorm,@Elnynd,119196,1700625356,true,5200,akuma,Pattern: Redguard Runner Sun,"rr01 blue superior consumable recipe"",
 "
-@XPhenixFireX,@Cinnadots,151973,1699419155,false,327,akuma,"Praxis: Elsweyr Plinth, Ancient Stone","rr01 green fine consumable recipe"",
+@XPhenixFireX,@Cinnadots,151973,1699419155,false,327,akuma,Praxis: Elsweyr Plinth Ancient Stone,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Jas1232,151985,1699896509,true,80,akuma,"Blueprint: Elsweyr Bowl, Simple","rr01 green fine consumable recipe"",
+@vKaotic,@Jas1232,151985,1699896509,true,80,akuma,Blueprint: Elsweyr Bowl Simple,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@Llorydian,151985,1700324139,true,111,akuma,"Blueprint: Elsweyr Bowl, Simple","rr01 green fine consumable recipe"",
+@MouthForWar79,@Llorydian,151985,1700324139,true,111,akuma,Blueprint: Elsweyr Bowl Simple,"rr01 green fine consumable recipe"",
 "
-@ChristoVarian,@caspercross,151998,1700616053,true,3999,akuma,"Praxis: Elsweyr Pot, Cerulean","rr01 blue superior consumable recipe"",
+@ChristoVarian,@caspercross,151998,1700616053,true,3999,akuma,Praxis: Elsweyr Pot Cerulean,"rr01 blue superior consumable recipe"",
 "
-@Wynterlance,@Paperpath,119232,1700317879,true,150000,akuma,"Pattern: Redguard Pillow, Sunset","rr01 purple epic consumable recipe"",
+@Wynterlance,@Paperpath,119232,1700317879,true,150000,akuma,Pattern: Redguard Pillow Sunset,"rr01 purple epic consumable recipe"",
 "
-@Wynterlance,@Paperpath,119240,1700317856,true,125000,akuma,"Pattern: Redguard Bench, Padded","rr01 purple epic consumable recipe"",
+@Wynterlance,@Paperpath,119240,1700317856,true,125000,akuma,Pattern: Redguard Bench Padded,"rr01 purple epic consumable recipe"",
 "
-@ConjuringWorm,@GarkaLaGarka,119328,1700061619,false,150,akuma,"Diagram: Rough Hatchet, Practical","rr01 white normal consumable recipe"",
+@ConjuringWorm,@GarkaLaGarka,119328,1700061619,false,150,akuma,Diagram: Rough Hatchet Practical,"rr01 white normal consumable recipe"",
 "
-@GarkaLaGarka,@Myever821,119328,1700293293,true,130,akuma,"Diagram: Rough Hatchet, Practical","rr01 white normal consumable recipe"",
+@GarkaLaGarka,@Myever821,119328,1700293293,true,130,akuma,Diagram: Rough Hatchet Practical,"rr01 white normal consumable recipe"",
 "
-@vKaotic,@littleherb1974,119342,1699733444,true,10,akuma,"Blueprint: Rough Crate, Bolted","rr01 white normal consumable recipe"",
+@vKaotic,@littleherb1974,119342,1699733444,true,10,akuma,Blueprint: Rough Crate Bolted,"rr01 white normal consumable recipe"",
 "
-@shane1395,@GarkaLaGarka,119352,1700061561,false,10,akuma,"Design: Pumpkin, Display","rr01 green fine consumable recipe"",
+@shane1395,@GarkaLaGarka,119352,1700061561,false,10,akuma,Design: Pumpkin Display,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@limamari,119356,1700787427,false,111,akuma,"Design: Beets, Display","rr01 green fine consumable recipe"",
+@MouthForWar79,@limamari,119356,1700787427,false,111,akuma,Design: Beets Display,"rr01 green fine consumable recipe"",
 "
-@pewterskier,@GarkaLaGarka,119361,1700061593,false,100,akuma,"Pattern: Common Basket, Open","rr01 green fine consumable recipe"",
+@pewterskier,@GarkaLaGarka,119361,1700061593,false,100,akuma,Pattern: Common Basket Open,"rr01 green fine consumable recipe"",
 "
-@Jellydem,@GarkaLaGarka,119374,1700061607,false,135,akuma,"Pattern: Common Pack, Backpack","rr01 green fine consumable recipe"",
+@Jellydem,@GarkaLaGarka,119374,1700061607,false,135,akuma,Pattern: Common Pack Backpack,"rr01 green fine consumable recipe"",
 "
-@Ghatlh,@GarkaLaGarka,119378,1700061578,false,50,akuma,"Design: Carrots, Wax","rr01 green fine consumable recipe"",
+@Ghatlh,@GarkaLaGarka,119378,1700061578,false,50,akuma,Design: Carrots Wax,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@GarkaLaGarka,119385,1700061568,false,20,akuma,"Design: Sugar Pumpkin, Wax","rr01 green fine consumable recipe"",
+@vKaotic,@GarkaLaGarka,119385,1700061568,false,20,akuma,Design: Sugar Pumpkin Wax,"rr01 green fine consumable recipe"",
 "
-@pewterskier,@Naybeon_Fangcutter,119385,1700842568,false,27,akuma,"Design: Sugar Pumpkin, Wax","rr01 green fine consumable recipe"",
+@pewterskier,@Naybeon_Fangcutter,119385,1700842568,false,27,akuma,Design: Sugar Pumpkin Wax,"rr01 green fine consumable recipe"",
 "
-@HawtChet,@netkat,119394,1700939774,true,154,akuma,"Praxis: Common Bookrest, Practical","rr01 green fine consumable recipe"",
+@HawtChet,@netkat,119394,1700939774,true,154,akuma,Praxis: Common Bookrest Practical,"rr01 green fine consumable recipe"",
 "
-@HawtChet,@limamari,119394,1700787454,false,227,akuma,"Praxis: Common Bookrest, Practical","rr01 green fine consumable recipe"",
+@HawtChet,@limamari,119394,1700787454,false,227,akuma,Praxis: Common Bookrest Practical,"rr01 green fine consumable recipe"",
 "
-@pewterskier,@GarkaLaGarka,119404,1700061572,false,27,akuma,"Diagram: Common Cage, Hunting","rr01 green fine consumable recipe"",
+@pewterskier,@GarkaLaGarka,119404,1700061572,false,27,akuma,Diagram: Common Cage Hunting,"rr01 green fine consumable recipe"",
 "
-@SpankaTeyr,@NixNoctia,119422,1700172446,false,6500,akuma,"Blueprint: Coffin, Case","rr01 purple epic consumable recipe"",
+@SpankaTeyr,@NixNoctia,119422,1700172446,false,6500,akuma,Blueprint: Coffin Case,"rr01 purple epic consumable recipe"",
 "
-@SavageHoax,@Kooish,119444,1700009303,false,1000,akuma,"Design: Candle, Group","rr01 blue superior consumable recipe"",
+@SavageHoax,@Kooish,119444,1700009303,false,1000,akuma,Design: Candle Group,"rr01 blue superior consumable recipe"",
 "
-@MagicalConch,@limamari,119446,1700787556,false,750,akuma,"Diagram: Lantern, Hanging","rr01 blue superior consumable recipe"",
+@MagicalConch,@limamari,119446,1700787556,false,750,akuma,Diagram: Lantern Hanging,"rr01 blue superior consumable recipe"",
 "
 @War-Carrots,@iamagear0,152239,1700845216,false,1497,akuma,Forgotten Adventurer's Inferno Staff,"rr03 white normal weapon flame staff two-handed training"",
 "
-@SparrowX9,@Cinnadots,119483,1699419171,false,650,akuma,"Blueprint: Gibbet, Single","rr01 purple epic consumable recipe"",
+@SparrowX9,@Cinnadots,119483,1699419171,false,650,akuma,Blueprint: Gibbet Single,"rr01 purple epic consumable recipe"",
 "
-@vKaotic,@JossetteLT,119483,1699686731,true,100,akuma,"Blueprint: Gibbet, Single","rr01 purple epic consumable recipe"",
+@vKaotic,@JossetteLT,119483,1699686731,true,100,akuma,Blueprint: Gibbet Single,"rr01 purple epic consumable recipe"",
 "
 @SeuJose,@Mayev38,86743,1700535971,true,1500,akuma,Ring of Necropotence,"cp160 blue superior jewelry apparel set necropotence ring arcane"",
 "
@@ -4077,7 +4077,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Marinola,@MaximusGiganticus,119524,1700440326,true,400,akuma,Blueprint: Stockade,"rr01 purple epic consumable recipe"",
 "
-@GrabbersDivinity,@limamari,119526,1700787558,false,750,akuma,"Design: Goblet, Wine","rr01 blue superior consumable recipe"",
+@GrabbersDivinity,@limamari,119526,1700787558,false,750,akuma,Design: Goblet Wine,"rr01 blue superior consumable recipe"",
 "
 @teeje,@ßlazing-Acherion,86910,1700940320,true,183,akuma,Jerkin of Necropotence,"cp160 purple epic light apparel set necropotence chest training"",
 "
@@ -4817,7 +4817,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Carlinhaaa,@Mayev38,153839,1700535981,true,2000,akuma,Paint-Stained Ring,"cp160 blue superior jewelry apparel set marauder's haste ring arcane"",
 "
-@vKaotic,@Remsen,121104,1699684518,false,200,akuma,"Formula: Common Quill, Feather","rr01 green fine consumable recipe"",
+@vKaotic,@Remsen,121104,1699684518,false,200,akuma,Formula: Common Quill Feather,"rr01 green fine consumable recipe"",
 "
 @HawtChet,@OnionBiscuit,55569,1700614937,false,245,akuma,Beech Bow of Frost,"rr32 green fine weapon bow two-handed"",
 "
@@ -4837,9 +4837,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Bleztor,@SerNemesis,33265,1700247931,false,3000,akuma,Soul Gem (Empty),"rr50 white normal miscellaneous soul gem"",
 "
-@Argorious,@Zzmonsoon,181583,1700873325,true,7000,akuma,"Praxis: Leyawiin Archway, Garden","rr01 blue superior consumable recipe"",
+@Argorious,@Zzmonsoon,181583,1700873325,true,7000,akuma,Praxis: Leyawiin Archway Garden,"rr01 blue superior consumable recipe"",
 "
-@Lyranis.Raine,@siriussilver,94100,1700760532,true,880,akuma,"Imperial Bookcase, Swirled","rr01 green fine furnishings library"",
+@Lyranis.Raine,@siriussilver,94100,1700760532,true,880,akuma,Imperial Bookcase Swirled,"rr01 green fine furnishings library"",
 "
 @Lunareklypse,@Jenerationex,121335,1699790589,true,15750,akuma,Crafting Motif 50: Telvanni Boots,"rr01 purple epic consumable motif"",
 "
@@ -4893,7 +4893,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @L3xz,@Mayev38,193851,1700535978,true,2000,akuma,Snake in the Stars Amulet,"cp160 blue superior jewelry apparel set snake in the stars neck arcane"",
 "
-@Wynterlance,@Dimora06,119300,1699948721,true,120000,akuma,"Pattern: Redguard Tuffet, Oasis","rr01 purple epic consumable recipe"",
+@Wynterlance,@Dimora06,119300,1699948721,true,120000,akuma,Pattern: Redguard Tuffet Oasis,"rr01 purple epic consumable recipe"",
 "
 @Primehunter501,@GingerbreadHag,77590,1700281437,true,177,akuma,Nightshade,"rr01 green fine materials reagent"",
 "
@@ -4931,7 +4931,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @JuliaRoseBlack,@NixNoctia,23107,1700492719,false,110,akuma,Orichalcum Ingot,"rr01 white normal materials"",
 "
-@Shastan,@GingerbreadHag,134912,1699817945,true,6200,akuma,"Mushroom, Large Puspocket","rr01 blue superior furnishings conservatory"",
+@Shastan,@GingerbreadHag,134912,1699817945,true,6200,akuma,Mushroom Large Puspocket,"rr01 blue superior furnishings conservatory"",
 "
 @KillerClembo,@PhonicsWright,176167,1700949474,false,900,akuma,Companion's Ring,"rr01 blue superior jewelry apparel ring prolific"",
 "
@@ -4963,7 +4963,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @KlumsBabe,@tangod13,23131,1700786930,true,9960,akuma,Raw Ebonthread,"rr01 white normal materials raw"",
 "
-@ChargeYourWeapons,@Aeonstar,198380,1700633523,true,5000,akuma,"Apocrypha Ink Pestle, Black","rr01 green fine furnishings library"",
+@ChargeYourWeapons,@Aeonstar,198380,1700633523,true,5000,akuma,Apocrypha Ink Pestle Black,"rr01 green fine furnishings library"",
 "
 @Jetxky,@PyroManiac713,23143,1700164646,true,170,akuma,Iron Hide Scraps,"rr01 white normal materials raw"",
 "
@@ -5117,7 +5117,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Domiforu,@fizzyapple,194023,1700540412,true,500,akuma,Shell Splitter Ring,"cp160 blue superior jewelry apparel set shell splitter ring robust"",
 "
-@DivadSesom,@paleyhaley,187873,1700406703,true,15000,akuma,"Abecean Bounty Painting, Wood","rr01 purple epic furnishings gallery"",
+@DivadSesom,@paleyhaley,187873,1700406703,true,15000,akuma,Abecean Bounty Painting Wood,"rr01 purple epic furnishings gallery"",
 "
 @Primehunter501,@GingerbreadHag,30157,1700281435,true,202,akuma,Blessed Thistle,"rr01 green fine materials reagent"",
 "
@@ -5127,11 +5127,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @NixNoctia,@Elixana,30157,1700503392,true,6000,akuma,Blessed Thistle,"rr01 green fine materials reagent"",
 "
-@SavageHoax,@Cheesed_GB,198077,1700340419,false,5500,akuma,"Praxis: Necrom Platform, Stone","rr01 green fine consumable recipe"",
+@SavageHoax,@Cheesed_GB,198077,1700340419,false,5500,akuma,Praxis: Necrom Platform Stone,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Myever821,116156,1700293042,true,65,akuma,"Blueprint: Nord Bench, Braced","rr01 green fine consumable recipe"",
+@vKaotic,@Myever821,116156,1700293042,true,65,akuma,Blueprint: Nord Bench Braced,"rr01 green fine consumable recipe"",
 "
-@pewterskier,@Jetxky,116149,1699999643,false,27,akuma,"Blueprint: Nord Hutch, Rough","rr01 green fine consumable recipe"",
+@pewterskier,@Jetxky,116149,1699999643,false,27,akuma,Blueprint: Nord Hutch Rough,"rr01 green fine consumable recipe"",
 "
 @Ghatlh,@hydraqc,176722,1700286651,true,8000,akuma,Companion's Hat,"rr01 blue superior light apparel head soothing"",
 "
@@ -5141,7 +5141,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @JunkerMethod,@ShopcartStealer,45702,1700401889,true,9300,akuma,Recipe: Imperial Stuffed Piglet,"rr01 purple epic consumable recipe"",
 "
-@Sanadora,@Rhyven-Windseeker,116060,1700945448,true,20000,akuma,"Blueprint: Dark Elf Counter, Block","rr01 purple epic consumable recipe"",
+@Sanadora,@Rhyven-Windseeker,116060,1700945448,true,20000,akuma,Blueprint: Dark Elf Counter Block,"rr01 purple epic consumable recipe"",
 "
 @Mystic.legend,@whtk210,45840,1700886425,true,245,akuma,Meip,"rr01 white normal materials essence runestone"",
 "
@@ -5225,7 +5225,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @ElQueue,@Kysdyl,129999,1700623944,true,26000,akuma,Crafting Motif 51: Hlaalu Chests,"rr01 purple epic consumable motif"",
 "
-@shy-robot,@Ursefina,139097,1700558180,true,24100,akuma,"Spiral Skein Glowstalks, Sprouts","rr01 purple epic furnishings lighting"",
+@shy-robot,@Ursefina,139097,1700558180,true,24100,akuma,Spiral Skein Glowstalks Sprouts,"rr01 purple epic furnishings lighting"",
 "
 @MasterW3,@Tanneu,27269,1699829065,true,500,akuma,Prophet's Recollection,"rr38 blue superior jewelry apparel ring arcane"",
 "
@@ -5239,11 +5239,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Deathbrin90,@Ostilbrand,176311,1700497405,true,1955,akuma,Companion's Ring,"rr01 blue superior jewelry apparel ring focused"",
 "
-@Lunareklypse,@Prownsuite,181520,1699990265,true,48750,akuma,"Leyawiin Door, Wooden","rr01 blue superior furnishings structures"",
+@Lunareklypse,@Prownsuite,181520,1699990265,true,48750,akuma,Leyawiin Door Wooden,"rr01 blue superior furnishings structures"",
 "
-@vKaotic,@ItsJustRiz,116021,1699653932,true,50,akuma,"Pattern: Dark Elf Runner, Bordered","rr01 green fine consumable recipe"",
+@vKaotic,@ItsJustRiz,116021,1699653932,true,50,akuma,Pattern: Dark Elf Runner Bordered,"rr01 green fine consumable recipe"",
 "
-@vereesh,@netkat,116021,1700939776,true,100,akuma,"Pattern: Dark Elf Runner, Bordered","rr01 green fine consumable recipe"",
+@vereesh,@netkat,116021,1700939776,true,100,akuma,Pattern: Dark Elf Runner Bordered,"rr01 green fine consumable recipe"",
 "
 @ChargeYourWeapons,@Alles_Gut,27057,1699629210,true,999,akuma,Cheese,"rr01 white normal materials ingredient"",
 "
@@ -5285,9 +5285,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @DanceyPants,@Raduuken,139458,1699932670,true,10000,akuma,Psijic Glowglobe's Conjectural Writings,"rr01 purple epic consumable trophy"",
 "
-@Deathbrin90,@MikMikMouse,139059,1699786721,true,2800,akuma,"Ivory, Polished","rr01 green fine furnishings parlor"",
+@Deathbrin90,@MikMikMouse,139059,1699786721,true,2800,akuma,Ivory Polished,"rr01 green fine furnishings parlor"",
 "
-@lubasik,@ArkadiaReaper,139059,1700610670,true,60,akuma,"Ivory, Polished","rr01 green fine furnishings parlor"",
+@lubasik,@ArkadiaReaper,139059,1700610670,true,60,akuma,Ivory Polished,"rr01 green fine furnishings parlor"",
 "
 @Cinnadots,@dollfuss,187704,1699446643,true,1000,akuma,Style Page: High Rock Spellsword Breeches,"rr01 gold legendary consumable collectible"",
 "
@@ -5333,7 +5333,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Jack.Fyre,@Deminia,155142,1699967141,true,1090,akuma,Shoes of Marauder's Haste,"cp160 purple epic light apparel set marauder's haste feet invigorating"",
 "
-@DivadSesom,@Bababrookly,134409,1700602516,true,9800,akuma,"Factotum Head, Obsolete","rr01 blue superior furnishings undercroft"",
+@DivadSesom,@Bababrookly,134409,1700602516,true,9800,akuma,Factotum Head Obsolete,"rr01 blue superior furnishings undercroft"",
 "
 @jigumiz,@FaintyFox,181673,1700787128,false,58000,akuma,Crafting Motif 110: Dreadsails Shoulders,"rr01 purple epic consumable motif"",
 "
@@ -5573,11 +5573,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @TheRealCrazyCarmela,@Naybeon_Fangcutter,57083,1700842502,false,217,akuma,Rimmen Raisin Cookies,"rr35 green fine consumable food"",
 "
-@MouthForWar79,@SphinxReverie,188161,1700431990,false,222,akuma,"Blueprint: High Isle Stool, Rustic","rr01 green fine consumable recipe"",
+@MouthForWar79,@SphinxReverie,188161,1700431990,false,222,akuma,Blueprint: High Isle Stool Rustic,"rr01 green fine consumable recipe"",
 "
-@OMGWTFREALLY,@Hellraisin1,188163,1700549940,false,467,akuma,"Blueprint: High Isle Dresser, Rustic","rr01 green fine consumable recipe"",
+@OMGWTFREALLY,@Hellraisin1,188163,1700549940,false,467,akuma,Blueprint: High Isle Dresser Rustic,"rr01 green fine consumable recipe"",
 "
-@Lunareklypse,@Qähnàärïn13,188178,1699965607,true,68500,akuma,"Design: High Isle Crab, Steamed Pile","rr01 purple epic consumable recipe"",
+@Lunareklypse,@Qähnàärïn13,188178,1699965607,true,68500,akuma,Design: High Isle Crab Steamed Pile,"rr01 purple epic consumable recipe"",
 "
 @Wild_Thesaurus,@width,30164,1699827251,false,75000,akuma,Columbine,"rr01 green fine materials reagent"",
 "
@@ -5613,7 +5613,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Kefkaas,@Brassmoose,188200,1700950145,true,35000,akuma,Coral Haj Mota Lure,"rr01 purple epic consumable trophy"",
 "
-@MakotoMitsuri,@lostchild-browntabby,198509,1699846101,true,200000,akuma,"Praxis: Apocrypha Bookcase, Intricate","rr01 blue superior consumable recipe"",
+@MakotoMitsuri,@lostchild-browntabby,198509,1699846101,true,200000,akuma,Praxis: Apocrypha Bookcase Intricate,"rr01 blue superior consumable recipe"",
 "
 @Ghatlh,@BobSenpai,176707,1700079273,false,300,akuma,Companion's Ring,"rr01 green fine jewelry apparel ring soothing"",
 "
@@ -5711,17 +5711,17 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @thortothemax45,@dddudorrr,30145,1700502316,true,5000,akuma,Essence of Spell Power,"cp150 white normal consumable potion"",
 "
-@chesscat,@Elnynd,181577,1700625386,true,10000,akuma,"Blueprint: Leyawiin Wall, Wainscoted","rr01 purple epic consumable recipe"",
+@chesscat,@Elnynd,181577,1700625386,true,10000,akuma,Blueprint: Leyawiin Wall Wainscoted,"rr01 purple epic consumable recipe"",
 "
-@vKaotic,@TemplarShadows,181553,1699668400,true,300,akuma,"Formula: Vampiric Lab Jar, Large","rr01 blue superior consumable recipe"",
+@vKaotic,@TemplarShadows,181553,1699668400,true,300,akuma,Formula: Vampiric Lab Jar Large,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@Moonshadow42,181552,1699499104,true,100,akuma,"Formula: Vampiric Alchemy Rack, Tubes","rr01 blue superior consumable recipe"",
+@vKaotic,@Moonshadow42,181552,1699499104,true,100,akuma,Formula: Vampiric Alchemy Rack Tubes,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@JossetteLT,181552,1699686759,true,100,akuma,"Formula: Vampiric Alchemy Rack, Tubes","rr01 blue superior consumable recipe"",
+@vKaotic,@JossetteLT,181552,1699686759,true,100,akuma,Formula: Vampiric Alchemy Rack Tubes,"rr01 blue superior consumable recipe"",
 "
-@BlindLittleMole,@Remsen,130332,1699684722,false,2500,akuma,"Witches Totem, Bone Charms","rr01 purple epic furnishings undercroft"",
+@BlindLittleMole,@Remsen,130332,1699684722,false,2500,akuma,Witches Totem Bone Charms,"rr01 purple epic furnishings undercroft"",
 "
-@SeuJose,@Saikom,130328,1699716537,true,1800,akuma,"Witches Skull, Horned Ram","rr01 purple epic furnishings undercroft"",
+@SeuJose,@Saikom,130328,1699716537,true,1800,akuma,Witches Skull Horned Ram,"rr01 purple epic furnishings undercroft"",
 "
 @Jetchi,@GreyWinds,26588,1700082117,true,12,akuma,Slight Glyph of Stamina,"rr20 white normal miscellaneous armor glyph"",
 "
@@ -5833,11 +5833,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @pewterskier,@Brownmon33,156614,1699834779,true,78,akuma,Crafting Motif 81: New Moon Priest Daggers,"rr01 purple epic consumable motif"",
 "
-@Marinola,@Leonie_Zephyr,156652,1700452118,true,50,akuma,"Garlas Alpinia, Branching","rr01 blue superior furnishings conservatory"",
+@Marinola,@Leonie_Zephyr,156652,1700452118,true,50,akuma,Garlas Alpinia Branching,"rr01 blue superior furnishings conservatory"",
 "
 @vipkid1412,@Datsa,123890,1700877062,false,1500,akuma,Wizard's Riposte Sash,"cp160 purple epic light apparel set wizard's riposte waist training"",
 "
-@Wynterlance,@JossetteLT,119298,1699687890,true,200000,akuma,"Pattern: Redguard Pillow Roll, Desert Flame","rr01 purple epic consumable recipe"",
+@Wynterlance,@JossetteLT,119298,1699687890,true,200000,akuma,Pattern: Redguard Pillow Roll Desert Flame,"rr01 purple epic consumable recipe"",
 "
 @Skul_d47,@Pontifexaor,156692,1700912909,true,15000,akuma,Style Page: Skaal Explorer Jerkin,"rr01 gold legendary consumable collectible"",
 "
@@ -5845,7 +5845,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Miller_HighLife14,@dyanle,139657,1700538946,true,4000,akuma,Exemplary Bloodthirsty Ring,"rr01 purple epic jewelry apparel ring bloodthirsty"",
 "
-@lavenderstar86,@Silver_Dawn80,189478,1700751310,true,30000,akuma,"Elsweyr Moon Reflection Tower, Base","rr01 gold legendary furnishings structures"",
+@lavenderstar86,@Silver_Dawn80,189478,1700751310,true,30000,akuma,Elsweyr Moon Reflection Tower Base,"rr01 gold legendary furnishings structures"",
 "
 @Sabercat,@mochihead,156716,1699925421,true,500,akuma,Southern Elsweyr Treasure Map I,"rr01 blue superior miscellaneous trophy"",
 "
@@ -5879,9 +5879,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Kooish,@DemonicdeathXXX,45304,1700919201,false,500,akuma,Rubedite Dagger,"cp160 white normal weapon dagger one-handed intricate"",
 "
-@Ghatlh,@Myever821,119016,1700293285,true,100,akuma,"Blueprint: Orcish Shelves, Braced","rr01 green fine consumable recipe"",
+@Ghatlh,@Myever821,119016,1700293285,true,100,akuma,Blueprint: Orcish Shelves Braced,"rr01 green fine consumable recipe"",
 "
-@NixNoctia,@Myever821,119015,1700293050,true,99,akuma,"Blueprint: Orcish Bench, Cabled","rr01 green fine consumable recipe"",
+@NixNoctia,@Myever821,119015,1700293050,true,99,akuma,Blueprint: Orcish Bench Cabled,"rr01 green fine consumable recipe"",
 "
 @Vaelfear,@MouthForWar79,156813,1700095357,false,199000,akuma,Style Page: Opal Ilambris Shield,"rr01 gold legendary consumable collectible"",
 "
@@ -5983,11 +5983,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Lunareklypse,@GarkaLaGarka,190035,1700131283,false,23150,akuma,Runebox: Ghastly Visitation Memento,"rr01 gold legendary consumable container"",
 "
-@xamich,@kolimiasteve,188169,1700462735,true,220000,akuma,"Blueprint: High Isle Bookcase, Wide Carved Filled","rr01 purple epic consumable recipe"",
+@xamich,@kolimiasteve,188169,1700462735,true,220000,akuma,Blueprint: High Isle Bookcase Wide Carved Filled,"rr01 purple epic consumable recipe"",
 "
-@Platinu,@EntropicSoul,190075,1699967954,true,139669,akuma,"Diagram: High Isle Beacon, Unlit","rr01 gold legendary consumable recipe"",
+@Platinu,@EntropicSoul,190075,1699967954,true,139669,akuma,Diagram: High Isle Beacon Unlit,"rr01 gold legendary consumable recipe"",
 "
-@Platinu,@StretchyPants,190079,1700793552,true,139669,akuma,"Design: Shark Jaw, Massive","rr01 gold legendary consumable recipe"",
+@Platinu,@StretchyPants,190079,1700793552,true,139669,akuma,Design: Shark Jaw Massive,"rr01 gold legendary consumable recipe"",
 "
 @Dwight3,@MouthForWar79,190105,1700392747,false,3000,akuma,Style Page: Opal Velidreth Bow,"rr01 gold legendary consumable collectible"",
 "
@@ -6009,7 +6009,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @NoPantsStan,@OneTroubledTurtle,43699,1700529385,false,350,akuma,Bleakrock Treasure Map I,"rr01 blue superior miscellaneous trophy"",
 "
-@lavenderstar86,@Princess-Sammich,151768,1700715919,true,42000,akuma,"Elsweyr Fountain, Four Lions","rr01 purple epic furnishings courtyard"",
+@lavenderstar86,@Princess-Sammich,151768,1700715919,true,42000,akuma,Elsweyr Fountain Four Lions,"rr01 purple epic furnishings courtyard"",
 "
 @MadisonRayne,@ChargeYourWeapons,45132,1700920859,false,54,akuma,Orichalc Gauntlets of Stamina,"rr32 green fine heavy apparel hands well-fitted"",
 "
@@ -6091,7 +6091,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Cpt.Zynbabwe,@DemonViking,132538,1700050888,true,24999,akuma,Crafting Motif 54: Bloodforge Chests,"rr01 purple epic consumable motif"",
 "
-@Ploppa,@MaximusGiganticus,115915,1700440322,true,199,akuma,"Blueprint: Breton Chair, Windowed","rr01 green fine consumable recipe"",
+@Ploppa,@MaximusGiganticus,115915,1700440322,true,199,akuma,Blueprint: Breton Chair Windowed,"rr01 green fine consumable recipe"",
 "
 @Jetxky,@piaopi,46133,1700136735,false,1872,akuma,Silverweave,"rr01 white normal materials"",
 "
@@ -6123,11 +6123,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @khanmorte,@MagicalConch,190326,1700525645,false,2000,akuma,Style Page: Bonemold Girdle,"rr01 gold legendary consumable collectible"",
 "
-@Domiforu,@GarkaLaGarka,116026,1700061596,false,100,akuma,"Formula: Dark Elf Lantern, Oil","rr01 green fine consumable recipe"",
+@Domiforu,@GarkaLaGarka,116026,1700061596,false,100,akuma,Formula: Dark Elf Lantern Oil,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Jean94X,116025,1699573404,true,50,akuma,"Diagram: Dark Elf Candle, Claw Base","rr01 green fine consumable recipe"",
+@vKaotic,@Jean94X,116025,1699573404,true,50,akuma,Diagram: Dark Elf Candle Claw Base,"rr01 green fine consumable recipe"",
 "
-@pewterskier,@Jetxky,116013,1699999641,false,27,akuma,"Blueprint: Dark Elf Rack, Barrel","rr01 green fine consumable recipe"",
+@pewterskier,@Jetxky,116013,1699999641,false,27,akuma,Blueprint: Dark Elf Rack Barrel,"rr01 green fine consumable recipe"",
 "
 @Skul_d47,@HeyBobbyG,142419,1700626021,true,7800,akuma,Dead-Water's Guile Necklace,"cp160 blue superior jewelry apparel set dead-water's guile neck robust"",
 "
@@ -6135,9 +6135,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Jack.Fyre,@D34thbySnuSnu,190368,1700742304,true,5150,akuma,Gourmand's Amulet,"cp160 blue superior jewelry apparel set back-alley gourmand neck arcane"",
 "
-@SaltyDog6616,@shane1395,64705,1700193375,false,500,akuma,"Recipe: Psijic Ambrosia, Fragment III","rr01 purple epic consumable trophy"",
+@SaltyDog6616,@shane1395,64705,1700193375,false,500,akuma,Recipe: Psijic Ambrosia Fragment III,"rr01 purple epic consumable trophy"",
 "
-@Skul_d47,@Naybeon_Fangcutter,64705,1700523904,false,330,akuma,"Recipe: Psijic Ambrosia, Fragment III","rr01 purple epic consumable trophy"",
+@Skul_d47,@Naybeon_Fangcutter,64705,1700523904,false,330,akuma,Recipe: Psijic Ambrosia Fragment III,"rr01 purple epic consumable trophy"",
 "
 @Shastan,@piaopi,26580,1700578522,false,500,akuma,Truly Superb Glyph of Health,"cp160 blue superior miscellaneous armor glyph"",
 "
@@ -6295,11 +6295,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @adghar,@Gav9n,26954,1700112602,false,400,akuma,Garlic,"rr01 white normal materials ingredient"",
 "
-@pewterskier,@GarkaLaGarka,119370,1700061573,false,27,akuma,"Blueprint: Common Wheelbarrow, Flat","rr01 green fine consumable recipe"",
+@pewterskier,@GarkaLaGarka,119370,1700061573,false,27,akuma,Blueprint: Common Wheelbarrow Flat,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@Jean94X,119354,1699674233,true,70,akuma,"Design: Beet String, Display","rr01 green fine consumable recipe"",
+@vKaotic,@Jean94X,119354,1699674233,true,70,akuma,Design: Beet String Display,"rr01 green fine consumable recipe"",
 "
-@NixNoctia,@Myever821,119354,1700293049,true,99,akuma,"Design: Beet String, Display","rr01 green fine consumable recipe"",
+@NixNoctia,@Myever821,119354,1700293049,true,99,akuma,Design: Beet String Display,"rr01 green fine consumable recipe"",
 "
 @Jetchi,@Remsen,33256,1699948021,false,6,akuma,Corundum,"rr01 white normal materials style"",
 "
@@ -6317,11 +6317,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @fairysynth,@NuNuu,139411,1700725479,true,45000,akuma,Aurbic Amber,"rr01 white normal materials jewelry trait infused"",
 "
-@XPhenixFireX,@Cinnadots,139614,1699419183,false,928,akuma,"Sketch: Alinor Goblet, Silver Stamped","rr01 green fine consumable recipe"",
+@XPhenixFireX,@Cinnadots,139614,1699419183,false,928,akuma,Sketch: Alinor Goblet Silver Stamped,"rr01 green fine consumable recipe"",
 "
 @Kooish,@JoePJ60,45357,1700095340,true,400,akuma,Rubedo Leather Boots,"cp150 white normal medium apparel feet intricate"",
 "
-@ConjuringWorm,@nes320,119330,1700059823,true,350,akuma,"Diagram: Rough Knife, Butcher","rr01 white normal consumable recipe"",
+@ConjuringWorm,@nes320,119330,1700059823,true,350,akuma,Diagram: Rough Knife Butcher,"rr01 white normal consumable recipe"",
 "
 @akwaaa,@Naybeon_Fangcutter,27035,1700523961,false,239,akuma,Isinglass,"rr01 white normal materials ingredient"",
 "
@@ -6391,15 +6391,15 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @MadisonRayne,@ChargeYourWeapons,45069,1700920861,false,87,akuma,Ancestor Silk Gloves of Health,"cp160 green fine light apparel hands impenetrable"",
 "
-@SavageHoax,@Savageprincess,166772,1700547463,true,3500,akuma,"Design: Vampiric Goblet, Fluted","rr01 blue superior consumable recipe"",
+@SavageHoax,@Savageprincess,166772,1700547463,true,3500,akuma,Design: Vampiric Goblet Fluted,"rr01 blue superior consumable recipe"",
 "
-@anarki45,@TriFinal,125474,1700065135,true,5000,akuma,"Research Scroll, Clothing, 1 Day","rr01 gold legendary consumable trophy"",
+@anarki45,@TriFinal,125474,1700065135,true,5000,akuma,Research Scroll Clothing 1 Day,"rr01 gold legendary consumable trophy"",
 "
 @Boozly,@Dieg49,147414,1700891560,true,2000,akuma,Deadly Jack,"cp160 purple epic medium apparel set deadly strike chest training"",
 "
 @Boozly,@Narekai,147414,1700894571,true,2000,akuma,Deadly Jack,"cp160 purple epic medium apparel set deadly strike chest training"",
 "
-@rock1064,@Dreiya,152010,1699689986,true,65000,akuma,"Pattern: Elsweyr Bed, Yellow Four-Poster","rr01 purple epic consumable recipe"",
+@rock1064,@Dreiya,152010,1699689986,true,65000,akuma,Pattern: Elsweyr Bed Yellow Four-Poster,"rr01 purple epic consumable recipe"",
 "
 @Noobin007,@NuNuu,147372,1700374942,true,280000,akuma,Deadly Jack,"cp160 purple epic medium apparel set deadly strike chest divines"",
 "
@@ -6437,15 +6437,15 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @RajputLancer,@DemonicdeathXXX,45277,1700405691,false,180,akuma,Ancestor Silk Robe of Stamina,"cp160 blue superior light apparel chest divines"",
 "
-@vKaotic,@Evatrin,198508,1699793277,true,20000,akuma,"Praxis: Apocrypha Table, Spiked","rr01 green fine consumable recipe"",
+@vKaotic,@Evatrin,198508,1699793277,true,20000,akuma,Praxis: Apocrypha Table Spiked,"rr01 green fine consumable recipe"",
 "
-@ZeLezin,@xamatti,125583,1700573351,true,3000,akuma,"Mushroom, Cave Bracket","rr01 blue superior furnishings conservatory"",
+@ZeLezin,@xamatti,125583,1700573351,true,3000,akuma,Mushroom Cave Bracket,"rr01 blue superior furnishings conservatory"",
 "
-@SeuJose,@Valincroina,125583,1700700677,true,7500,akuma,"Mushroom, Cave Bracket","rr01 blue superior furnishings conservatory"",
+@SeuJose,@Valincroina,125583,1700700677,true,7500,akuma,Mushroom Cave Bracket,"rr01 blue superior furnishings conservatory"",
 "
-@MouthForWar79,@Hellraisin1,175950,1700550137,false,666,akuma,"Blueprint: Leyawiin Nightstand, Sturdy","rr01 green fine consumable recipe"",
+@MouthForWar79,@Hellraisin1,175950,1700550137,false,666,akuma,Blueprint: Leyawiin Nightstand Sturdy,"rr01 green fine consumable recipe"",
 "
-@Jellydem,@limamari,175950,1700787538,false,650,akuma,"Blueprint: Leyawiin Nightstand, Sturdy","rr01 green fine consumable recipe"",
+@Jellydem,@limamari,175950,1700787538,false,650,akuma,Blueprint: Leyawiin Nightstand Sturdy,"rr01 green fine consumable recipe"",
 "
 @SavageHoax,@Deminia,92832,1699967154,true,10000,akuma,Belt of the Shadow Walker,"cp160 purple epic medium apparel set shadow walker waist infused"",
 "
@@ -6453,11 +6453,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @vKaotic,@G-RYDER,45991,1700655498,true,25,akuma,Recipe: Old Clear-Eye Whiskey,"rr01 green fine consumable recipe"",
 "
-@flikao,@Towerdweller,125671,1700202231,true,6200,akuma,"Toadstool, Bloodtooth Cap","rr01 blue superior furnishings conservatory"",
+@flikao,@Towerdweller,125671,1700202231,true,6200,akuma,Toadstool Bloodtooth Cap,"rr01 blue superior furnishings conservatory"",
 "
-@Dwight3,@Towerdweller,125672,1700202193,true,5000,akuma,"Toadstool, Bloodtooth Cluster","rr01 blue superior furnishings conservatory"",
+@Dwight3,@Towerdweller,125672,1700202193,true,5000,akuma,Toadstool Bloodtooth Cluster,"rr01 blue superior furnishings conservatory"",
 "
-@EtedZ,@Towerdweller,125672,1700202194,true,5000,akuma,"Toadstool, Bloodtooth Cluster","rr01 blue superior furnishings conservatory"",
+@EtedZ,@Towerdweller,125672,1700202194,true,5000,akuma,Toadstool Bloodtooth Cluster,"rr01 blue superior furnishings conservatory"",
 "
 @Scarrebend,@shy-robot,125694,1699994077,false,750,akuma,Impregnable Armor Necklace,"cp160 blue superior jewelry apparel set impregnable armor neck arcane"",
 "
@@ -6473,7 +6473,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Mr.HomeInvasion,@Basedrevar,180267,1700421447,true,234,akuma,Battle Axe of the Kynmarcher's Cruelty,"cp160 green fine weapon set kynmarcher's cruelty axe two-handed infused"",
 "
-@Banshee_44,@WeWithACatHat,175987,1700771882,true,1000,akuma,"Diagram: Leyawiin Wall Mirror, Lacquered Frame","rr01 blue superior consumable recipe"",
+@Banshee_44,@WeWithACatHat,175987,1700771882,true,1000,akuma,Diagram: Leyawiin Wall Mirror Lacquered Frame,"rr01 blue superior consumable recipe"",
 "
 @Mr.HomeInvasion,@MagicalConch,180296,1700525705,false,500,akuma,Shield of the Kynmarcher's Cruelty,"cp160 blue superior apparel weapon set kynmarcher's cruelty shield off hand divines"",
 "
@@ -6489,7 +6489,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Mr.HomeInvasion,@Basedrevar,180407,1700421445,true,234,akuma,Battle Axe of the Kynmarcher's Cruelty,"cp160 green fine weapon set kynmarcher's cruelty axe two-handed training"",
 "
-@Jypsy76,@Elerethe,198496,1700320485,true,950000,akuma,"Diagram: Apocrypha Chair, Intricate","rr01 purple epic consumable recipe"",
+@Jypsy76,@Elerethe,198496,1700320485,true,950000,akuma,Diagram: Apocrypha Chair Intricate,"rr01 purple epic consumable recipe"",
 "
 @FaintyFox,@caspercross,147699,1700616217,true,5500,akuma,Crafting Motif 73: Anequina Axes,"rr01 purple epic consumable motif"",
 "
@@ -6513,7 +6513,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Mystic.legend,@Fleffle,129668,1700638174,true,150,akuma,Dagger of the Pariah,"cp160 green fine weapon set mark of the pariah dagger one-handed charged"",
 "
-@MouthForWar79,@SavageHoax,152106,1700106219,false,4444,akuma,"Diagram: Hakoshae Hook, Block","rr01 blue superior consumable recipe"",
+@MouthForWar79,@SavageHoax,152106,1700106219,false,4444,akuma,Diagram: Hakoshae Hook Block,"rr01 blue superior consumable recipe"",
 "
 @dawnarhinni,@xXSLAUGHTER95Xx,134678,1700619775,false,10000,akuma,Runebox: Jester's Scintillator,"rr01 gold legendary consumable container"",
 "
@@ -6523,7 +6523,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Mystic.legend,@Mushiroom,79367,1700640206,true,25000,akuma,Briarheart Lightning Staff,"cp160 purple epic weapon set briarheart lightning staff two-handed defending"",
 "
-@JunkerMethod,@Remsen,126469,1700452821,false,14400,akuma,"Telvanni Painting, Classic Forest","rr01 purple epic furnishings gallery"",
+@JunkerMethod,@Remsen,126469,1700452821,false,14400,akuma,Telvanni Painting Classic Forest,"rr01 purple epic furnishings gallery"",
 "
 @Oldschoolnoob,@Frosty.E,793,1699707781,true,28990,akuma,Rawhide Scraps,"rr01 white normal materials raw"",
 "
@@ -6555,15 +6555,15 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @ConjuringWorm,@LionIsaa,69066,1700027680,true,240,akuma,Greatsword of Endurance,"cp160 blue superior weapon set endurance sword two-handed infused"",
 "
-@VanBrunt,@TemplarShadows,197592,1699668416,true,489,akuma,"Formula: Telvanni Candles, Fungal Group","rr01 green fine consumable recipe"",
+@VanBrunt,@TemplarShadows,197592,1699668416,true,489,akuma,Formula: Telvanni Candles Fungal Group,"rr01 green fine consumable recipe"",
 "
-@VanBrunt,@JossetteLT,197592,1699686995,true,489,akuma,"Formula: Telvanni Candles, Fungal Group","rr01 green fine consumable recipe"",
+@VanBrunt,@JossetteLT,197592,1699686995,true,489,akuma,Formula: Telvanni Candles Fungal Group,"rr01 green fine consumable recipe"",
 "
-@SavageHoax,@Kooish,197592,1700009295,false,900,akuma,"Formula: Telvanni Candles, Fungal Group","rr01 green fine consumable recipe"",
+@SavageHoax,@Kooish,197592,1700009295,false,900,akuma,Formula: Telvanni Candles Fungal Group,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@SphinxReverie,116154,1700431914,false,50,akuma,"Design: Nord Urn, Ceramic","rr01 green fine consumable recipe"",
+@vKaotic,@SphinxReverie,116154,1700431914,false,50,akuma,Design: Nord Urn Ceramic,"rr01 green fine consumable recipe"",
 "
-@MouthForWar79,@Leonie_Zephyr,116154,1700452372,true,111,akuma,"Design: Nord Urn, Ceramic","rr01 green fine consumable recipe"",
+@MouthForWar79,@Leonie_Zephyr,116154,1700452372,true,111,akuma,Design: Nord Urn Ceramic,"rr01 green fine consumable recipe"",
 "
 @ChargeYourWeapons,@Alles_Gut,33768,1699629226,true,900,akuma,Comberry,"rr01 white normal materials ingredient"",
 "
@@ -6571,9 +6571,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Fallen_Prophet,@gloomspore,33771,1700620041,true,40,akuma,Jasmine,"rr01 white normal materials ingredient"",
 "
-@SavageHoax,@Kooish,197612,1700009282,false,800,akuma,"Pattern: Book Stack, Trio","rr01 green fine consumable recipe"",
+@SavageHoax,@Kooish,197612,1700009282,false,800,akuma,Pattern: Book Stack Trio,"rr01 green fine consumable recipe"",
 "
-@Remsen,@Hellraisin1,197612,1700550170,false,750,akuma,"Pattern: Book Stack, Trio","rr01 green fine consumable recipe"",
+@Remsen,@Hellraisin1,197612,1700550170,false,750,akuma,Pattern: Book Stack Trio,"rr01 green fine consumable recipe"",
 "
 @Mr.HomeInvasion,@shanleyp,46130,1700188821,false,1488,akuma,Voidstone Ingot,"rr01 white normal materials"",
 "
@@ -6585,41 +6585,41 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Miserables82,@Cheesed_GB,57052,1700340390,false,1050,akuma,Recipe: Kvatch Watch Grenache,"rr01 blue superior consumable recipe"",
 "
-@SeuJose,@MalleusMaior,181489,1699483152,true,1800,akuma,"Vampiric Lamp, Azure Tall","rr01 purple epic furnishings lighting"",
+@SeuJose,@MalleusMaior,181489,1699483152,true,1800,akuma,Vampiric Lamp Azure Tall,"rr01 purple epic furnishings lighting"",
 "
-@Shastan,@yoinoinazuma,181489,1700205158,true,1000,akuma,"Vampiric Lamp, Azure Tall","rr01 purple epic furnishings lighting"",
+@Shastan,@yoinoinazuma,181489,1700205158,true,1000,akuma,Vampiric Lamp Azure Tall,"rr01 purple epic furnishings lighting"",
 "
-@ChargeYourWeapons,@yoinoinazuma,181489,1700205161,true,1000,akuma,"Vampiric Lamp, Azure Tall","rr01 purple epic furnishings lighting"",
+@ChargeYourWeapons,@yoinoinazuma,181489,1700205161,true,1000,akuma,Vampiric Lamp Azure Tall,"rr01 purple epic furnishings lighting"",
 "
-@ZeLezin,@Aeonstar,181489,1700633518,true,4000,akuma,"Vampiric Lamp, Azure Tall","rr01 purple epic furnishings lighting"",
+@ZeLezin,@Aeonstar,181489,1700633518,true,4000,akuma,Vampiric Lamp Azure Tall,"rr01 purple epic furnishings lighting"",
 "
-@Vaelfear,@Leigonaire762,181489,1700672404,true,1212,akuma,"Vampiric Lamp, Azure Tall","rr01 purple epic furnishings lighting"",
+@Vaelfear,@Leigonaire762,181489,1700672404,true,1212,akuma,Vampiric Lamp Azure Tall,"rr01 purple epic furnishings lighting"",
 "
-@SpankaTeyr,@Leigonaire762,181489,1700672406,true,1500,akuma,"Vampiric Lamp, Azure Tall","rr01 purple epic furnishings lighting"",
+@SpankaTeyr,@Leigonaire762,181489,1700672406,true,1500,akuma,Vampiric Lamp Azure Tall,"rr01 purple epic furnishings lighting"",
 "
-@Argorious,@Gaspara,181489,1700884796,false,450,akuma,"Vampiric Lamp, Azure Tall","rr01 purple epic furnishings lighting"",
+@Argorious,@Gaspara,181489,1700884796,false,450,akuma,Vampiric Lamp Azure Tall,"rr01 purple epic furnishings lighting"",
 "
-@Shastan,@Blood-Eye,181491,1700299428,true,1500,akuma,"Vampiric Lightpost, Azure Double","rr01 purple epic furnishings lighting"",
+@Shastan,@Blood-Eye,181491,1700299428,true,1500,akuma,Vampiric Lightpost Azure Double,"rr01 purple epic furnishings lighting"",
 "
-@SpankaTeyr,@Blood-Eye,181491,1700299435,true,1500,akuma,"Vampiric Lightpost, Azure Double","rr01 purple epic furnishings lighting"",
+@SpankaTeyr,@Blood-Eye,181491,1700299435,true,1500,akuma,Vampiric Lightpost Azure Double,"rr01 purple epic furnishings lighting"",
 "
-@Shastan,@Blood-Eye,181491,1700299438,true,1500,akuma,"Vampiric Lightpost, Azure Double","rr01 purple epic furnishings lighting"",
+@Shastan,@Blood-Eye,181491,1700299438,true,1500,akuma,Vampiric Lightpost Azure Double,"rr01 purple epic furnishings lighting"",
 "
-@Shastan,@Blood-Eye,181491,1700299441,true,1500,akuma,"Vampiric Lightpost, Azure Double","rr01 purple epic furnishings lighting"",
+@Shastan,@Blood-Eye,181491,1700299441,true,1500,akuma,Vampiric Lightpost Azure Double,"rr01 purple epic furnishings lighting"",
 "
-@gretler,@MungoJeri,181573,1700934031,true,7000,akuma,"Blueprint: Leyawiin Doorway, Wooden Frame","rr01 blue superior consumable recipe"",
+@gretler,@MungoJeri,181573,1700934031,true,7000,akuma,Blueprint: Leyawiin Doorway Wooden Frame,"rr01 blue superior consumable recipe"",
 "
-@Banshee_44,@KimTokki,181576,1700786979,true,5000,akuma,"Blueprint: Leyawiin Wall, Wooden Half","rr01 blue superior consumable recipe"",
+@Banshee_44,@KimTokki,181576,1700786979,true,5000,akuma,Blueprint: Leyawiin Wall Wooden Half,"rr01 blue superior consumable recipe"",
 "
-@GOPNICK,@Newt711,181584,1700828427,true,15000,akuma,"Praxis: Leyawiin Platform, Large Square","rr01 blue superior consumable recipe"",
+@GOPNICK,@Newt711,181584,1700828427,true,15000,akuma,Praxis: Leyawiin Platform Large Square,"rr01 blue superior consumable recipe"",
 "
-@MissDollypop,@Llorydian,116056,1700664471,true,1200,akuma,"Diagram: Dark Elf Streetlamps, Stone","rr01 blue superior consumable recipe"",
+@MissDollypop,@Llorydian,116056,1700664471,true,1200,akuma,Diagram: Dark Elf Streetlamps Stone,"rr01 blue superior consumable recipe"",
 "
 @RajputLancer,@Leonie_Zephyr,99706,1700452234,true,87,akuma,Spinner's Gloves,"cp160 green fine light apparel set spinner's garments hands well-fitted"",
 "
-@bruiseman5241990,@Cheesed_GB,198082,1700340408,false,5000,akuma,"Blueprint: Necrom Ramp, Wood","rr01 green fine consumable recipe"",
+@bruiseman5241990,@Cheesed_GB,198082,1700340408,false,5000,akuma,Blueprint: Necrom Ramp Wood,"rr01 green fine consumable recipe"",
 "
-@sconeindygw,@limamari,116173,1700787505,false,500,akuma,"Blueprint: Nord Bench, Plank","rr01 blue superior consumable recipe"",
+@sconeindygw,@limamari,116173,1700787505,false,500,akuma,Blueprint: Nord Bench Plank,"rr01 blue superior consumable recipe"",
 "
 @FNX2000,@Bifel,198099,1700794798,true,50000,akuma,Telvanni Peninsula Treasure Map III,"rr01 blue superior miscellaneous trophy"",
 "
@@ -6635,17 +6635,17 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @MagicalConch,@Hireless,34323,1700659380,false,2000,akuma,Corn,"rr01 white normal materials ingredient"",
 "
-@Peliciano,@Elnynd,134476,1700625347,true,2500,akuma,"Formula: Fabricant Tree, Gnarled Cypress","rr01 green fine consumable recipe"",
+@Peliciano,@Elnynd,134476,1700625347,true,2500,akuma,Formula: Fabricant Tree Gnarled Cypress,"rr01 green fine consumable recipe"",
 "
 @Jack.Fyre,@Bleztor,154873,1699822857,false,2090,akuma,Senchal Defender's Gauntlets,"cp160 purple epic heavy apparel set senchal defender hands divines"",
 "
 @HappySuccubus,@ealdgast,198343,1700272427,true,20000,akuma,Style Page: Crowborne Hunter Epaulets,"rr01 gold legendary consumable collectible"",
 "
-@ChargeYourWeapons,@Remsen,198373,1699948089,false,3000,akuma,"Apocrypha Ink Bottle, Green","rr01 blue superior furnishings library"",
+@ChargeYourWeapons,@Remsen,198373,1699948089,false,3000,akuma,Apocrypha Ink Bottle Green,"rr01 blue superior furnishings library"",
 "
-@BizzMac,@Blood-Eye,198375,1700299384,true,4000,akuma,"Apocrypha Ink Vat, Green","rr01 green fine furnishings library"",
+@BizzMac,@Blood-Eye,198375,1700299384,true,4000,akuma,Apocrypha Ink Vat Green,"rr01 green fine furnishings library"",
 "
-@Deathbrin90,@Gaspara,198375,1700782552,false,2265,akuma,"Apocrypha Ink Vat, Green","rr01 green fine furnishings library"",
+@Deathbrin90,@Gaspara,198375,1700782552,false,2265,akuma,Apocrypha Ink Vat Green,"rr01 green fine furnishings library"",
 "
 @GarkaLaGarka,@Skul_d47,61006,1700068966,false,96,akuma,Anchorstone Amulet,"rr36 blue superior jewelry apparel neck healthy"",
 "
@@ -6655,7 +6655,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Argorious,@C3N50R3D,126581,1700868798,true,90000,akuma,Dwarven Construct Repair Parts,"rr01 gold legendary materials furnishing"",
 "
-@Jypsy76,@Corundum2003,198547,1700246258,true,1000000,akuma,"Diagram: Necrom Sconce, Brass","rr01 purple epic consumable recipe"",
+@Jypsy76,@Corundum2003,198547,1700246258,true,1000000,akuma,Diagram: Necrom Sconce Brass,"rr01 purple epic consumable recipe"",
 "
 @Carlinhaaa,@mikuriya,160856,1700833164,true,30000,akuma,Venomous Jack,"cp160 blue superior medium apparel set venomous smite chest divines"",
 "
@@ -6665,7 +6665,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @ChaotixDemon,@Reydealemania,64516,1700359812,true,30000,akuma,Pact Cold Fire Ballista,"rr50 white normal miscellaneous siege"",
 "
-@gretler,@kamil.targaryen,181575,1700890454,true,6000,akuma,"Blueprint: Leyawiin Gate, Wooden Garden","rr01 blue superior consumable recipe"",
+@gretler,@kamil.targaryen,181575,1700890454,true,6000,akuma,Blueprint: Leyawiin Gate Wooden Garden,"rr01 blue superior consumable recipe"",
 "
 @Cpt.Zynbabwe,@Tensei522,130038,1700532404,true,32999,akuma,Crafting Motif 79: Refabricated Shoulders,"rr01 purple epic consumable motif"",
 "
@@ -6681,9 +6681,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Mystic.legend,@Elixana,77585,1700373789,true,5750,akuma,Butterfly Wing,"rr01 green fine materials reagent"",
 "
-@ChargeYourWeapons,@Remsen,198378,1699948088,false,3000,akuma,"Apocrypha Ink Jar, Green","rr01 blue superior furnishings library"",
+@ChargeYourWeapons,@Remsen,198378,1699948088,false,3000,akuma,Apocrypha Ink Jar Green,"rr01 blue superior furnishings library"",
 "
-@Shastan,@Tlord76,198378,1699979114,true,7000,akuma,"Apocrypha Ink Jar, Green","rr01 blue superior furnishings library"",
+@Shastan,@Tlord76,198378,1699979114,true,7000,akuma,Apocrypha Ink Jar Green,"rr01 blue superior furnishings library"",
 "
 @pewterskier,@Deeda,156557,1700325301,true,3000,akuma,Crafting Motif 76: Dragonguard Belts,"rr01 purple epic consumable motif"",
 "
@@ -6819,15 +6819,15 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Sanadora,@richo262,192370,1700827702,true,6000,akuma,Galen Treasure Map I,"rr01 blue superior miscellaneous trophy"",
 "
-@SerNemesis,@GarkaLaGarka,126836,1700061575,false,30,akuma,"Diagram: Daedric Bench, Ashen","rr01 blue superior consumable recipe"",
+@SerNemesis,@GarkaLaGarka,126836,1700061575,false,30,akuma,Diagram: Daedric Bench Ashen,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@JossetteLT,126838,1699687055,true,800,akuma,"Praxis: Daedric Base, Ashen","rr01 purple epic consumable recipe"",
+@vKaotic,@JossetteLT,126838,1699687055,true,800,akuma,Praxis: Daedric Base Ashen,"rr01 purple epic consumable recipe"",
 "
-@Marinola,@NixNoctia,126841,1700172431,false,1000,akuma,"Formula: Daedric Brazier, Standing","rr01 purple epic consumable recipe"",
+@Marinola,@NixNoctia,126841,1700172431,false,1000,akuma,Formula: Daedric Brazier Standing,"rr01 purple epic consumable recipe"",
 "
-@SerNemesis,@netkat,126841,1700939768,true,39,akuma,"Formula: Daedric Brazier, Standing","rr01 purple epic consumable recipe"",
+@SerNemesis,@netkat,126841,1700939768,true,39,akuma,Formula: Daedric Brazier Standing,"rr01 purple epic consumable recipe"",
 "
-@SavageHoax,@Kooish,126842,1700009309,false,1000,akuma,"Diagram: Daedric Chandelier, Ritual","rr01 purple epic consumable recipe"",
+@SavageHoax,@Kooish,126842,1700009309,false,1000,akuma,Diagram: Daedric Chandelier Ritual,"rr01 purple epic consumable recipe"",
 "
 @Cinnadots,@dollfuss,192386,1699446666,true,3500,akuma,Style Page: Pelin's Paragon Jack,"rr01 gold legendary consumable collectible"",
 "
@@ -6843,13 +6843,13 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Cinnadots,@dollfuss,192391,1699446661,true,2000,akuma,Style Page: Pelin's Paragon Bracers,"rr01 gold legendary consumable collectible"",
 "
-@Vaelfear,@Llorydian,119351,1700536645,true,534,akuma,"Design: Lettuce, Display","rr01 green fine consumable recipe"",
+@Vaelfear,@Llorydian,119351,1700536645,true,534,akuma,Design: Lettuce Display,"rr01 green fine consumable recipe"",
 "
-@Shastan,@Aeonstar,94098,1700633490,true,500,akuma,"Imperial Bed, Single","rr01 green fine furnishings suite"",
+@Shastan,@Aeonstar,94098,1700633490,true,500,akuma,Imperial Bed Single,"rr01 green fine furnishings suite"",
 "
-@Lyranis.Raine,@Aeonstar,94098,1700633487,true,625,akuma,"Imperial Bed, Single","rr01 green fine furnishings suite"",
+@Lyranis.Raine,@Aeonstar,94098,1700633487,true,625,akuma,Imperial Bed Single,"rr01 green fine furnishings suite"",
 "
-@MagicalConch,@Llorydian,126889,1700536564,true,200,akuma,"Diagram: Dwarven Urn, Sealed","rr01 green fine consumable recipe"",
+@MagicalConch,@Llorydian,126889,1700536564,true,200,akuma,Diagram: Dwarven Urn Sealed,"rr01 green fine consumable recipe"",
 "
 @BlindLittleMole,@Kytnne,33271,1699924865,false,3500,akuma,Soul Gem,"rr50 green fine miscellaneous soul gem"",
 "
@@ -6865,7 +6865,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Lyranis.Raine,@thoreuthermas,33271,1700512631,true,1650,akuma,Soul Gem,"rr50 green fine miscellaneous soul gem"",
 "
-@Akalam,@Halewalnut,126894,1700911632,true,43000,akuma,"Diagram: Dwarven Chandelier, Framework","rr01 blue superior consumable recipe"",
+@Akalam,@Halewalnut,126894,1700911632,true,43000,akuma,Diagram: Dwarven Chandelier Framework,"rr01 blue superior consumable recipe"",
 "
 @Erkla,@G-RYDER,68191,1700655553,true,36,akuma,Recipe: Lilmoth Garlic Hagfish,"rr01 green fine consumable recipe"",
 "
@@ -6877,25 +6877,25 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Jellydem,@DubzVenom,68207,1700847642,false,4650,akuma,Recipe: Capon Tomato-Beet Casserole,"rr01 purple epic consumable recipe"",
 "
-@Sanadora,@Halewalnut,182965,1700911615,true,9000,akuma,"Diagram: Deadlands Torture Table, Etched","rr01 blue superior consumable recipe"",
+@Sanadora,@Halewalnut,182965,1700911615,true,9000,akuma,Diagram: Deadlands Torture Table Etched,"rr01 blue superior consumable recipe"",
 "
-@SavageHoax,@KorilakkumaTW,182997,1700716838,true,24000,akuma,"Design: Fargrave Fish Pile, Marinated Trout","rr01 blue superior consumable recipe"",
+@SavageHoax,@KorilakkumaTW,182997,1700716838,true,24000,akuma,Design: Fargrave Fish Pile Marinated Trout,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@Darlaa214,126954,1700539210,false,300,akuma,"Blueprint: Hlaalu Rack, Barrel","rr01 green fine consumable recipe"",
+@vKaotic,@Darlaa214,126954,1700539210,false,300,akuma,Blueprint: Hlaalu Rack Barrel,"rr01 green fine consumable recipe"",
 "
 @ChargeYourWeapons,@NixNoctia,28666,1699834882,false,400,akuma,Seaweed,"rr01 white normal materials ingredient"",
 "
-@GrabbersDivinity,@drpeppermd87,126999,1700941205,true,3500,akuma,"Design: Ashlander Platter, Bread and Cheese","rr01 blue superior consumable recipe"",
+@GrabbersDivinity,@drpeppermd87,126999,1700941205,true,3500,akuma,Design: Ashlander Platter Bread and Cheese,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@TemplarShadows,127011,1699668393,true,150,akuma,"Design: Dres Cup, Mazte","rr01 green fine consumable recipe"",
+@vKaotic,@TemplarShadows,127011,1699668393,true,150,akuma,Design: Dres Cup Mazte,"rr01 green fine consumable recipe"",
 "
-@vereesh,@Llorydian,192551,1700536753,true,2000,akuma,"Praxis: Firesong Bookcase, Short Lava","rr01 purple epic consumable recipe"",
+@vereesh,@Llorydian,192551,1700536753,true,2000,akuma,Praxis: Firesong Bookcase Short Lava,"rr01 purple epic consumable recipe"",
 "
 @bearclawws,@alex_strutin,192586,1700891417,true,11000,akuma,Style Page: Evergreen Guards,"rr01 gold legendary consumable collectible"",
 "
 @nateflixxx,@Deminia,94341,1699967031,true,2100,akuma,Greatsword of the Veiled Heritance,"rr27 blue superior weapon set armor of the veiled heritance sword two-handed sharpened"",
 "
-@Ozzy29,@WeWithACatHat,166807,1700771913,true,2600,akuma,"Blueprint: Solitude Armchair, Wood","rr01 green fine consumable recipe"",
+@Ozzy29,@WeWithACatHat,166807,1700771913,true,2600,akuma,Blueprint: Solitude Armchair Wood,"rr01 green fine consumable recipe"",
 "
 @CityClam,@Viddix,84935,1700617944,true,35000,akuma,Guards of the Red Mountain,"cp160 purple epic medium apparel set shadow of the red mountain legs divines"",
 "
@@ -6945,7 +6945,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @vereesh,@OnionBiscuit,16427,1700870010,false,81,akuma,Crafting Motif 6: Redguard Style,"rr01 blue superior consumable motif"",
 "
-@Robotsarealive,@eat2much,118219,1700078156,false,1500,akuma,"Painting of Lakes, Sturdy","rr01 purple epic furnishings gallery"",
+@Robotsarealive,@eat2much,118219,1700078156,false,1500,akuma,Painting of Lakes Sturdy,"rr01 purple epic furnishings gallery"",
 "
 @ConjuringWorm,@Remsen,69068,1699852346,false,240,akuma,Bow of Endurance,"cp160 blue superior weapon set endurance bow two-handed infused"",
 "
@@ -6967,7 +6967,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @TheRealCrazyCarmela,@Alsomaus,45986,1700308551,true,325,akuma,Recipe: Spiced Mazte,"rr01 green fine consumable recipe"",
 "
-@Dwight3,@Gaspara,134913,1700801684,false,500,akuma,"Mushroom, Tall Puspocket","rr01 blue superior furnishings conservatory"",
+@Dwight3,@Gaspara,134913,1700801684,false,500,akuma,Mushroom Tall Puspocket,"rr01 blue superior furnishings conservatory"",
 "
 @DanceyPants,@Raduuken,139461,1699932667,true,10000,akuma,Psijic Glowglobe's Crystal Ball,"rr01 purple epic consumable trophy"",
 "
@@ -6981,11 +6981,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @ultimba,@AuroraRavens,147332,1700378983,true,19500,akuma,Style Page: Abnur Tharn's Staff,"rr01 gold legendary consumable collectible"",
 "
-@Banshee_44,@ArkadiaReaper,175985,1700610492,true,10000,akuma,"Pattern: Leyawiin Laundry, Stack","rr01 blue superior consumable recipe"",
+@Banshee_44,@ArkadiaReaper,175985,1700610492,true,10000,akuma,Pattern: Leyawiin Laundry Stack,"rr01 blue superior consumable recipe"",
 "
 @dg1219,@Hegarth,95982,1700706091,true,250,akuma,Shield of the Trainee,"cp160 blue superior apparel weapon set armor of the trainee shield off hand training"",
 "
-@Crazy_Ratt,@cocomaomocha,130282,1700762204,true,1000,akuma,"Coldharbour Glowstalk, Strong","rr01 purple epic furnishings lighting"",
+@Crazy_Ratt,@cocomaomocha,130282,1700762204,true,1000,akuma,Coldharbour Glowstalk Strong,"rr01 purple epic furnishings lighting"",
 "
 @teeje,@Akire2626,172230,1700924678,false,240,akuma,Deadlands Assassin's Bow,"cp160 blue superior weapon set deadlands assassin bow two-handed charged"",
 "
@@ -7031,25 +7031,25 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @SavageHoax,@Ligeia,87748,1700941111,true,50000,akuma,Necklace of the Potentates,"cp160 blue superior jewelry apparel set blessing of the potentates neck healthy"",
 "
-@vKaotic,@Myever821,119129,1700293301,true,167,akuma,"Blueprint: Redguard Bin, Sealed","rr01 green fine consumable recipe"",
+@vKaotic,@Myever821,119129,1700293301,true,167,akuma,Blueprint: Redguard Bin Sealed,"rr01 green fine consumable recipe"",
 "
-@Ozzy29,@wxmxm,119134,1699889504,true,175,akuma,"Blueprint: Redguard Bar, Long Cabinet","rr01 green fine consumable recipe"",
+@Ozzy29,@wxmxm,119134,1699889504,true,175,akuma,Blueprint: Redguard Bar Long Cabinet,"rr01 green fine consumable recipe"",
 "
-@pumbz,@Llorydian,119147,1700536530,true,100,akuma,"Blueprint: Redguard Stool, Block","rr01 green fine consumable recipe"",
+@pumbz,@Llorydian,119147,1700536530,true,100,akuma,Blueprint: Redguard Stool Block,"rr01 green fine consumable recipe"",
 "
-@Wynterlance,@EntropicSoul,119230,1699967753,true,110000,akuma,"Diagram: Redguard Brazier, Garish","rr01 purple epic consumable recipe"",
+@Wynterlance,@EntropicSoul,119230,1699967753,true,110000,akuma,Diagram: Redguard Brazier Garish,"rr01 purple epic consumable recipe"",
 "
-@MouthForWar79,@Miserables82,152001,1700239885,false,222,akuma,"Praxis: Elsweyr Pot, Ornate","rr01 green fine consumable recipe"",
+@MouthForWar79,@Miserables82,152001,1700239885,false,222,akuma,Praxis: Elsweyr Pot Ornate,"rr01 green fine consumable recipe"",
 "
-@Wynterlance,@Paperpath,119280,1700317866,true,100000,akuma,"Diagram: Redguard Chandelier, Polished","rr01 purple epic consumable recipe"",
+@Wynterlance,@Paperpath,119280,1700317866,true,100000,akuma,Diagram: Redguard Chandelier Polished,"rr01 purple epic consumable recipe"",
 "
 @AVENFATE,@Deminia,195867,1699967144,true,1300,akuma,Vivec's Sash of Duality,"cp160 purple epic light apparel set vivec's duality waist training"",
 "
-@MouthForWar79,@SphinxReverie,152118,1700431948,false,111,akuma,"Blueprint: Elsweyr Platform, Wooden Small","rr01 green fine consumable recipe"",
+@MouthForWar79,@SphinxReverie,152118,1700431948,false,111,akuma,Blueprint: Elsweyr Platform Wooden Small,"rr01 green fine consumable recipe"",
 "
-@vKaotic,@JossetteLT,119424,1699686724,true,100,akuma,"Diagram: Cleaver, Butcher's","rr01 blue superior consumable recipe"",
+@vKaotic,@JossetteLT,119424,1699686724,true,100,akuma,Diagram: Cleaver Butcher's,"rr01 blue superior consumable recipe"",
 "
-@vKaotic,@JossetteLT,119424,1699686744,true,100,akuma,"Diagram: Cleaver, Butcher's","rr01 blue superior consumable recipe"",
+@vKaotic,@JossetteLT,119424,1699686744,true,100,akuma,Diagram: Cleaver Butcher's,"rr01 blue superior consumable recipe"",
 "
 @iamagear0,@SerNemesis,57074,1700167148,false,580,akuma,Recipe: Happy Ogrim Amber Ale,"rr01 blue superior consumable recipe"",
 "
@@ -7073,7 +7073,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @PreciseSkill,@DeadMeat4U,139409,1700944693,true,77980,akuma,Dawn-Prism,"rr01 white normal materials jewelry trait triune"",
 "
-@vKaotic,@Jack.Fyre,119520,1699501137,false,100,akuma,"Diagram: Cage, Covered","rr01 purple epic consumable recipe"",
+@vKaotic,@Jack.Fyre,119520,1699501137,false,100,akuma,Diagram: Cage Covered,"rr01 purple epic consumable recipe"",
 "
 @MouthForWar79,@caspercross,57022,1700615996,true,333,akuma,Recipe: Vivec's Gingergreen Chai,"rr01 green fine consumable recipe"",
 "
@@ -7091,7 +7091,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @MissDollypop,@TheSquidychicken,160507,1700614934,true,7000,akuma,Crafting Motif 84: Blackreach Vanguard Swords,"rr01 purple epic consumable motif"",
 "
-@SaltyDog6616,@shane1395,64703,1700193376,false,500,akuma,"Recipe: Psijic Ambrosia, Fragment I","rr01 purple epic consumable trophy"",
+@SaltyDog6616,@shane1395,64703,1700193376,false,500,akuma,Recipe: Psijic Ambrosia Fragment I,"rr01 purple epic consumable trophy"",
 "
 @Banshee_44,@shane1395,156609,1700776191,false,3000,akuma,Crafting Motif 81: New Moon Priest Axes,"rr01 purple epic consumable motif"",
 "
@@ -7443,7 +7443,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @ConjuringWorm,@Dreiimol,30357,1700837542,true,250,akuma,Lockpick,"rr01 white normal miscellaneous tool"",
 "
-@jigumiz,@CrimsonT3a,182941,1700536057,true,340000,akuma,"Pattern: Fargrave Book Stack, Levitating","rr01 purple epic consumable recipe"",
+@jigumiz,@CrimsonT3a,182941,1700536057,true,340000,akuma,Pattern: Fargrave Book Stack Levitating,"rr01 purple epic consumable recipe"",
 "
 @AVENFATE,@Deminia,194248,1699967121,true,2000,akuma,Pauldrons of Akatosh's Law,"cp160 blue superior heavy apparel set judgment of akatosh shoulders well-fitted"",
 "
@@ -7625,7 +7625,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @vipkid1412,@MagicalConch,193871,1700525707,false,600,akuma,Snake in the Stars Epaulets,"cp160 blue superior light apparel set snake in the stars shoulders infused"",
 "
-@MouthForWar79,@Llorydian,126834,1700536723,true,1111,akuma,"Design: Daedric Candles, Group","rr01 purple epic consumable recipe"",
+@MouthForWar79,@Llorydian,126834,1700536723,true,1111,akuma,Design: Daedric Candles Group,"rr01 purple epic consumable recipe"",
 "
 @Fallen_Prophet,@MagicalConch,195861,1700525704,false,420,akuma,Vivec's Shoes of Duality,"cp160 blue superior light apparel set vivec's duality feet training"",
 "
@@ -7633,7 +7633,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @BizzMac,@ywj111023,96347,1700467373,true,900,akuma,Maul of the Trainee,"cp160 purple epic weapon set armor of the trainee mace two-handed training"",
 "
-@Jellydem,@SerNemesis,64709,1700167048,false,445,akuma,"Recipe: Psijic Ambrosia, Fragment VII","rr01 purple epic consumable trophy"",
+@Jellydem,@SerNemesis,64709,1700167048,false,445,akuma,Recipe: Psijic Ambrosia Fragment VII,"rr01 purple epic consumable trophy"",
 "
 @Jetchi,@Jysoul,64690,1699959035,true,6,akuma,Malachite Shard,"rr01 white normal materials raw"",
 "
@@ -7643,7 +7643,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Orishan,@Irushia1,96392,1700096525,false,2000,akuma,Runebox: Sword-Swallower's Blade,"rr01 gold legendary consumable container"",
 "
-@SpankaTeyr,@Gaspara,130327,1700717563,false,200,akuma,"Witches Totem, Wooden Rack","rr01 blue superior furnishings undercroft"",
+@SpankaTeyr,@Gaspara,130327,1700717563,false,200,akuma,Witches Totem Wooden Rack,"rr01 blue superior furnishings undercroft"",
 "
 @Mysteria295,@UmbralCalamity,45678,1700297551,true,180,akuma,Recipe: Grape-Glazed Bantam Guar,"rr01 blue superior consumable recipe"",
 "
@@ -7653,9 +7653,9 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Erkla,@Skul_d47,45567,1700026350,false,180,akuma,Recipe: Timber Mammoth Ale,"rr01 blue superior consumable recipe"",
 "
-@Jellydem,@shane1395,64707,1700193378,false,400,akuma,"Recipe: Psijic Ambrosia, Fragment V","rr01 purple epic consumable trophy"",
+@Jellydem,@shane1395,64707,1700193378,false,400,akuma,Recipe: Psijic Ambrosia Fragment V,"rr01 purple epic consumable trophy"",
 "
-@xamich,@Savageprincess,188152,1700547239,true,6950,akuma,"Blueprint: High Isle Table, Ornate","rr01 blue superior consumable recipe"",
+@xamich,@Savageprincess,188152,1700547239,true,6950,akuma,Blueprint: High Isle Table Ornate,"rr01 blue superior consumable recipe"",
 "
 @Dhraghyn,@Doomsar,45343,1700308964,true,125,akuma,Rubedite Helm,"cp160 white normal heavy apparel head intricate"",
 "
@@ -7693,11 +7693,11 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @iamagear0,@UmbralCalamity,57073,1700297571,true,500,akuma,Recipe: Clavicus Vines Chenin Blanc,"rr01 blue superior consumable recipe"",
 "
-@MadisonRayne,@scout.jrr,188149,1700868870,true,27,akuma,"Blueprint: High Isle Counter, Rustic","rr01 green fine consumable recipe"",
+@MadisonRayne,@scout.jrr,188149,1700868870,true,27,akuma,Blueprint: High Isle Counter Rustic,"rr01 green fine consumable recipe"",
 "
-@xamich,@Savageprincess,188167,1700547215,true,10250,akuma,"Blueprint: High Isle Nightstand, Ornate","rr01 blue superior consumable recipe"",
+@xamich,@Savageprincess,188167,1700547215,true,10250,akuma,Blueprint: High Isle Nightstand Ornate,"rr01 blue superior consumable recipe"",
 "
-@Lunareklypse,@Deminia,188167,1699967259,true,11250,akuma,"Blueprint: High Isle Nightstand, Ornate","rr01 blue superior consumable recipe"",
+@Lunareklypse,@Deminia,188167,1699967259,true,11250,akuma,Blueprint: High Isle Nightstand Ornate,"rr01 blue superior consumable recipe"",
 "
 @bearclawws,@nvlti,139018,1700698161,true,75000,akuma,Artaeum Takeaway Broth,"rr01 gold legendary consumable food"",
 "
@@ -7943,15 +7943,15 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @MasterW3,@Hellsabyss666,64677,1700455381,true,23000,akuma,Crafting Motif 16: Glass Helmets,"rr01 purple epic consumable motif"",
 "
-@vereesh,@McTaff,175946,1700794644,true,400,akuma,"Blueprint: Leyawiin Table, Sturdy Round","rr01 green fine consumable recipe"",
+@vereesh,@McTaff,175946,1700794644,true,400,akuma,Blueprint: Leyawiin Table Sturdy Round,"rr01 green fine consumable recipe"",
 "
-@vereesh,@McTaff,175946,1700794645,true,400,akuma,"Blueprint: Leyawiin Table, Sturdy Round","rr01 green fine consumable recipe"",
+@vereesh,@McTaff,175946,1700794645,true,400,akuma,Blueprint: Leyawiin Table Sturdy Round,"rr01 green fine consumable recipe"",
 "
-@sconeindygw,@hcollins222,175946,1700911340,true,200,akuma,"Blueprint: Leyawiin Table, Sturdy Round","rr01 green fine consumable recipe"",
+@sconeindygw,@hcollins222,175946,1700911340,true,200,akuma,Blueprint: Leyawiin Table Sturdy Round,"rr01 green fine consumable recipe"",
 "
 @RajputLancer,@Leonie_Zephyr,97469,1700452230,true,87,akuma,Belt of the Wilderqueen,"cp160 green fine medium apparel set wilderqueen's arch waist well-fitted"",
 "
-@vKaotic,@Leonie_Zephyr,64704,1700452355,true,100,akuma,"Recipe: Psijic Ambrosia, Fragment II","rr01 purple epic consumable trophy"",
+@vKaotic,@Leonie_Zephyr,64704,1700452355,true,100,akuma,Recipe: Psijic Ambrosia Fragment II,"rr01 purple epic consumable trophy"",
 "
 @MissDollypop,@Wanderer465,64717,1699455172,true,40000,akuma,Crafting Motif 19: Mercenary Belts,"rr01 purple epic consumable motif"",
 "
@@ -7963,21 +7963,21 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @Mystic.legend,@Fleffle,195842,1700638222,true,150,akuma,Vivec's Hat of Duality,"cp160 blue superior light apparel set vivec's duality head sturdy"",
 "
-@SaltyDog6616,@Aquinor,130316,1700507000,true,500,akuma,"Pumpkin, Frail","rr01 blue superior furnishings hearth"",
+@SaltyDog6616,@Aquinor,130316,1700507000,true,500,akuma,Pumpkin Frail,"rr01 blue superior furnishings hearth"",
 "
-@Shastan,@CaellinSardonis,130320,1699826899,true,1000,akuma,"Hagraven Cauldron, Ritual","rr01 blue superior furnishings lighting"",
+@Shastan,@CaellinSardonis,130320,1699826899,true,1000,akuma,Hagraven Cauldron Ritual,"rr01 blue superior furnishings lighting"",
 "
-@Shastan,@CaellinSardonis,130320,1699826901,true,1000,akuma,"Hagraven Cauldron, Ritual","rr01 blue superior furnishings lighting"",
+@Shastan,@CaellinSardonis,130320,1699826901,true,1000,akuma,Hagraven Cauldron Ritual,"rr01 blue superior furnishings lighting"",
 "
-@Shastan,@CaellinSardonis,130320,1699826902,true,1000,akuma,"Hagraven Cauldron, Ritual","rr01 blue superior furnishings lighting"",
+@Shastan,@CaellinSardonis,130320,1699826902,true,1000,akuma,Hagraven Cauldron Ritual,"rr01 blue superior furnishings lighting"",
 "
-@rock1064,@Aeonstar,130320,1700633502,true,1263,akuma,"Hagraven Cauldron, Ritual","rr01 blue superior furnishings lighting"",
+@rock1064,@Aeonstar,130320,1700633502,true,1263,akuma,Hagraven Cauldron Ritual,"rr01 blue superior furnishings lighting"",
 "
 @AVENFATE,@Deminia,195862,1699967143,true,1100,akuma,Vivec's Gloves of Duality,"cp160 purple epic light apparel set vivec's duality hands training"",
 "
 @Ozzy29,@shy-robot,195871,1699994078,false,980,akuma,Camonna Tong Ring,"cp160 blue superior jewelry apparel set camonna tong ring robust"",
 "
-@SpankaTeyr,@Gaspara,130340,1700717621,false,1500,akuma,"Witches Totem, Gnarled Vines and Skull","rr01 blue superior furnishings undercroft"",
+@SpankaTeyr,@Gaspara,130340,1700717621,false,1500,akuma,Witches Totem Gnarled Vines and Skull,"rr01 blue superior furnishings undercroft"",
 "
 @AVENFATE,@Bleztor,195889,1699822763,false,1000,akuma,Camonna Tong Helmet,"cp160 blue superior medium apparel set camonna tong head infused"",
 "
@@ -8053,7 +8053,7 @@ seller_username,buyer_username,item_id,transaction_id,is_true,price,guild,item,d
 "
 @FNX2000,@AutumnReign3,175548,1700792272,true,7200,akuma,Blackwood Treasure Map II,"rr01 blue superior miscellaneous trophy"",
 "
-@EtedZ,@Gaspara,130322,1700717587,false,400,akuma,"Tool, Harvest Scythe","rr01 blue superior furnishings workshop"",
+@EtedZ,@Gaspara,130322,1700717587,false,400,akuma,Tool Harvest Scythe,"rr01 blue superior furnishings workshop"",
 "
 @Jetxky,@Ancane,77587,1700006699,true,130,akuma,Fleshfly Larva,"rr01 green fine materials reagent"",
 "
