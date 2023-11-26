@@ -58,6 +58,7 @@
 <script>
     // Function to fetch and display CSV data
     // Function to fetch and display CSV data
+// Function to fetch and display CSV data
 async function loadCSVData() {
     const response = await fetch('output.csv');
     const csvData = await response.text();
@@ -73,9 +74,17 @@ async function loadCSVData() {
                 const cell = row.insertCell();
 
                 // Combine "item" entries into a single cell
-                if (cells[j] === 'item' && cells[j + 1] === 'item') {
-                    cell.textContent = 'item';
-                    j++;  // Skip the next cell to avoid duplication
+                if (cells[j] === 'item') {
+                    let combinedItem = 'item';
+                    j++;  // Skip the current cell (already processed)
+                    
+                    // Check if the next cell is also part of the "item" entry
+                    while (j < cells.length && !cells[j].includes('details')) {
+                        combinedItem += ` ${cells[j]}`;
+                        j++;
+                    }
+
+                    cell.textContent = combinedItem.trim();
                 } else {
                     cell.textContent = cells[j];
                 }
@@ -83,6 +92,7 @@ async function loadCSVData() {
         }
     }
 }
+
 
 
     // Load CSV data when the page is loaded
