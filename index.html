@@ -9,28 +9,36 @@
             background-color: black;
             color: white;
             font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h2 {
+            text-align: center;
+            padding: 20px;
         }
 
         table {
-            border-collapse: collapse;
             width: 100%;
-            color: white;
         }
 
         th, td {
-            border: 1px solid #dddddd;
             text-align: left;
             padding: 8px;
         }
 
         th {
-            background-color: #f2f2f2;
+            background-color: #333;
+        }
+
+        tr:nth-child(even) {
+            background-color: #555;
         }
     </style>
 </head>
 <body>
 
-<h2>CSV Data Viewer</h2>
+<h2>akuma</h2>
 
 <table id="csvTable">
     <!-- CSV data will be inserted here dynamically -->
