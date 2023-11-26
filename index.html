@@ -20,19 +20,23 @@
 
         table {
             width: 100%;
+            border-collapse: collapse;
         }
 
         th, td {
             text-align: left;
             padding: 8px;
+            border: 1px solid #111;  /* Dark grey border */
         }
 
         th {
             background-color: #333;
+            color: white;
+            font-size: 1.2em;  /* Bigger font size for headers */
         }
 
         tr:nth-child(even) {
-            background-color: #555;
+            background-color: #333;  /* Dark grey background for even rows */
         }
     </style>
 </head>
@@ -54,11 +58,13 @@
 
         for (let i = 0; i < rows.length; i++) {
             const cells = rows[i].split(',');
-            const row = table.insertRow();
+            if (cells.length > 1) {  // Skip rows with no data
+                const row = table.insertRow();
 
-            for (let j = 0; j < cells.length; j++) {
-                const cell = row.insertCell();
-                cell.textContent = cells[j];
+                for (let j = 0; j < cells.length; j++) {
+                    const cell = row.insertCell();
+                    cell.textContent = cells[j];
+                }
             }
         }
     }
