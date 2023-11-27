@@ -6,14 +6,15 @@
     <title>Sales Leaderboard</title>
     <style>
         body {
-            background-color: #1a1a1a;
+            background-color: #000;
             color: #fff;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
             display: flex;
-            justify-content: center;
+            flex-direction: column;
             align-items: center;
-            height: 100vh;
         }
 
         h2 {
@@ -22,8 +23,8 @@
 
         table {
             border-collapse: collapse;
-            width: 80%;
-            margin: 20px;
+            width: 100%;
+            margin-top: 20px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             background-color: #333;
             border-radius: 8px;
@@ -54,6 +55,7 @@
 <table>
     <thead>
         <tr>
+            <th>Rank</th>
             <th>Seller</th>
             <th>Total Sales</th>
         </tr>
@@ -69,6 +71,7 @@
             // Parse CSV data
             const rows = data.split('\n').slice(1);
             const leaderboardBody = document.getElementById('leaderboardBody');
+            let rank = 1;
 
             // Sort rows based on total sales (descending order)
             rows.sort((a, b) => {
@@ -81,7 +84,7 @@
             rows.forEach(row => {
                 const [seller, totalSales] = row.split(',');
                 const rowElement = document.createElement('tr');
-                rowElement.innerHTML = `<td>${seller}</td><td>${totalSales}</td>`;
+                rowElement.innerHTML = `<td>${rank++}</td><td>${seller}</td><td>${totalSales}</td>`;
                 leaderboardBody.appendChild(rowElement);
             });
         })
