@@ -4058,3 +4058,679 @@ Seller,Buyer,Item Number,Transaction ID,Item Quantity,Total Price,Guild Name,Ite
 @Mr.HomeInvasion,@MagicalConch,180075,1700525689,1,800g,akuma,Eye of the Grasp Sword,cp160,Epic,one-handed,training,
 @MisterSmirk,@HeyBobbyG,98276,1700626036,1,1200g,akuma,Ice Staff of the Ranger,29,Superior,two-handed,decisive,
 @Mr.HomeInvasion,@eperon,180073,1700323245,1,150g,akuma,Eye of the Grasp Axe,cp160,Superior,one-handed,training,
+@RajputLancer,@LuciButters,98385,1701073593,1,150g,akuma,Beekeeper's Helm,cp160,Superior,head,well-fitted,
+@Peliciano,@Arcano-Vedra,197591,1701027135,1,22000g,akuma,"Blueprint: Telvanni Stool, Fungal",1,Superior,consumable,,recipe
+@dykhajiit,@VisionGT5,33753,1700977629,200,4000g,akuma,Fish,1,Normal,materials,,ingredient
+@TheRealCrazyCarmela,@Cheesed_GB,197598,1700340393,1,1100g,akuma,"Blueprint: Telvanni Teacup, Fungal",1,Fine,consumable,,recipe
+@vipkid1412,@Mr.HomeInvasion,33802,1701060883,100,2800g,akuma,Dawnstar Sun's Dusk Chowder,35,Epic,consumable,,food
+@SothaTeleferi,@Talyce,197649,1701022876,1,15500g,akuma,Lost Graht-Oak Acorn,1,Epic,consumable,,trophy
+@SothaTeleferi,@Talyce,197649,1701022877,1,15500g,akuma,Lost Graht-Oak Acorn,1,Epic,consumable,,trophy
+@SothaTeleferi,@Talyce,197649,1701022878,1,15500g,akuma,Lost Graht-Oak Acorn,1,Epic,consumable,,trophy
+@lubasik,@MouthForWar79,197666,1700959408,1,15500g,akuma,Style Page: Ashen Militia Axe,1,Legendary,consumable,,collectible
+@MadisonRayne,@Marelki,99465,1701043407,1,108g,akuma,Ring of the Order of Diagna,39,Epic,ring,healthy,
+@SothaTeleferi,@Talyce,198095,1701022882,1,15000g,akuma,Unearthed Valenwood Seedling,1,Epic,consumable,,trophy
+@SothaTeleferi,@Talyce,198095,1701022883,1,15000g,akuma,Unearthed Valenwood Seedling,1,Epic,consumable,,trophy
+@Banshee_44,@GingerbreadHag,198100,1701030201,1,20000g,akuma,Telvanni Peninsula Treasure Map IV,1,Superior,miscellaneous,,trophy
+@MissDollypop,@KanjiHaze,132579,1700977370,1,9000g,akuma,Crafting Motif 55: Dreadhorn Swords,1,Epic,consumable,,motif
+@Itsgametime,@blazblue14589,132594,1701076544,1,10000g,akuma,Crafting Motif 57: Ebonshadow Staves,1,Epic,consumable,,motif
+@NixNoctia,@VisionGT5,34307,1700977578,50,450g,akuma,Radish,1,Normal,materials,,ingredient
+@vipkid1412,@WarFareCheck,99874,1700973232,1,10000g,akuma,Thunderbug's Sabatons,cp160,Epic,feet,divines,
+@Hellraisin1,@DrMuggle,132783,1701027270,1,500g,akuma,Livewire Gauntlets,cp160,Superior,hands,invigorating,
+@DivadSesom,@Marelki,198322,1701044006,1,1000g,akuma,Runebox: Face-Eating Tome Memento,1,Legendary,consumable,,container
+@Dhraghyn,@Marelki,198322,1701044007,1,1200g,akuma,Runebox: Face-Eating Tome Memento,1,Legendary,consumable,,container
+@SavageHoax,@kannarius,198340,1701064832,1,30000g,akuma,Style Page: Crowborne Hunter Jerkin,1,Legendary,consumable,,collectible
+@SavageHoax,@CommanderKrypt0,198345,1700958533,1,30000g,akuma,Style Page: Crowborne Hunter Gloves,1,Legendary,consumable,,collectible
+@lavenderstar86,@K1NGM4N,166005,1701087637,1,25000g,akuma,"Geode, Green Garnet",1,Fine,furnishings,,conservatory
+@efcoman,@Tikarie,199053,1701051941,1,5000g,akuma,Style Page: Y'ffre's Fallen-Wood Cuirass,1,Legendary,consumable,,collectible
+@gabrielsfeather,@kannarius,199053,1701064788,1,20000g,akuma,Style Page: Y'ffre's Fallen-Wood Cuirass,1,Legendary,consumable,,collectible
+@Saltwound,@Estienne,199054,1701030883,1,30000g,akuma,Style Page: Y'ffre's Fallen-Wood Helm,1,Legendary,consumable,,collectible
+@HappySuccubus,@Stik_88,199055,1701015919,1,20000g,akuma,Style Page: Y'ffre's Fallen-Wood Greaves,1,Legendary,consumable,,collectible
+@HappySuccubus,@Estienne,199055,1701030465,1,20000g,akuma,Style Page: Y'ffre's Fallen-Wood Greaves,1,Legendary,consumable,,collectible
+@efcoman,@Tikarie,199055,1701051942,1,5000g,akuma,Style Page: Y'ffre's Fallen-Wood Greaves,1,Legendary,consumable,,collectible
+@BlindLittleMole,@sklogw,199056,1701011023,1,28000g,akuma,Style Page: Y'ffre's Fallen-Wood Pauldron,1,Legendary,consumable,,collectible
+@Sweetleigh95,@AlexiCat,199056,1701034348,1,10000g,akuma,Style Page: Y'ffre's Fallen-Wood Pauldron,1,Legendary,consumable,,collectible
+@DanceyPants,@sklogw,199057,1701011018,1,10000g,akuma,Style Page: Y'ffre's Fallen-Wood Sabatons,1,Legendary,consumable,,collectible
+@HappySuccubus,@Skeplie,199057,1701053183,1,39848g,akuma,Style Page: Y'ffre's Fallen-Wood Sabatons,1,Legendary,consumable,,collectible
+@EtedZ,@VisionGT5,68216,1700977483,1,50g,akuma,Recipe: Muthsera's Remorse,1,Fine,consumable,,recipe
+@thortothemax45,@OneTroubledTurtle,68253,1701003540,100,25000g,akuma,Longfin Pasty with Melon Sauce,cp150,Epic,consumable,,food
+@Mgkv1,@Remsen,101363,1701065442,1,153g,akuma,Ysgramor's Hat,cp160,Epic,head,divines,
+@Bobthedead,@Sybad,167183,1700982010,1,59000g,akuma,Crafting Motif 92: Ancestral Akaviri Maces,1,Epic,consumable,,motif
+@sconeindygw,@KennethXtreme,167183,1701037170,1,45000g,akuma,Crafting Motif 92: Ancestral Akaviri Maces,1,Epic,consumable,,motif
+@sconeindygw,@Akamakus,167185,1701062841,1,110000g,akuma,Crafting Motif 92: Ancestral Akaviri Shoulders,1,Epic,consumable,,motif
+@ChaotixDemon,@Voror_Fylgja,167248,1701071192,1,200g,akuma,Style Page: Grave Dancer Maul,1,Legendary,consumable,,collectible
+@MissDollypop,@SavageHoax,134527,1700982752,1,3500g,akuma,"Design: Clockwork Meal, Plate",1,Superior,consumable,,recipe
+@dawnarhinni,@Sanadora,134530,1700965367,1,10000g,akuma,"Diagram: Clockwork Sequence Plaques, Unfolded",1,Superior,consumable,,recipe
+@gabrielsfeather,@Binarstar,69167,1700958295,1,4000g,akuma,Ring of Endurance,cp160,Epic,ring,arcane,
+@ConjuringWorm,@DrMuggle,134715,1701027276,1,2000g,akuma,Tower Sentinel Brigandine,cp160,Fine,chest,sturdy,
+@ConjuringWorm,@NwahZ,69328,1700960798,1,1000g,akuma,Inferno Staff of Agility,cp160,Superior,two-handed,decisive,
+@Orich,@Binarstar,69389,1700958293,1,4000g,akuma,Ring of Agility,cp160,Epic,ring,robust,
+@KillerClembo,@Zzmonsoon,135163,1701032447,1,1000g,akuma,Gloom-Graced Necklace,cp160,Superior,neck,healthy,
+@KrossedGamer,@MorganBoo,167982,1701039743,1,223870g,akuma,Crafting Motif 97: Wayward Guardian Chests,1,Epic,consumable,,motif
+@pumbz,@garradesapo,135355,1701034196,1,10000g,akuma,Gryphon's Ice Staff,cp160,Epic,two-handed,infused,
+@Argorious,@garradesapo,135380,1701034541,1,5000g,akuma,Gryphon's Boots,cp160,Superior,feet,divines,
+@Lyranis.Raine,@DubzVenom,5365,1700982581,1,175g,akuma,Truly Superb Glyph of Frost,cp160,Normal,weapon,,glyph
+@pumbz,@rafapira,71288,1701006965,1,2000g,akuma,Locket of the Pariah,cp160,Superior,neck,arcane,
+@dykhajiit,@slant121,71555,1701063347,1,250000g,akuma,Crafting Motif 22: Trinimac Chests,1,Epic,consumable,,motif
+@Bunnyrbt,@Voror_Fylgja,71673,1701072774,1,3200g,akuma,Crafting Motif 28: Ra Gada Axes,1,Epic,consumable,,motif
+@SavageHoax,@kannarius,170132,1701064796,1,8000g,akuma,Crafting Motif 98: House Hexos Axes,1,Epic,consumable,,motif
+@Argorious,@WanderingMuse001,170135,1700958777,1,4000g,akuma,Crafting Motif 98: House Hexos Bows,1,Epic,consumable,,motif
+@SavageHoax,@FreedomSorc,170144,1701043451,1,8000g,akuma,Crafting Motif 98: House Hexos Staves,1,Epic,consumable,,motif
+@fairysynth,@O-FISHAL_CODFATHER,137953,1700985475,1,8500g,akuma,Culanda Lacquer,1,Normal,materials,,style
+@mariusapan,@width,203634,1701086126,1,30000g,akuma,Chromium Plating,1,Legendary,materials,,plating
+@mariusapan,@width,203634,1701086127,1,30000g,akuma,Chromium Plating,1,Legendary,materials,,plating
+@mariusapan,@width,203634,1701086129,1,30000g,akuma,Chromium Plating,1,Legendary,materials,,plating
+@mariusapan,@width,203634,1701086130,1,30000g,akuma,Chromium Plating,1,Legendary,materials,,plating
+@Jigsawxo,@DarnFurious,203716,1700958038,1,69999g,akuma,Mages Guild Citation,10,Legendary,consumable,,trophy
+@KlumsBabe,@Remsen,171326,1700982085,1,750g,akuma,Cyrodiil Citrus,1,Legendary,materials,,ingredient
+@eat2much,@Exviled,171554,1701052093,1,35000g,akuma,Crafting Motif 100: True-Sworn Boots,1,Epic,consumable,,motif
+@Bobthedead,@Remsen,171561,1700982193,1,12000g,akuma,Crafting Motif 100: True-Sworn Maces,1,Epic,consumable,,motif
+@Bobthedead,@Lul6306599,171562,1701078336,1,20000g,akuma,Crafting Motif 100: True-Sworn Shields,1,Epic,consumable,,motif
+@SoyCope,@Giubp,171564,1700980698,1,20286g,akuma,Crafting Motif 100: True-Sworn Staves,1,Epic,consumable,,motif
+@Bobthedead,@AepDahy,171581,1701022176,1,8000g,akuma,Crafting Motif 99: Waking Flame Axes,1,Epic,consumable,,motif
+@lubasik,@AepDahy,171585,1701022403,1,280000g,akuma,Crafting Motif 99: Waking Flame Chests,1,Epic,consumable,,motif
+@Bobthedead,@Taggund,171589,1701042219,1,72000g,akuma,Crafting Motif 99: Waking Flame Legs,1,Epic,consumable,,motif
+@Bobthedead,@Mira1984,171591,1701032709,1,12500g,akuma,Crafting Motif 99: Waking Flame Shields,1,Epic,consumable,,motif
+@Bobthedead,@Mira1984,171592,1701032711,1,13500g,akuma,Crafting Motif 99: Waking Flame Shoulders,1,Epic,consumable,,motif
+@dykhajiit,@honestaly,139019,1701040779,1,5000g,akuma,Powdered Mother of Pearl,1,Fine,materials,,reagent
+@DivadSesom,@DibellasMuse,139071,1700958831,1,130000g,akuma,"Painting of High Elf Tower, Refined",1,Epic,furnishings,,gallery
+@Argorious,@warshepherd216,171882,1701060331,1,5000g,akuma,Crafting Motif 103: Black Fin Legion Bows,1,Epic,consumable,,motif
+@Argorious,@marakimich23,171882,1701061782,1,5000g,akuma,Crafting Motif 103: Black Fin Legion Bows,1,Epic,consumable,,motif
+@Banshee_44,@kannarius,171883,1701064871,1,10000g,akuma,Crafting Motif 103: Black Fin Legion Chests,1,Epic,consumable,,motif
+@Kefkaas,@kannarius,171883,1701064980,1,15000g,akuma,Crafting Motif 103: Black Fin Legion Chests,1,Epic,consumable,,motif
+@HappySuccubus,@marakimich23,171889,1701062028,1,5000g,akuma,Crafting Motif 103: Black Fin Legion Shields,1,Epic,consumable,,motif
+@bruiseman5241990,@Secundaria,171890,1701029235,1,8000g,akuma,Crafting Motif 103: Black Fin Legion Shoulders,1,Epic,consumable,,motif
+@Ploppa,@Miserables82,171900,1701062665,1,4999g,akuma,Crafting Motif 101: Ivory Brigade Chests,1,Epic,consumable,,motif
+@Banshee_44,@DeLimaRJ,171907,1700962397,1,1000g,akuma,Crafting Motif 101: Ivory Brigade Shoulders,1,Epic,consumable,,motif
+@bruiseman5241990,@kannarius,171908,1701064924,1,5000g,akuma,Crafting Motif 101: Ivory Brigade Staves,1,Epic,consumable,,motif
+@Banshee_44,@Aneildy,171911,1701003288,78,590000g,akuma,Ivory Brigade Clasp,1,Normal,materials,,style
+@vereesh,@BlackTree,171923,1701024832,1,4000g,akuma,Crafting Motif 102: Sul-Xan Shields,1,Epic,consumable,,motif
+@Kooish,@Remsen,171948,1700981337,1,500g,akuma,Ring of Frostbite,cp160,Superior,ring,arcane,
+@Hellraisin1,@Zzmonsoon,171948,1701032436,1,800g,akuma,Ring of Frostbite,cp160,Superior,ring,arcane,
+@Guylords,@Zzmonsoon,171948,1701032454,1,1000g,akuma,Ring of Frostbite,cp160,Superior,ring,arcane,
+@FallenxHawk,@Zzmonsoon,171948,1701032460,1,1000g,akuma,Ring of Frostbite,cp160,Superior,ring,arcane,
+@SpectreKH,@Binarstar,171949,1700958301,1,4000g,akuma,Amulet of Frostbite,31,Epic,neck,arcane,
+@Guylords,@Zzmonsoon,171949,1701032452,1,1000g,akuma,Amulet of Frostbite,cp160,Superior,neck,arcane,
+@teeje,@Binarstar,171949,1700958245,1,666g,akuma,Amulet of Frostbite,cp160,Superior,neck,arcane,
+@Kooish,@Remsen,171949,1700981336,1,500g,akuma,Amulet of Frostbite,cp160,Superior,neck,arcane,
+@pumbz,@Zzmonsoon,171949,1701032433,1,750g,akuma,Amulet of Frostbite,cp160,Superior,neck,arcane,
+@WestDeserts,@Zzmonsoon,171949,1701032437,1,800g,akuma,Amulet of Frostbite,cp160,Superior,neck,arcane,
+@xamich,@Zzmonsoon,171949,1701032441,1,900g,akuma,Amulet of Frostbite,cp160,Superior,neck,arcane,
+@Saltwound,@DrMuggle,172021,1701027262,1,2000g,akuma,Inferno Staff of Frostbite,cp140,Superior,two-handed,defending,
+@shanleyp,@JimmyTortellini,172064,1701035786,1,5555g,akuma,Ice Staff of Frostbite,cp160,Superior,two-handed,charged,
+@ultimba,@JimmyTortellini,172064,1701035788,1,6000g,akuma,Ice Staff of Frostbite,cp160,Superior,two-handed,charged,
+@ultimba,@JimmyTortellini,172064,1701035785,1,3000g,akuma,Ice Staff of Frostbite,cp160,Fine,two-handed,charged,
+@pumbz,@fatina,172114,1701037757,1,400g,akuma,Breeches of Frostbite,cp160,Superior,legs,training,
+@Kooish,@Remsen,172121,1700981934,1,500g,akuma,Deadlands Assassin's Ring,cp160,Superior,ring,robust,
+@Guylords,@Zzmonsoon,172121,1701032455,1,1000g,akuma,Deadlands Assassin's Ring,cp160,Superior,ring,robust,
+@DarkLordCthulhu,@MrStryker,73843,1701077241,1,40000g,akuma,Crafting Motif 30: Morag Tong Chests,1,Epic,consumable,,motif
+@DarkLordCthulhu,@Demiplane,73843,1701014568,1,40000g,akuma,Crafting Motif 30: Morag Tong Chests,1,Epic,consumable,,motif
+@PreciseSkill,@MajerAlucius,139409,1701032827,2,77980g,akuma,Dawn-Prism,1,Normal,trait,triune,
+@AwokenPhenix,@Kelwindra,139414,1701003797,4,28000g,akuma,Slaughterstone,1,Normal,trait,bloodthirsty,
+@WestDeserts,@NwahZ,172201,1700961077,1,500g,akuma,Deadlands Assassin's Arm Cops,cp160,Superior,shoulders,reinforced,
+@istepsbysteps,@Binarstar,172286,1700958290,1,3500g,akuma,Bog Raider's Ring,cp160,Epic,ring,healthy,
+@pumbz,@Binarstar,172286,1700958247,1,700g,akuma,Bog Raider's Ring,cp160,Superior,ring,healthy,
+@WestDeserts,@Zzmonsoon,172286,1701032430,1,600g,akuma,Bog Raider's Ring,cp160,Superior,ring,healthy,
+@Sabercat,@Zzmonsoon,172286,1701032435,1,800g,akuma,Bog Raider's Ring,cp160,Superior,ring,healthy,
+@Guylords,@Zzmonsoon,172286,1701032453,1,1000g,akuma,Bog Raider's Ring,cp160,Superior,ring,healthy,
+@MadisonRayne,@araminta,172301,1701015985,1,120g,akuma,Bog Raider's Cuirass,38,Superior,chest,infused,
+@MissDollypop,@Acanthia88,139589,1701063022,1,190000g,akuma,"Praxis: Alinor Fountain, Timeworn",1,Superior,consumable,,recipe
+@Fallen_Prophet,@LuciButters,172383,1700983164,1,1000g,akuma,Bog Raider's Gauntlets,cp160,Superior,hands,impenetrable,
+@WestDeserts,@LuciButters,172385,1700983163,1,300g,akuma,Bog Raider's Greaves,cp160,Superior,legs,impenetrable,
+@Blaquewidow,@LuciButters,172386,1700983162,1,700g,akuma,Bog Raider's Pauldrons,cp160,Superior,shoulders,impenetrable,
+@lubasik,@Voror_Fylgja,139661,1701076892,1,2200g,akuma,Exemplary Swift Necklace,1,Epic,neck,swift,
+@viÃ¤tachegg,@kannarius,74548,1701064777,1,50000g,akuma,Crafting Motif 32: Abah's Watch Legs,1,Epic,consumable,,motif
+@SothaTeleferi,@MouthForWar79,140311,1700959486,1,1525000g,akuma,Style Page: Shadowrend's Mask,1,Legendary,consumable,,collectible
+@SothaTeleferi,@MouthForWar79,140312,1700959506,1,72000g,akuma,Style Page: Ilambris' Shoulder,1,Legendary,consumable,,collectible
+@SothaTeleferi,@Haelgaan,140312,1701014566,1,72000g,akuma,Style Page: Ilambris' Shoulder,1,Legendary,consumable,,collectible
+@chesscat,@Abigaiel,140446,1700987097,4,230g,akuma,Crafting Motif 63: Dremora Belts,1,Epic,consumable,,motif
+@TrafalgarDripLaw,@ChargeYourWeapons,140451,1701085019,1,150g,akuma,Crafting Motif 63: Dremora Gloves,1,Epic,consumable,,motif
+@TrafalgarDripLaw,@ChargeYourWeapons,140455,1701085017,1,150g,akuma,Crafting Motif 63: Dremora Shields,1,Epic,consumable,,motif
+@Thonrad93,@A.Holik,75358,1700978425,22,660g,akuma,Ichor,10,Normal,poison,,solvent
+@Primehunter501,@A.Holik,75358,1700978426,9,77g,akuma,Ichor,10,Normal,poison,,solvent
+@fairysynth,@A.Holik,75359,1700979188,75,9500g,akuma,Slime,20,Normal,poison,,solvent
+@l3adl3ad,@A.Holik,75359,1700979190,8,1222g,akuma,Slime,20,Normal,poison,,solvent
+@KrossedGamer,@width,42867,1701086135,50,38200g,akuma,Dhufish,1,Normal,consumable,,fish
+@shanleyp,@AxlBlack,42873,1701013771,25,1250g,akuma,"Fish Roe, Foul Bait",1,Normal,miscellaneous,,lure
+@Mkgoro112,@Mr.HomeInvasion,43089,1701060926,24,50000g,akuma,Ultimate Riverhold Beef Pasty,cp100,Epic,consumable,,food
+@bearclawws,@Quantumania,141737,1701029685,10,18000g,akuma,Welkynar Style Motif Fragment,1,Epic,consumable,,trophy
+@Biblicus,@Quantumania,141737,1701029687,3,11850g,akuma,Welkynar Style Motif Fragment,1,Epic,consumable,,trophy
+@MasterW3,@DubzVenom,43573,1700982588,1,500g,akuma,Greater Glyph of Absorb Health,cp30,Normal,weapon,,glyph
+@backpocket08,@NixNoctia,43641,1701021963,1,250g,akuma,Greenshade Treasure Map V,1,Fine,miscellaneous,,trophy
+@AKAZA69,@NixNoctia,43642,1701022008,1,299g,akuma,Greenshade Treasure Map VI,1,Fine,miscellaneous,,trophy
+@FNX2000,@NixNoctia,43671,1701022018,1,300g,akuma,Shadowfen Treasure Map V,1,Superior,miscellaneous,,trophy
+@ConjuringWorm,@Kahz'mir,43735,1700973763,1,250g,akuma,Gold Coast Treasure Map I,1,Superior,miscellaneous,,trophy
+@BizzMac,@Kahz'mir,43735,1700973765,1,250g,akuma,Gold Coast Treasure Map I,1,Superior,miscellaneous,,trophy
+@lubasik,@Kahz'mir,43736,1700973781,1,300g,akuma,Gold Coast Treasure Map II,1,Superior,miscellaneous,,trophy
+@Hirriwi,@Kahz'mir,43736,1700973784,1,500g,akuma,Gold Coast Treasure Map II,1,Superior,miscellaneous,,trophy
+@GrabbersDivinity,@DRIBRASIL,142200,1701034678,1,17000g,akuma,Crafting Motif 68: Honor Guard Swords,1,Epic,consumable,,motif
+@Sweetleigh95,@marakimich23,76885,1701062089,1,2000g,akuma,Crafting Motif 34: Assassins League Gloves,1,Epic,consumable,,motif
+@Syncro17,@marakimich23,76906,1701062116,1,2500g,akuma,Crafting Motif 38: Draugr Shoulders,1,Epic,consumable,,motif
+@coolice07,@ShuihanYi,175550,1701050932,1,6000g,akuma,Blackwood Treasure Map IV,1,Superior,miscellaneous,,trophy
+@zynemorg,@ChargeYourWeapons,44698,1701000804,1,250g,akuma,Crafting Motif 7: Khajiit Style,1,Superior,consumable,,motif
+@xamich,@ShatteredSteel,175844,1700966340,1,6500g,akuma,Companion's Epaulets,1,Superior,shoulders,,quickened
+@xamich,@yoinoinazuma,175846,1700982446,1,2350g,akuma,Companion's Breeches,1,Superior,legs,,quickened
+@Kefkaas,@Se7EnT1En,175846,1701081894,1,2599g,akuma,Companion's Breeches,1,Superior,legs,,quickened
+@Biblicus,@ShatteredSteel,175847,1700966345,1,10000g,akuma,Companion's Shoes,1,Superior,feet,,quickened
+@Mystic.legend,@honestaly,77581,1701040787,1,1100g,akuma,Torchbug Thorax,1,Fine,materials,,reagent
+@Dmaged,@honestaly,77589,1701040783,3,3609g,akuma,Scrib Jelly,1,Fine,materials,,reagent
+@Mystic.legend,@honestaly,77589,1701040784,3,3450g,akuma,Scrib Jelly,1,Fine,materials,,reagent
+@edufalash,@honestaly,77589,1701040785,2,2000g,akuma,Scrib Jelly,1,Fine,materials,,reagent
+@GOPNICK,@ljming,175915,1701004069,1,8999g,akuma,"Blueprint: Leyawiin Cupboard, Sturdy",1,Superior,consumable,,recipe
+@Noobin007,@picoris,175919,1701043812,1,10000g,akuma,"Blueprint: Leyawiin Counter, Long",1,Superior,consumable,,recipe
+@cyoadventure,@yaharghoul,175922,1701039771,1,70000g,akuma,"Blueprint: Leyawiin Armoire, Formal",1,Superior,consumable,,recipe
+@sconeindygw,@hcollins222,175927,1700994108,1,8000g,akuma,"Blueprint: Leyawiin Bookcase, Narrow",1,Superior,consumable,,recipe
+@Banshee_44,@picoris,175932,1701043869,1,7500g,akuma,"Pattern: Leyawiin Bed, Sturdy Single",1,Superior,consumable,,recipe
+@Mysteria295,@marc8830,175934,1700969082,1,445g,akuma,"Pattern: Leyawiin Banner, Abstract",1,Fine,consumable,,recipe
+@Banshee_44,@ealdgast,175942,1700964412,1,4500g,akuma,"Pattern: Leyawiin Carpet, Large Carmine Octad",1,Superior,consumable,,recipe
+@Reign03,@Sweetrollkiller,44874,1701087016,200,400g,akuma,Petty Repair Kit,1,Fine,consumable,,tool
+@ashbellgames,@kannarius,175964,1701064822,1,48999g,akuma,"Blueprint: Leyawiin Trunk, Floral Gilded",1,Superior,consumable,,recipe
+@Sanadora,@SavageHoax,175980,1700982764,1,7000g,akuma,"Diagram: Leyawiin Chandelier, Twin Lanterns",1,Superior,consumable,,recipe
+@sconeindygw,@Khasidhea,175993,1701001176,1,55g,akuma,"Praxis: Leyawiin Pitcher, Cracked",1,Fine,consumable,,recipe
+@zynemorg,@kannarius,176008,1701064903,1,452g,akuma,"Design: Leyawiin Lettuce, Leaf",1,Fine,consumable,,recipe
+@Banshee_44,@Remsen,176010,1701065552,1,3000g,akuma,"Design: Leyawiin Bowl, Lobster Stew",1,Superior,consumable,,recipe
+@Kefkaas,@hcollins222,176013,1700994113,1,9000g,akuma,"Design: Leyawiin Meal, Squid",1,Superior,consumable,,recipe
+@Argorious,@catwoman7997,176013,1701070532,1,9000g,akuma,"Design: Leyawiin Meal, Squid",1,Superior,consumable,,recipe
+@Banshee_44,@Remsen,176014,1701065557,1,6500g,akuma,"Design: Leyawiin Gravy Boat, Silver",1,Superior,consumable,,recipe
+@Linknerevar,@coolice07,176018,1700972950,1,550g,akuma,"Blueprint: Leyawiin Plate, Set",1,Fine,consumable,,recipe
+@EuphoricWizard,@kannarius,176021,1701065085,1,20000g,akuma,"Design: Leyawiin Platter, Seafood",1,Superior,consumable,,recipe
+@Bobthedead,@Remsen,176035,1700982188,1,12000g,akuma,"Diagram: Deadlands Brazier, Bladed Cage",1,Epic,consumable,,recipe
+@adghar,@marakimich23,176058,1701064033,1,14000g,akuma,Crafting Motif 105: Crimson Oath Axes,1,Epic,consumable,,motif
+@Argorious,@code65,176059,1701008603,1,17000g,akuma,Crafting Motif 105: Crimson Oath Belts,1,Epic,consumable,,motif
+@Satar1,@MiffyCat,176064,1700964152,1,18000g,akuma,Crafting Motif 105: Crimson Oath Gloves,1,Epic,consumable,,motif
+@Noobin007,@code65,176071,1701008607,1,21500g,akuma,Crafting Motif 105: Crimson Oath Swords,1,Epic,consumable,,motif
+@Mgkv1,@Remsen,45052,1701065437,1,246g,akuma,Ruby Ash Restoration Staff of Flame,cp160,Epic,two-handed,powered,
+@HawtChet,@LuciButters,45066,1700983159,1,254g,akuma,Orichalc Girdle of Stamina,32,Fine,waist,impenetrable,
+@RajputLancer,@Marelki,45085,1701043383,1,246g,akuma,Ruby Ash Ice Staff of Frost,cp160,Epic,two-handed,charged,
+@RajputLancer,@DubzVenom,45100,1700997002,1,150g,akuma,Rubedite Pauldron of Magicka,cp160,Superior,shoulders,reinforced,
+@teeje,@Marelki,45145,1701043378,1,246g,akuma,Ruby Ash Bow of Shock,cp160,Epic,two-handed,infused,
+@MadisonRayne,@Datsa,45146,1701027846,1,120g,akuma,Full-Leather Jack of Health,38,Superior,chest,well-fitted,
+@akwaaa,@NwahZ,45168,1700960995,1,141g,akuma,Rubedite Helm,cp160,Normal,head,training,
+@MisterSmirk,@HawtChet,45169,1700978254,1,1000g,akuma,Orichalc Greaves of Stamina,28,Fine,legs,training,
+@viÃ¤tachegg,@DemonicdeathXXX,45298,1701043553,1,110g,akuma,Rubedite Axe,cp160,Normal,one-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45298,1701043555,1,110g,akuma,Rubedite Axe,cp160,Normal,one-handed,intricate,
+@dykhajiit,@OmegTar,45299,1700968580,1,300g,akuma,Rubedite Mace,cp160,Normal,one-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45299,1701043554,1,110g,akuma,Rubedite Mace,cp160,Normal,one-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45300,1701043556,1,110g,akuma,Rubedite Sword,cp160,Normal,one-handed,intricate,
+@RamenNoodleLord,@DemonicdeathXXX,45301,1701043576,1,150g,akuma,Steel Battle Axe,17,Normal,two-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45301,1701043575,1,110g,akuma,Rubedite Battle Axe,cp160,Normal,two-handed,intricate,
+@dykhajiit,@OmegTar,45302,1700968581,1,300g,akuma,Rubedite Maul,cp160,Normal,two-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45302,1701043573,1,110g,akuma,Rubedite Maul,cp160,Normal,two-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45303,1701043572,1,110g,akuma,Rubedite Greatsword,cp160,Normal,two-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45303,1701043574,1,110g,akuma,Rubedite Greatsword,cp160,Normal,two-handed,intricate,
+@rock1064,@OmegTar,45320,1700968579,1,300g,akuma,Ruby Ash Bow,cp150,Normal,two-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45320,1701073996,1,110g,akuma,Ruby Ash Bow,cp150,Normal,two-handed,intricate,
+@Kooish,@DemonicdeathXXX,45320,1701074004,1,500g,akuma,Ruby Ash Bow,cp160,Normal,two-handed,intricate,
+@dyrethedragon,@OmegTar,45320,1700968577,1,30g,akuma,Maple Bow,1,Normal,two-handed,intricate,
+@rock1064,@OmegTar,45329,1700968582,1,400g,akuma,Ruby Ash Inferno Staff,cp160,Normal,two-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45329,1701073998,1,110g,akuma,Ruby Ash Inferno Staff,cp160,Normal,two-handed,intricate,
+@viÃ¤tachegg,@OmegTar,45330,1700968578,1,110g,akuma,Ruby Ash Ice Staff,cp160,Normal,two-handed,intricate,
+@viÃ¤tachegg,@DemonicdeathXXX,45330,1701073997,1,110g,akuma,Ruby Ash Ice Staff,cp160,Normal,two-handed,intricate,
+@MisterSmirk,@OmegTar,45331,1700968583,1,400g,akuma,Beech Lightning Staff,28,Normal,two-handed,intricate,
+@viÃ¤tachegg,@OmegTar,45342,1700968593,1,110g,akuma,Rubedite Gauntlets,cp160,Normal,hands,intricate,
+@viÃ¤tachegg,@OmegTar,45342,1700968595,1,110g,akuma,Rubedite Gauntlets,cp160,Normal,hands,intricate,
+@dyrethedragon,@OmegTar,45344,1700968591,1,102g,akuma,Orichalc Greaves,34,Normal,legs,intricate,
+@viÃ¤tachegg,@OmegTar,45344,1700968594,1,110g,akuma,Rubedite Greaves,cp160,Normal,legs,intricate,
+@Razek237,@OmegTar,45344,1700968610,1,400g,akuma,Rubedite Greaves,cp160,Normal,legs,intricate,
+@viÃ¤tachegg,@OmegTar,45345,1700968592,1,110g,akuma,Rubedite Pauldron,cp160,Normal,shoulders,intricate,
+@War-Carrots,@OmegTar,45345,1700968612,1,1497g,akuma,Iron Pauldron,7,Normal,shoulders,intricate,
+@akwaaa,@OmegTar,45346,1700968602,1,218g,akuma,Rubedite Girdle,cp160,Normal,waist,intricate,
+@Orich,@OmegTar,45347,1700968611,1,500g,akuma,Ancestor Silk Robe,cp160,Normal,chest,intricate,
+@viÃ¤tachegg,@OmegTar,45352,1700968596,1,110g,akuma,Ancestor Silk Jerkin,cp160,Normal,chest,intricate,
+@Kooish,@OmegTar,45356,1700968607,1,400g,akuma,Rubedo Leather Jack,cp160,Normal,chest,intricate,
+@Kooish,@OmegTar,45356,1700968608,1,400g,akuma,Rubedo Leather Jack,cp160,Normal,chest,intricate,
+@Kooish,@OmegTar,45356,1700968609,1,400g,akuma,Rubedo Leather Jack,cp160,Normal,chest,intricate,
+@MisterSmirk,@OmegTar,45356,1700968601,1,150g,akuma,Leather Jack,28,Normal,chest,intricate,
+@dykhajiit,@OmegTar,45356,1700968605,1,300g,akuma,Rubedo Leather Jack,cp150,Normal,chest,intricate,
+@Dhraghyn,@OmegTar,45358,1700968598,1,125g,akuma,Rubedo Leather Bracers,cp160,Normal,hands,intricate,
+@Erkla,@OmegTar,45358,1700968603,1,230g,akuma,Rubedo Leather Bracers,cp160,Normal,hands,intricate,
+@Dhraghyn,@OmegTar,45359,1700968589,1,100g,akuma,Rubedo Leather Helmet,cp160,Normal,head,intricate,
+@Dhraghyn,@OmegTar,45361,1700968590,1,100g,akuma,Rubedo Leather Arm Cops,cp160,Normal,shoulders,intricate,
+@Kooish,@OmegTar,45362,1700968606,1,400g,akuma,Rubedo Leather Belt,cp160,Normal,waist,intricate,
+@skullcrusher4981,@SnideDog,176484,1700981141,1,27000g,akuma,Companion's Bracers,1,Epic,hands,,shattering
+@SerNemesis,@SnideDog,176499,1700980638,1,500g,akuma,Companion's Bow,1,Epic,two-handed,,shattering
+@sconeindygw,@RosyCotton,176599,1701027236,1,9500g,akuma,Companion's Ring,1,Superior,ring,,aggressive
+@MouthForWar79,@DubzVenom,45587,1701006278,1,111g,akuma,Recipe: Stand-Me-Up Lager,1,Superior,consumable,,recipe
+@Erkla,@DubzVenom,45594,1701006294,1,130g,akuma,Recipe: Lillandril Tonic Tea,1,Superior,consumable,,recipe
+@IsharaMeradin-Epic,@Vkingjeep1997,176737,1700963266,1,30g,akuma,Companion's Helm,1,Superior,head,,soothing
+@dewmanchu87,@Hireless,45675,1700970105,1,180g,akuma,Recipe: Punkin Bunny,1,Superior,consumable,,recipe
+@sconeindygw,@SavageHoax,45687,1701000573,1,800g,akuma,Recipe: Rabbit Corn Chowder,1,Superior,consumable,,recipe
+@vKaotic,@Saublainaar,45693,1701086020,1,600g,akuma,Recipe: Minotaur Slumgullion,1,Superior,consumable,,recipe
+@Mystic.legend,@kofer1998,45834,1701059415,6,168g,akuma,Okoma,1,Normal,essence,,runestone
+@Mystic.legend,@kofer1998,45846,1701059418,3,84g,akuma,Oru,1,Normal,essence,,runestone
+@PaurandMyrne,@honestaly,45854,1701040775,2,14500g,akuma,Kuta,21,Legendary,aspect,,runestone
+@Evilpookie,@t88connolly,45868,1701074767,1,1500g,akuma,Slight Glyph of Absorb Magicka,17,Superior,weapon,,glyph
+@Lyranis.Raine,@DubzVenom,45870,1700982566,1,160g,akuma,Truly Superb Glyph of Reduce Spell Cost,cp160,Normal,jewelry,,glyph
+@Lyranis.Raine,@DubzVenom,45870,1700982583,1,215g,akuma,Truly Superb Glyph of Reduce Spell Cost,cp160,Normal,jewelry,,glyph
+@Lyranis.Raine,@DubzVenom,45870,1700982584,1,217g,akuma,Truly Superb Glyph of Reduce Spell Cost,cp160,Normal,jewelry,,glyph
+@Mysteria295,@DubzVenom,45870,1700982585,1,234g,akuma,Truly Superb Glyph of Reduce Spell Cost,cp160,Normal,jewelry,,glyph
+@Lyranis.Raine,@DubzVenom,45870,1700982586,1,271g,akuma,Truly Superb Glyph of Reduce Spell Cost,cp160,Normal,jewelry,,glyph
+@Jetchi,@DubzVenom,45871,1700982540,1,27g,akuma,Truly Superb Glyph of Reduce Feat Cost,cp160,Normal,jewelry,,glyph
+@Lyranis.Raine,@DubzVenom,45871,1700982580,1,165g,akuma,Truly Superb Glyph of Reduce Feat Cost,cp160,Normal,jewelry,,glyph
+@MasterW3,@Jetxky,45884,1701082821,1,500g,akuma,Major Glyph of Increase Magical Harm,cp10,Fine,jewelry,,glyph
+@Lyranis.Raine,@Hireless,45912,1700970008,1,30g,akuma,Recipe: Baked Potato,1,Fine,consumable,,recipe
+@Robotsarealive,@Hireless,45916,1700970104,1,111g,akuma,Recipe: Tomato Soup,1,Fine,consumable,,recipe
+@CainBeast,@Hireless,45943,1700970005,1,40g,akuma,Recipe: Port Hunding Cheese Fries,1,Fine,consumable,,recipe
+@EtedZ,@DubzVenom,45998,1701006472,1,500g,akuma,Recipe: Honeyberry Tea,1,Fine,consumable,,recipe
+@HawtChet,@DubzVenom,46016,1701006305,1,227g,akuma,Recipe: Sweetsting Tea,1,Fine,consumable,,recipe
+@MadisonRayne,@Vkingjeep1997,177163,1700963262,1,36g,akuma,Companion's Jack,1,Superior,chest,,vigorous
+@Domiforu,@Yago2322,112425,1700965522,93,23000g,akuma,Lava Foot Soup-and-Saltrice,1,Superior,consumable,,food
+@SavageHoax,@DibellasMuse,145397,1700958447,1,500g,akuma,"Murkmire Rug, Hist Gathering Worn",1,Superior,furnishings,,parlor
+@tindin,@TrixieRaven,178434,1701032576,1,15000g,akuma,Companion's Gauntlets,1,Epic,hands,,prolific
+@ChaotixDemon,@Kahz'mir,178456,1700974247,1,1000g,akuma,Style Page: Nibenese Court Wizard Shoes,1,Legendary,consumable,,collectible
+@Kefkaas,@ValoAven,178462,1700974897,2,16999g,akuma,Inscribed Shard,1,Epic,consumable,,trophy
+@Bunnyrbt,@ValoAven,178462,1700974899,4,45700g,akuma,Inscribed Shard,1,Epic,consumable,,trophy
+@Banshee_44,@Remsen,178505,1700982164,1,10000g,akuma,Crafting Motif 106: Silver Rose Axes,1,Epic,consumable,,motif
+@Banshee_44,@Remsen,178505,1700982165,1,10000g,akuma,Crafting Motif 106: Silver Rose Axes,1,Epic,consumable,,motif
+@Banshee_44,@FreedomSorc,178510,1701038507,1,7500g,akuma,Crafting Motif 106: Silver Rose Daggers,1,Epic,consumable,,motif
+@jigumiz,@NorthP,178514,1701017523,1,10000g,akuma,Crafting Motif 106: Silver Rose Maces,1,Epic,consumable,,motif
+@jigumiz,@Undercutz,178527,1701029588,1,900000g,akuma,Style Page: Prior Thierric Mask,1,Legendary,consumable,,collectible
+@Itsgametime,@fonariq,178530,1701054661,1,15000g,akuma,Crafting Motif 107: Annihilarch's Chosen Belts,1,Epic,consumable,,motif
+@Itsgametime,@fonariq,178531,1701054697,1,40000g,akuma,Crafting Motif 107: Annihilarch's Chosen Boots,1,Epic,consumable,,motif
+@Itsgametime,@kannarius,178532,1701064827,1,15000g,akuma,Crafting Motif 107: Annihilarch's Chosen Bows,1,Epic,consumable,,motif
+@cyoadventure,@KennethXtreme,178535,1701037366,1,45000g,akuma,Crafting Motif 107: Annihilarch's Chosen Gloves,1,Epic,consumable,,motif
+@Mr.HomeInvasion,@HedgeWizard714,178538,1700981489,1,1000g,akuma,Crafting Motif 107: Annihilarch's Chosen Maces,1,Epic,consumable,,motif
+@cyoadventure,@bgsu83,178542,1700965427,1,20000g,akuma,Crafting Motif 107: Annihilarch's Chosen Swords,1,Epic,consumable,,motif
+@cyoadventure,@Sunsshine,178542,1701077281,1,20000g,akuma,Crafting Motif 107: Annihilarch's Chosen Swords,1,Epic,consumable,,motif
+@Itsgametime,@Reaper3077,178707,1701050024,1,12000g,akuma,Crafting Motif 108: Fargrave Guardian Axes,1,Epic,consumable,,motif
+@Itsgametime,@Lash_gra-Bar,178707,1701054460,1,12000g,akuma,Crafting Motif 108: Fargrave Guardian Axes,1,Epic,consumable,,motif
+@Itsgametime,@Kharnjar,178708,1701054777,1,20000g,akuma,Crafting Motif 108: Fargrave Guardian Belts,1,Epic,consumable,,motif
+@Itsgametime,@Sneasel.Sneas,178709,1701053428,1,10000g,akuma,Crafting Motif 108: Fargrave Guardian Boots,1,Epic,consumable,,motif
+@Itsgametime,@Kharnjar,178710,1701054762,1,10000g,akuma,Crafting Motif 108: Fargrave Guardian Bows,1,Epic,consumable,,motif
+@Itsgametime,@allamaraine,178711,1701074124,1,80000g,akuma,Crafting Motif 108: Fargrave Guardian Chests,1,Epic,consumable,,motif
+@SavageHoax,@allamaraine,178711,1701074135,1,88000g,akuma,Crafting Motif 108: Fargrave Guardian Chests,1,Epic,consumable,,motif
+@Itsgametime,@Kharnjar,178712,1701054759,1,10000g,akuma,Crafting Motif 108: Fargrave Guardian Daggers,1,Epic,consumable,,motif
+@Itsgametime,@Kharnjar,178712,1701054763,1,10000g,akuma,Crafting Motif 108: Fargrave Guardian Daggers,1,Epic,consumable,,motif
+@Argorious,@HedgeWizard714,178717,1700981954,1,12000g,akuma,Crafting Motif 108: Fargrave Guardian Shields,1,Epic,consumable,,motif
+@Itsgametime,@Sneasel.Sneas,178717,1701053517,1,11000g,akuma,Crafting Motif 108: Fargrave Guardian Shields,1,Epic,consumable,,motif
+@Itsgametime,@FatedBeginning,178718,1701056076,1,35000g,akuma,Crafting Motif 108: Fargrave Guardian Shoulders,1,Epic,consumable,,motif
+@MissDollypop,@LadySabastian,145986,1700982506,1,6000g,akuma,"Formula: Murkmire Candle, Standing Shell",1,Superior,consumable,,recipe
+@MissDollypop,@Kohanu,146002,1700979408,1,20000g,akuma,"Blueprint: Murkmire Ramp, Marshwood",1,Superior,consumable,,recipe
+@pumbz,@Zzmonsoon,179924,1701032459,1,1000g,akuma,Eye of the Grasp Ring,cp160,Superior,ring,arcane,
+@Cheesed_GB,@Gaspara,180098,1701058798,1,4200g,akuma,Hexos' Ward Amulet,cp160,Superior,neck,robust,
+@SavageHoax,@Luinteil,180132,1701051992,1,6000g,akuma,Hexos' Ward Jack,cp160,Superior,chest,divines,
+@DocHol1iday,@ArbutusX,147376,1701049736,1,3000g,akuma,Deadly Guards,cp160,Epic,legs,divines,
+@ayako1014,@Gaspara,180147,1701057949,1,9000g,akuma,Hexos' Ward Inferno Staff,cp160,Superior,two-handed,precise,
+@DocHol1iday,@ArbutusX,147386,1701049893,1,3000g,akuma,Deadly Jack,cp160,Epic,chest,reinforced,
+@Noobin007,@Cellestiaa-Twitch.tv,147396,1700969392,1,3400g,akuma,Deadly Helmet,cp160,Epic,head,impenetrable,
+@Satar1,@Gaspara,180192,1701058805,1,6000g,akuma,Hexos' Ward Jack,cp160,Epic,chest,impenetrable,
+@Argorious,@Kahz'mir,180229,1700974588,1,3000g,akuma,Hexos' Ward Lightning Staff,cp160,Epic,two-handed,decisive,
+@ayako1014,@Gaspara,180253,1701057864,1,1000g,akuma,Hexos' Ward Boots,cp160,Superior,feet,training,
+@pumbz,@Zzmonsoon,180262,1701032439,1,800g,akuma,Ring of the Kynmarcher's Cruelty,cp160,Superior,ring,healthy,
+@ayako1014,@Zzmonsoon,180262,1701032440,1,800g,akuma,Ring of the Kynmarcher's Cruelty,cp160,Superior,ring,healthy,
+@Mystic.legend,@Zzmonsoon,180263,1701032432,1,750g,akuma,Amulet of the Kynmarcher's Cruelty,cp160,Superior,neck,healthy,
+@ultimba,@derthel,82023,1701039195,1,2000g,akuma,Crafting Motif 42: Hollowjack Axes,1,Epic,consumable,,motif
+@ChaotixDemon,@derthel,82028,1701039199,1,2000g,akuma,Crafting Motif 42: Hollowjack Daggers,1,Epic,consumable,,motif
+@jaskos96,@Aneildy,114890,1701003364,200,25000g,akuma,Bast,1,Normal,materials,,furnishing
+@Banshee_44,@Aneildy,114892,1701003366,200,380000g,akuma,Mundane Rune,1,Normal,materials,,furnishing
+@PaurandMyrne,@AzeliaStone,114892,1701029234,70,115500g,akuma,Mundane Rune,1,Normal,materials,,furnishing
+@jornsnow1975,@Aneildy,114893,1701003350,50,1300g,akuma,Alchemical Resin,1,Normal,materials,,furnishing
+@AKAZA69,@width,114894,1701025096,200,159999g,akuma,Decorative Wax,1,Normal,materials,,furnishing
+@edufalash,@honestaly,114894,1701040791,2,1600g,akuma,Decorative Wax,1,Normal,materials,,furnishing
+@Mgkv1,@Remsen,114895,1701065447,2,12g,akuma,Heartwood,1,Normal,materials,,furnishing
+@Itsgametime,@warshepherd216,147706,1701060319,1,5000g,akuma,Crafting Motif 73: Anequina Helmets,1,Epic,consumable,,motif
+@Itsgametime,@Miserables82,147708,1701062647,1,3000g,akuma,Crafting Motif 73: Anequina Maces,1,Epic,consumable,,motif
+@pumbz,@LostAgain,115736,1701055462,1,100g,akuma,"Design: Argonian Cup, Short",1,Fine,consumable,,recipe
+@DivadSesom,@AlexiCat,115758,1701034324,1,150g,akuma,Blueprint: Argonian Wind Chimes,1,Superior,consumable,,recipe
+@DAN1968,@LostAgain,115840,1701055460,1,27g,akuma,"Blueprint: Wood Elf Bar, Short",1,Fine,consumable,,recipe
+@Mystic.legend,@Khasidhea,115879,1701069711,1,500g,akuma,"Design: Wood Elf Vase, Painted",1,Superior,consumable,,recipe
+@Darlaa214,@limamari,115928,1701063069,1,300g,akuma,"Design: Breton Vase, Ceramic",1,Fine,consumable,,recipe
+@TrafalgarDripLaw,@Abigaiel,181549,1701082779,1,100g,akuma,"Praxis: Vampiric Lamp, Azure Triple",1,Superior,consumable,,recipe
+@sconeindygw,@ljming,181569,1701004096,1,12500g,akuma,"Praxis: Leyawiin Column, Castle",1,Superior,consumable,,recipe
+@Mystic.legend,@Khasidhea,116048,1701069706,1,300g,akuma,"Diagram: Dark Elf Cauldron, Banded",1,Superior,consumable,,recipe
+@OMGWTFREALLY,@Darlaa214,116081,1701042456,1,778g,akuma,"Praxis: Khajiit Firepit, Brick",1,Fine,consumable,,recipe
+@TheRealCrazyCarmela,@limamari,116092,1701063085,1,345g,akuma,"Pattern: Khajiit Banner, Crescents",1,Fine,consumable,,recipe
+@Miller_HighLife14,@Darlaa214,116105,1701042468,1,1000g,akuma,"Blueprint: Khajiit Table, Formal",1,Superior,consumable,,recipe
+@jigumiz,@kannarius,181668,1701064885,1,30000g,akuma,Crafting Motif 110: Dreadsails Gloves,1,Epic,consumable,,motif
+@jigumiz,@kannarius,181668,1701064851,1,21000g,akuma,Crafting Motif 110: Dreadsails Gloves,1,Epic,consumable,,motif
+@TrafalgarDripLaw,@Abigaiel,51345,1700987094,1,250g,akuma,Crafting Motif 13: Primal Style,1,Epic,consumable,,motif
+@TrafalgarDripLaw,@Abigaiel,51345,1700987095,1,200g,akuma,Crafting Motif 13: Primal Style,1,Epic,consumable,,motif
+@zynemorg,@Voror_Fylgja,51345,1701072341,1,742g,akuma,Crafting Motif 13: Primal Style,1,Epic,consumable,,motif
+@RoxiFoxi92,@warshepherd216,182543,1701060306,1,4500g,akuma,Crafting Motif 113: Steadfast Society Daggers,1,Epic,consumable,,motif
+@RoxiFoxi92,@elanor05,182545,1701017164,1,10500g,akuma,Crafting Motif 113: Steadfast Society Helmets,1,Epic,consumable,,motif
+@AKAZA69,@elanor05,182547,1701017243,1,4599g,akuma,Crafting Motif 113: Steadfast Society Maces,1,Epic,consumable,,motif
+@boyblitzz2,@elanor05,182548,1701017165,1,12629g,akuma,Crafting Motif 113: Steadfast Society Shields,1,Epic,consumable,,motif
+@RoxiFoxi92,@elanor05,182549,1701017202,1,8500g,akuma,Crafting Motif 113: Steadfast Society Shoulders,1,Epic,consumable,,motif
+@RoxiFoxi92,@SothaTeleferi,182550,1701036503,1,6500g,akuma,Crafting Motif 113: Steadfast Society Staves,1,Epic,consumable,,motif
+@MRX-PHANTOM,@withoout,117206,1701050928,1,8883g,akuma,Guards of the Powerful Assault,cp160,Epic,legs,invigorating,
+@dg1219,@Binarstar,182845,1700958244,1,650g,akuma,Band of the Anchorite,cp160,Superior,ring,arcane,
+@jigumiz,@yaharghoul,182951,1701035245,1,65000g,akuma,"Diagram: Deadlands Candelabra, Tall Caged",1,Epic,consumable,,recipe
+@Mr.HomeInvasion,@alex_strutin,183005,1700976948,1,40000g,akuma,Deadlands Treasure Map I,1,Superior,miscellaneous,,trophy
+@NixNoctia,@ShuihanYi,183005,1701000217,1,50000g,akuma,Deadlands Treasure Map I,1,Superior,miscellaneous,,trophy
+@cyoadventure,@ShuihanYi,183005,1701000218,1,50000g,akuma,Deadlands Treasure Map I,1,Superior,miscellaneous,,trophy
+@Noobin007,@DrMuggle,183005,1701027659,1,54333g,akuma,Deadlands Treasure Map I,1,Superior,miscellaneous,,trophy
+@Peliciano,@DrMuggle,183005,1701027660,1,55000g,akuma,Deadlands Treasure Map I,1,Superior,miscellaneous,,trophy
+@Peliciano,@DrMuggle,183005,1701027662,1,55000g,akuma,Deadlands Treasure Map I,1,Superior,miscellaneous,,trophy
+@Peliciano,@DrMuggle,183006,1701027661,1,55000g,akuma,Deadlands Treasure Map II,1,Superior,miscellaneous,,trophy
+@Sweetleigh95,@kannarius,183006,1701064786,1,30000g,akuma,Deadlands Treasure Map II,1,Superior,miscellaneous,,trophy
+@flikao,@worldsnicestman,183236,1700967885,1,28000g,akuma,Rallying Cry Ring,cp160,Epic,ring,arcane,
+@flikao,@worldsnicestman,183237,1700967890,1,33000g,akuma,Rallying Cry Amulet,cp160,Epic,neck,arcane,
+@flikao,@Terrominis,183274,1700967364,1,22000g,akuma,Rallying Cry Gloves,cp160,Epic,hands,divines,
+@flikao,@worldsnicestman,183290,1700967738,1,45000g,akuma,Rallying Cry Lightning Staff,cp160,Epic,two-handed,precise,
+@moonglory71,@Remsen,117817,1700982310,1,10000g,akuma,"Redguard Lantern, Delicate",1,Epic,furnishings,,lighting
+@Banshee_44,@Elixana,150671,1701048423,10,240000g,akuma,Dragon Rheum,1,Fine,materials,,reagent
+@Banshee_44,@Elixana,150671,1701048424,10,240000g,akuma,Dragon Rheum,1,Fine,materials,,reagent
+@Banshee_44,@Elixana,150671,1701048427,10,240000g,akuma,Dragon Rheum,1,Fine,materials,,reagent
+@shanleyp,@Iags,150671,1701065559,3,73332g,akuma,Dragon Rheum,1,Fine,materials,,reagent
+@shanleyp,@Iags,150671,1701065578,3,73332g,akuma,Dragon Rheum,1,Fine,materials,,reagent
+@Banshee_44,@width,150731,1701025099,10,100000g,akuma,Dragon's Blood,1,Fine,materials,,reagent
+@Mystic.legend,@tabicatastrophe,118221,1701020864,1,109g,akuma,"Painting of Summer, Sturdy",1,Epic,furnishings,,gallery
+@pumbz,@BaronSalmon,118528,1701087580,1,4000g,akuma,Signed Contract,1,Superior,furnishings,,library
+@lavenderstar86,@Kimon0,184085,1701048027,1,50000g,akuma,"Fargrave Doorway, Stone Frame",1,Epic,furnishings,,structures
+@bruiseman5241990,@dawnarhinni,184131,1700967884,1,5000g,akuma,"Praxis: Fargrave Colonnade Pillar, Tall",1,Superior,consumable,,recipe
+@Mysteria295,@SavageHoax,184142,1700982756,1,5000g,akuma,"Diagram: Fargrave Defensive Spike, Curved",1,Superior,consumable,,recipe
+@bruiseman5241990,@derthel,184143,1701039361,1,2500g,akuma,"Blueprint: Fargrave Bridge, Rope",1,Superior,consumable,,recipe
+@ChaotixDemon,@LostAgain,118966,1701055465,1,1200g,akuma,"Praxis: High Elf End Table, Verdant",1,Superior,consumable,,recipe
+@CainBeast,@Eternal.Masquerade,151760,1700958613,1,2000g,akuma,"Elsweyr Tapestry, Verdant Blossom",1,Superior,furnishings,,parlor
+@MadisonRayne,@LostAgain,119342,1701055459,1,15g,akuma,"Blueprint: Rough Crate, Bolted",1,Normal,consumable,,recipe
+@Miller_HighLife14,@Llorydian,152116,1701011849,1,2500g,akuma,"Praxis: Elsweyr Foot Bridge, Masonry",1,Superior,consumable,,recipe
+@Syncro17,@C3N50R3D,119563,1700959058,1,4500g,akuma,Sealed Blacksmithing Writ,1,Epic,master,,writ
+@Zamaruk,@jet710,119563,1701071444,1,5000g,akuma,Sealed Blacksmithing Writ,1,Epic,master,,writ
+@Zamaruk,@C3N50R3D,119563,1700959062,1,5000g,akuma,Sealed Blacksmithing Writ,1,Epic,master,,writ
+@iamagear0,@Elainiethepainie,119563,1701038372,1,4000g,akuma,Sealed Blacksmithing Writ,1,Epic,master,,writ
+@Syncro17,@C3N50R3D,119681,1700959051,1,3500g,akuma,Sealed Woodworking Writ,1,Epic,master,,writ
+@SavageHoax,@Elainiethepainie,119682,1701013998,1,3000g,akuma,Sealed Woodworking Writ,1,Epic,master,,writ
+@Guylords,@Elainiethepainie,119682,1701013999,1,12000g,akuma,Sealed Woodworking Writ,1,Epic,master,,writ
+@Guylords,@NotLikeTwoFace,119693,1701019210,1,12000g,akuma,Sealed Provisioning Writ,1,Epic,master,,writ
+@Jrod2418,@Khasidhea,119693,1701001457,1,5000g,akuma,Sealed Provisioning Writ,1,Epic,master,,writ
+@Syncro17,@Elainiethepainie,119694,1700970049,1,5000g,akuma,Sealed Clothier Writ,1,Epic,master,,writ
+@DivadSesom,@Elainiethepainie,119694,1701038371,1,4400g,akuma,Sealed Clothier Writ,1,Epic,master,,writ
+@Syncro17,@C3N50R3D,119695,1700959055,1,5000g,akuma,Sealed Clothier Writ,1,Epic,master,,writ
+@Zamaruk,@kannarius,119695,1701064802,1,5000g,akuma,Sealed Clothier Writ,1,Epic,master,,writ
+@ultimba,@kannarius,119703,1701064984,1,17000g,akuma,Sealed Alchemy Writ,1,Epic,master,,writ
+@Dwight3,@kannarius,119703,1701065056,1,15000g,akuma,Sealed Alchemy Writ,1,Epic,master,,writ
+@Guylords,@kannarius,119704,1701064794,1,15000g,akuma,Sealed Alchemy Writ,1,Epic,master,,writ
+@edufalash,@MouthForWar79,54172,1700959276,4,2400g,akuma,Grain Solvent,1,Epic,materials,,temper
+@Mystic.legend,@Khasidhea,54172,1701069681,2,1000g,akuma,Grain Solvent,1,Epic,materials,,temper
+@PaurandMyrne,@honestaly,54173,1701040774,2,38000g,akuma,Tempering Alloy,1,Legendary,materials,,temper
+@Domiforu,@MouthForWar79,54176,1700959230,20,8000g,akuma,Elegant Lining,1,Epic,materials,,tannin
+@edufalash,@MouthForWar79,54176,1700959282,5,2000g,akuma,Elegant Lining,1,Epic,materials,,tannin
+@edufalash,@Khasidhea,54176,1701069971,2,800g,akuma,Elegant Lining,1,Epic,materials,,tannin
+@skullcrusher4981,@width,54177,1701025090,29,1160000g,akuma,Dreugh Wax,1,Legendary,materials,,tannin
+@DemonicdeathXXX,@width,54177,1701025157,1,39000g,akuma,Dreugh Wax,1,Legendary,materials,,tannin
+@PaurandMyrne,@width,54177,1701036294,3,105000g,akuma,Dreugh Wax,1,Legendary,materials,,tannin
+@Error_72890,@width,54177,1701085874,2,82000g,akuma,Dreugh Wax,1,Legendary,materials,,tannin
+@PaurandMyrne,@width,54177,1701086176,1,35000g,akuma,Dreugh Wax,1,Legendary,materials,,tannin
+@jornsnow1975,@KingwormPR,54180,1700955456,10,11000g,akuma,Mastic,1,Epic,materials,,resin
+@edufalash,@KingwormPR,54180,1700955468,1,1000g,akuma,Mastic,1,Epic,materials,,resin
+@DemonicdeathXXX,@KingwormPR,54181,1700955465,1,4200g,akuma,Rosin,1,Legendary,materials,,resin
+@PaurandMyrne,@honestaly,54181,1701040776,4,14000g,akuma,Rosin,1,Legendary,materials,,resin
+@MadisonRayne,@alex_strutin,54514,1700976962,1,108g,akuma,Copper Necklace of Reduce Spell Cost,38,Epic,neck,robust,
+@Bunnyrbt,@DubzVenom,87692,1701006656,1,4000g,akuma,Recipe: Ghastly Eye Bowl,1,Superior,consumable,,recipe
+@Bunnyrbt,@DubzVenom,87694,1701006628,1,2500g,akuma,Recipe: Witchmother's Potent Brew,1,Epic,consumable,,recipe
+@lavenderstar86,@K1NGM4N,166004,1701087646,1,25000g,akuma,"Geode, Amethyst",1,Epic,furnishings,,conservatory
+@RajputLancer,@LuciButters,10902,1701073614,1,141g,akuma,Triumphant Spaulders,cp160,Fine,shoulders,impenetrable,
+@MouthForWar79,@DubzVenom,45553,1701006513,1,1111g,akuma,Recipe: Horker's Breath,1,Superior,consumable,,recipe
+@flikao,@Selleys,87871,1701073160,1,12000g,akuma,Deadly Battle Axe,cp160,Epic,two-handed,infused,
+@flikao,@Cellestiaa-Twitch.tv,87911,1700969433,1,11000g,akuma,Deadly Maul,cp160,Epic,two-handed,defending,
+@RattdeRodent,@kajima_eso,120763,1700976911,100,30000g,akuma,Dubious Camoran Throne,1,Epic,consumable,,drink
+@HawtChet,@LostAgain,119331,1701055463,1,115g,akuma,"Diagram: Rough Bowl, Common",1,Normal,consumable,,recipe
+@Bunnyrbt,@shuwen1013,153737,1701036833,1,80000g,akuma,Sealed Jewelry Crafter Writ,1,Epic,master,,writ
+@Jrod2418,@Taladendria,153737,1701035612,1,7500g,akuma,Sealed Jewelry Crafter Writ,1,Epic,master,,writ
+@bearclawws,@jet710,153737,1701071464,1,22000g,akuma,Sealed Jewelry Crafter Writ,1,Epic,master,,writ
+@Bunnyrbt,@shuwen1013,153739,1701036857,1,17200g,akuma,Sealed Jewelry Crafter Writ,1,Superior,master,,writ
+@Bunnyrbt,@shuwen1013,153739,1701036861,1,17300g,akuma,Sealed Jewelry Crafter Writ,1,Superior,master,,writ
+@coolice07,@Elainiethepainie,153739,1701038374,1,24000g,akuma,Sealed Jewelry Crafter Writ,1,Superior,master,,writ
+@Bunnyrbt,@Elainiethepainie,153739,1701038373,1,19900g,akuma,Sealed Jewelry Crafter Writ,1,Superior,master,,writ
+@ChaotixDemon,@Voror_Fylgja,153779,1701071215,1,300g,akuma,Style Page: Glenmoril Wyrd Epaulets,1,Legendary,consumable,,collectible
+@ChaotixDemon,@Voror_Fylgja,153780,1701071204,1,250g,akuma,Style Page: Glenmoril Wyrd Sash,1,Legendary,consumable,,collectible
+@ChaotixDemon,@Voror_Fylgja,153781,1701071227,1,300g,akuma,Style Page: Glenmoril Wyrd Shoes,1,Legendary,consumable,,collectible
+@ChaotixDemon,@Voror_Fylgja,153782,1701071220,1,300g,akuma,Style Page: Glenmoril Wyrd Gloves,1,Legendary,consumable,,collectible
+@SothaTeleferi,@picoris,181583,1701043760,1,7150g,akuma,"Praxis: Leyawiin Archway, Garden",1,Superior,consumable,,recipe
+@PaurandMyrne,@Elixana,77590,1701048403,30,8100g,akuma,Nightshade,1,Fine,materials,,reagent
+@Dmaged,@Elixana,77590,1701048405,5,1385g,akuma,Nightshade,1,Fine,materials,,reagent
+@NatDagger,@DRIBRASIL,130004,1701034672,1,15000g,akuma,Crafting Motif 51: Hlaalu Maces,1,Epic,consumable,,motif
+@bruiseman5241990,@Kahz'mir,198604,1700975043,1,10000g,akuma,Style Page: Opal Rkugamz Sentinel Mace,1,Legendary,consumable,,collectible
+@MouthForWar79,@Elixana,30159,1701048391,200,36000g,akuma,Wormwood,1,Fine,materials,,reagent
+@CainBeast,@DubzVenom,45919,1701006356,1,90g,akuma,Recipe: Banana Millet Muffin,1,Fine,consumable,,recipe
+@NatDagger,@Mouse.Fitzgerald,121334,1701034615,1,10000g,akuma,Crafting Motif 50: Telvanni Belts,1,Epic,consumable,,motif
+@GarkaLaGarka,@TheMeng,121342,1701005138,1,17911g,akuma,Crafting Motif 50: Telvanni Maces,1,Epic,consumable,,motif
+@SavageHoax,@CommanderKrypt0,192469,1700958529,1,25000g,akuma,Style Page: Eldertide Arm Cops,1,Legendary,consumable,,collectible
+@PaurandMyrne,@Elixana,30157,1701048393,10,1800g,akuma,Blessed Thistle,1,Fine,materials,,reagent
+@coolice07,@Taladendria,121529,1701035647,1,30000g,akuma,Sealed Blacksmithing Writ,1,Legendary,master,,writ
+@Jrod2418,@Rae76vyn,121530,1700966366,1,30000g,akuma,Sealed Woodworking Writ,1,Legendary,master,,writ
+@Extremoth,@JHartEllis,193744,1700956076,1,10000g,akuma,Style Page: Claw-Dance Acolyte Belt,1,Legendary,consumable,,collectible
+@baggins.blood,@DeizoVergas,56048,1700981890,1,19636g,akuma,Homespun Hat,1,Normal,head,nirnhoned,
+@flikao,@worldsnicestman,183384,1700967931,1,15000g,akuma,Rallying Cry Sash,cp160,Epic,waist,sturdy,
+@Orishan,@Moonie01,64222,1701050193,1,80000g,akuma,Perfect Roe,1,Legendary,materials,,ingredient
+@jaacobby,@Moonie01,64222,1701050198,1,79999g,akuma,Perfect Roe,1,Legendary,materials,,ingredient
+@Orishan,@Moonie01,64222,1701050201,1,80000g,akuma,Perfect Roe,1,Legendary,materials,,ingredient
+@Lonewolf0775,@Moonie01,64222,1701050302,1,80000g,akuma,Perfect Roe,1,Legendary,materials,,ingredient
+@Dhraghyn,@OmegTar,45341,1700968599,1,125g,akuma,Rubedite Sabatons,cp160,Normal,feet,intricate,
+@Dhraghyn,@OmegTar,45341,1700968600,1,125g,akuma,Rubedite Sabatons,cp150,Normal,feet,intricate,
+@Lyranis.Raine,@DubzVenom,26848,1700982578,1,163g,akuma,Truly Superb Glyph of Flame,cp160,Normal,weapon,,glyph
+@Lyranis.Raine,@DubzVenom,26848,1700982579,1,163g,akuma,Truly Superb Glyph of Flame,cp160,Normal,weapon,,glyph
+@DukeJacobus45,@alex_strutin,153629,1701049915,100,45000g,akuma,Bewitched Sugar Skulls,1,Legendary,consumable,,food
+@lubasik,@Zzmonsoon,96201,1701032448,1,1000g,akuma,Ring of the Trainee,cp160,Superior,ring,robust,
+@lubasik,@Zzmonsoon,96201,1701032449,1,1000g,akuma,Ring of the Trainee,cp160,Superior,ring,robust,
+@gabrielsfeather,@Binarstar,96201,1700958277,1,3000g,akuma,Ring of the Trainee,cp160,Epic,ring,robust,
+@jigumiz,@aeuros,188337,1701056112,1,20000g,akuma,Crafting Motif 118: House Mornard Staves,1,Epic,consumable,,motif
+@bearclawws,@Kelwindra,138796,1701003765,1,999g,akuma,Platinum Ring,cp150,Normal,ring,intricate,
+@dawnarhinni,@Abigaiel,171469,1700987058,5,1000g,akuma,Breton Terrier Mammoth Bone,1,Epic,consumable,,trophy
+@khanmorte,@Kahz'mir,187716,1700974391,1,1900g,akuma,Style Page: High Rock Spellsword Robe,1,Legendary,consumable,,collectible
+@Scarrebend,@Zzmonsoon,44996,1701032451,1,1000g,akuma,Band of the Companions,cp160,Superior,ring,healthy,
+@AVENFATE,@Elainiethepainie,30164,1701013994,5,18000g,akuma,Columbine,1,Fine,materials,,reagent
+@PaurandMyrne,@width,30164,1701025104,20,70000g,akuma,Columbine,1,Fine,materials,,reagent
+@AVENFATE,@width,30164,1701086121,5,18000g,akuma,Columbine,1,Fine,materials,,reagent
+@AVENFATE,@width,30164,1701086122,5,18000g,akuma,Columbine,1,Fine,materials,,reagent
+@Jigsawxo,@DibellasMuse,187877,1700958716,1,19999g,akuma,"Gates of Gonfalon Bay Painting, Wood",1,Epic,furnishings,,gallery
+@tabicatastrophe,@DubzVenom,57018,1701006494,1,800g,akuma,Recipe: Red Queen's Eye-Opener,1,Epic,consumable,,recipe
+@ChaotixDemon,@DubzVenom,57018,1701006522,1,1200g,akuma,Recipe: Red Queen's Eye-Opener,1,Epic,consumable,,recipe
+@Mgkv1,@Remsen,45211,1701065436,1,183g,akuma,Ancestor Silk Breeches of Magicka,cp160,Epic,legs,infused,
+@jaskos96,@Elainiethepainie,56862,1700970031,5,50000g,akuma,Fortified Nirncrux,1,Normal,trait,nirnhoned,
+@jaskos96,@Elainiethepainie,56862,1700970032,1,10000g,akuma,Fortified Nirncrux,1,Normal,trait,nirnhoned,
+@jaskos96,@Elainiethepainie,56862,1700970034,1,10000g,akuma,Fortified Nirncrux,1,Normal,trait,nirnhoned,
+@jaskos96,@Elainiethepainie,56862,1700970035,1,10000g,akuma,Fortified Nirncrux,1,Normal,trait,nirnhoned,
+@jaskos96,@Elainiethepainie,56862,1700970037,5,50000g,akuma,Fortified Nirncrux,1,Normal,trait,nirnhoned,
+@jaskos96,@Elainiethepainie,56862,1700970040,1,10000g,akuma,Fortified Nirncrux,1,Normal,trait,nirnhoned,
+@jaskos96,@Elainiethepainie,56862,1701013980,1,10000g,akuma,Fortified Nirncrux,1,Normal,trait,nirnhoned,
+@jaskos96,@Elainiethepainie,56862,1701013981,1,10000g,akuma,Fortified Nirncrux,1,Normal,trait,nirnhoned,
+@gabrielsfeather,@Binarstar,95828,1700958318,1,2000g,akuma,Ring of the Trainee,cp160,Epic,ring,healthy,
+@sconeindygw,@Saublainaar,57008,1701086027,1,500g,akuma,Recipe: Lillandril Summer Sausage,1,Superior,consumable,,recipe
+@zynemorg,@DubzVenom,57036,1701006312,1,320g,akuma,Recipe: Lemonic Invigoration,1,Fine,consumable,,recipe
+@dykhajiit,@Brokentop,26588,1701012693,1,1300g,akuma,Truly Superb Glyph of Stamina,cp160,Epic,armor,,glyph
+@dykhajiit,@Brokentop,26588,1701012694,1,1300g,akuma,Truly Superb Glyph of Stamina,cp160,Epic,armor,,glyph
+@dykhajiit,@Brokentop,26588,1701012695,1,1300g,akuma,Truly Superb Glyph of Stamina,cp160,Epic,armor,,glyph
+@dykhajiit,@Brokentop,26588,1701012696,1,1400g,akuma,Truly Superb Glyph of Stamina,cp160,Epic,armor,,glyph
+@Lyranis.Raine,@DubzVenom,26588,1700982541,1,150g,akuma,Truly Superb Glyph of Stamina,cp160,Normal,armor,,glyph
+@KillerClembo,@DubzVenom,26588,1700982542,1,150g,akuma,Truly Superb Glyph of Stamina,cp160,Normal,armor,,glyph
+@pumbz,@DubzVenom,26588,1700982582,1,200g,akuma,Truly Superb Glyph of Stamina,cp160,Normal,armor,,glyph
+@cyoadventure,@marakimich23,76897,1701062126,1,3000g,akuma,Crafting Motif 38: Draugr Boots,1,Epic,consumable,,motif
+@Jetxky,@ElQueue,46135,1701083193,25,1475g,akuma,Topgrain Hide,1,Normal,normal,,materials
+@IsharaMeradin-Epic,@Vkingjeep1997,176206,1700963244,1,108g,akuma,Companion's Battle Axe,1,Epic,two-handed,,prolific
+@SothaTeleferi,@MouthForWar79,140313,1700959450,1,295000g,akuma,Style Page: Ilambris' Mask,1,Legendary,consumable,,collectible
+@HawtChet,@DubzVenom,46008,1701006290,1,127g,akuma,Recipe: Morning Reveille Tea,1,Fine,consumable,,recipe
+@pewterskier,@Voror_Fylgja,82035,1701072686,1,1500g,akuma,Crafting Motif 42: Hollowjack Staves,1,Epic,consumable,,motif
+@Dmaged,@Elixana,77583,1701048412,7,3038g,akuma,Beetle Scuttle,1,Fine,materials,,reagent
+@boyblitzz2,@RegulusMagnus,167948,1700976992,1,50696g,akuma,Crafting Motif 95: Nighthollow Chests,1,Epic,consumable,,motif
+@Miller_HighLife14,@PillowFists,156562,1700976642,1,10000g,akuma,Crafting Motif 76: Dragonguard Gloves,1,Epic,consumable,,motif
+@GrabbersDivinity,@Frado_Doodle,156568,1700978172,1,6100g,akuma,Crafting Motif 76: Dragonguard Staves,1,Epic,consumable,,motif
+@Skul_d47,@SearchN,156694,1701028449,1,6700g,akuma,Style Page: Skaal Explorer Breeches,1,Legendary,consumable,,collectible
+@lavenderstar86,@Eternal.Masquerade,189466,1700959200,1,45000g,akuma,"Potted Trees, Stonelore Dogwood",1,Legendary,furnishings,,conservatory
+@lavenderstar86,@Eternal.Masquerade,189466,1700959201,1,45000g,akuma,"Potted Trees, Stonelore Dogwood",1,Legendary,furnishings,,conservatory
+@SavageHoax,@Valkynne,64487,1701042604,60,30000g,akuma,Key Fragment,1,Epic,miscellaneous,,trophy
+@skullcrusher4981,@Valkynne,64487,1701042605,42,16800g,akuma,Key Fragment,1,Epic,miscellaneous,,trophy
+@skullcrusher4981,@Valkynne,64487,1701042606,12,4800g,akuma,Key Fragment,1,Epic,miscellaneous,,trophy
+@MRX-PHANTOM,@Valkynne,64487,1701042607,200,130000g,akuma,Key Fragment,1,Epic,miscellaneous,,trophy
+@Akalam,@BloodFalchion,188288,1700986082,1,400000g,akuma,Style Page: Opal Rkugamz Sentinel Shoulder,1,Legendary,consumable,,collectible
+@AKAZA69,@ImpactPrime,171880,1701015671,1,2899g,akuma,Crafting Motif 103: Black Fin Legion Belts,1,Epic,consumable,,motif
+@Banshee_44,@SothaTeleferi,171880,1701036565,1,3000g,akuma,Crafting Motif 103: Black Fin Legion Belts,1,Epic,consumable,,motif
+@Feiticeiraa,@Cellestiaa-Twitch.tv,87897,1700969397,1,10000g,akuma,Deadly Battle Axe,cp160,Epic,two-handed,precise,
+@AKAZA69,@width,77591,1701025092,200,319999g,akuma,Mudcrab Chitin,1,Fine,materials,,reagent
+@PaurandMyrne,@width,77591,1701025113,10,14000g,akuma,Mudcrab Chitin,1,Fine,materials,,reagent
+@AKAZA69,@width,77591,1701085862,200,329999g,akuma,Mudcrab Chitin,1,Fine,materials,,reagent
+@MouthForWar79,@Hireless,45949,1700970111,1,222g,akuma,Recipe: Potato Rice Blintzes,1,Fine,consumable,,recipe
+@edufalash,@BaccarelliX,189881,1701064018,1,1500g,akuma,Mara's Balm Gauntlets,cp160,Epic,hands,divines,
+@krevius,@LuciButters,189903,1701074483,1,180g,akuma,Mara's Balm Greaves,cp160,Superior,legs,well-fitted,
+@DocHol1iday,@AKAZA69,147408,1701053579,1,2500g,akuma,Deadly Boots,cp160,Epic,feet,sturdy,
+@jigumiz,@kannarius,181567,1701064892,1,1500g,akuma,"Blueprint: Leyawiin Door, Castle",1,Superior,consumable,,recipe
+@bearclawws,@kannarius,181492,1701064986,3,400g,akuma,"Vampiric Flask Stand, Double",1,Superior,furnishings,,workshop
+@blazblue14589,@kannarius,124662,1701064829,1,5000g,akuma,Dwarven Theodolite Shoulder,1,Epic,consumable,,trophy
+@MissDollypop,@KING_MAISON,124663,1701027956,1,3500g,akuma,Dwarven Theodolite Neck,1,Epic,consumable,,trophy
+@Bunnyrbt,@kannarius,124668,1701064941,1,3800g,akuma,Sixth House Writhing Thread,1,Epic,consumable,,trophy
+@Bunnyrbt,@furmanevs,124670,1700959725,1,3900g,akuma,Sixth House Tailor's Hammer,1,Epic,consumable,,trophy
+@Psych0oKiller,@Remsen,124671,1700982048,1,1000g,akuma,Sixth House Patterned Bolt,1,Epic,consumable,,trophy
+@Noobin007,@furmanevs,124672,1700959730,1,4000g,akuma,Sixth House Ornamental Fasteners,1,Epic,consumable,,trophy
+@MissDollypop,@WhySpySV,124681,1701041309,1,3500g,akuma,Crafting Motif 48: Ashlander Belts,1,Epic,consumable,,motif
+@Hirriwi,@kannarius,157526,1701064862,1,30000g,akuma,Crafting Motif 82: Icereach Coven Legs,1,Epic,consumable,,motif
+@trishphegor,@BluntMethod,190367,1701079548,1,30000g,akuma,Gourmand's Ring,cp160,Epic,ring,arcane,
+@Advoprime,@InfestedMind,190389,1701039556,1,4999g,akuma,Gourmand's Sash,cp160,Superior,waist,infused,
+@Cheesed_GB,@Hairline,190408,1700983693,1,35000g,akuma,Gourmand's Jerkin,cp160,Fine,chest,divines,
+@Noobin007,@BluntMethod,190418,1701079553,1,11000g,akuma,Gourmand's Bow,cp160,Superior,two-handed,precise,
+@Jetchi,@DubzVenom,26580,1700982539,1,27g,akuma,Truly Superb Glyph of Health,cp160,Normal,armor,,glyph
+@Lyranis.Raine,@DubzVenom,26580,1700982571,1,162g,akuma,Truly Superb Glyph of Health,cp160,Normal,armor,,glyph
+@MasterW3,@DubzVenom,26580,1700982587,1,300g,akuma,Moderate Glyph of Health,35,Normal,armor,,glyph
+@Dhraghyn,@OmegTar,45357,1700968597,1,125g,akuma,Rubedo Leather Boots,cp160,Normal,feet,intricate,
+@Erkla,@OmegTar,45357,1700968604,1,230g,akuma,Rubedo Leather Boots,cp160,Normal,feet,intricate,
+@Jigsawxo,@Teckkcet,147731,1700977398,1,9499g,akuma,Crafting Motif 75: Sunspire Axes,1,Epic,consumable,,motif
+@Itsgametime,@warshepherd216,147703,1701060299,2,8000g,akuma,Crafting Motif 73: Anequina Chests,1,Epic,consumable,,motif
+@dyrethedragon,@OmegTar,45363,1700968588,1,81g,akuma,Beech Shield,33,Normal,hand,intricate,
+@baneheart,@bruiseman5241990,26844,1701053030,1,14500g,akuma,Truly Superb Glyph of Shock,cp160,Legendary,weapon,,glyph
+@MasterW3,@A.Holik,26844,1700978246,1,800g,akuma,Strong Glyph of Shock,46,Fine,weapon,,glyph
+@dewmanchu87,@jet710,153738,1701071562,1,99999g,akuma,Sealed Jewelry Crafter Writ,1,Legendary,master,,writ
+@sconeindygw,@DubzVenom,45567,1701006223,1,100g,akuma,Recipe: Timber Mammoth Ale,1,Superior,consumable,,recipe
+@DocHol1iday,@AKAZA69,147365,1701053587,1,3000g,akuma,Deadly Jack,cp160,Epic,chest,infused,
+@ayako1014,@Gaspara,180097,1701057867,1,1500g,akuma,Hexos' Ward Ring,cp160,Superior,ring,robust,
+@KillerClembo,@Gaspara,180097,1701057869,1,1800g,akuma,Hexos' Ward Ring,cp160,Superior,ring,robust,
+@ConjuringWorm,@angelmama2014,27037,1701074088,100,1100g,akuma,Essence of Magicka,cp150,Normal,consumable,,potion
+@ConjuringWorm,@angelmama2014,27037,1701074089,100,1100g,akuma,Essence of Magicka,cp150,Normal,consumable,,potion
+@xamich,@angelmama2014,27037,1701074091,100,1200g,akuma,Essence of Magicka,cp150,Normal,consumable,,potion
+@ConjuringWorm,@angelmama2014,27037,1701074107,50,700g,akuma,Essence of Magicka,cp150,Normal,consumable,,potion
+@Vaelfear,@angelmama2014,27037,1701074110,100,1500g,akuma,Essence of Magicka,cp150,Normal,consumable,,potion
+@Vaelfear,@angelmama2014,27037,1701074112,56,840g,akuma,Essence of Magicka,cp150,Normal,consumable,,potion
+@jigumiz,@Kelwindra,190890,1701003844,1,110000g,akuma,Crafting Motif 120: Scribes of Mora Axes,1,Epic,consumable,,motif
+@jigumiz,@Kelwindra,190892,1701003873,1,150000g,akuma,Crafting Motif 120: Scribes of Mora Boots,1,Epic,consumable,,motif
+@jigumiz,@Gregberg,190894,1701019991,1,650000g,akuma,Crafting Motif 120: Scribes of Mora Chests,1,Epic,consumable,,motif
+@jigumiz,@DrMuggle,190895,1701027416,1,100000g,akuma,Crafting Motif 120: Scribes of Mora Daggers,1,Epic,consumable,,motif
+@jigumiz,@weaslet,190916,1701058815,1,200000g,akuma,Crafting Motif 119: Blessed Inheritor Maces,1,Epic,consumable,,motif
+@trishphegor,@VisionGT5,27052,1700977569,200,1500g,akuma,Ginger,1,Normal,materials,,ingredient
+@Jigsawxo,@Frado_Doodle,158293,1700979979,1,16999g,akuma,Crafting Motif 83: Pyre Watch Belts,1,Epic,consumable,,motif
+@Jigsawxo,@Frado_Doodle,158294,1700979978,1,12999g,akuma,Crafting Motif 83: Pyre Watch Boots,1,Epic,consumable,,motif
+@DarkLordCthulhu,@Frado_Doodle,158296,1700979983,1,40000g,akuma,Crafting Motif 83: Pyre Watch Chests,1,Epic,consumable,,motif
+@obongajr,@Zzmonsoon,27272,1701032457,1,1000g,akuma,Aldmion's Amulet,cp160,Superior,neck,healthy,
+@NatDagger,@Voror_Fylgja,16426,1701072325,1,500g,akuma,Crafting Motif 8: Orc Style,1,Superior,consumable,,motif
+@vipkid1412,@LuciButters,125780,1701074452,1,5000g,akuma,Impregnable Armor Gauntlets,cp160,Superior,hands,well-fitted,
+@Scarrebend,@LuciButters,125782,1701074484,1,1000g,akuma,Impregnable Armor Greaves,cp160,Superior,legs,well-fitted,
+@pewterskier,@Sweetrollkiller,82032,1701087052,1,1500g,akuma,Crafting Motif 42: Hollowjack Maces,1,Epic,consumable,,motif
+@Cpt.Zynbabwe,@PranicEntanglement,147679,1700978886,1,69696g,akuma,Crafting Motif 71: Coldsnap Staves,1,Epic,consumable,,motif
+@width,@eaoiywybi,115027,1701072835,1,326001g,akuma,Mythic Aetherial Ambrosia,1,Legendary,consumable,,drink
+@Sanadora,@Khasidhea,126834,1701001428,1,700g,akuma,"Design: Daedric Candles, Group",1,Epic,consumable,,recipe
+@Argorious,@limamari,126834,1701063108,1,450g,akuma,"Design: Daedric Candles, Group",1,Epic,consumable,,recipe
+@Dmaged,@Pompeiana,793,1701039265,32,5568g,akuma,Rawhide Scraps,1,Normal,materials,,raw
+@Lyranis.Raine,@LostAgain,45991,1701055461,1,59g,akuma,Recipe: Old Clear-Eye Whiskey,1,Fine,consumable,,recipe
+@Peliciano,@DrMuggle,197593,1701027378,1,230000g,akuma,"Formula: Telvanni Water Jug, Fungal",1,Epic,consumable,,recipe
+@MadisonRayne,@Marelki,99419,1701043398,1,65g,akuma,Sword-Singer's Boots,40,Epic,feet,sturdy,
+@Argorious,@LostAgain,181568,1700960843,1,4000g,akuma,"Praxis: Leyawiin Hearth, Masonry",1,Epic,consumable,,recipe
+@AKAZA69,@MoonPile,181570,1701023748,1,12999g,akuma,"Praxis: Leyawiin Alcove, Castle",1,Superior,consumable,,recipe
+@jigumiz,@Melvin_Spelvin,181576,1701029684,1,8000g,akuma,"Blueprint: Leyawiin Wall, Wooden Half",1,Superior,consumable,,recipe
+@Banshee_44,@kofer1998,45853,1701059315,200,9000g,akuma,Rekuta,16,Epic,aspect,,runestone
+@Mystic.legend,@Khasidhea,45853,1701069695,2,190g,akuma,Rekuta,16,Epic,aspect,,runestone
+@vereesh,@Kahz'mir,198344,1700975200,1,13000g,akuma,Style Page: Crowborne Hunter Shoes,1,Legendary,consumable,,collectible
+@Error_72890,@Remsen,126481,1701065511,1,49500g,akuma,"Indoril Incense, Burning",1,Epic,furnishings,,undercroft
+@Erkla,@Marelki,33271,1701043256,20,350g,akuma,Soul Gem,50,Fine,soul,,gem
+@Erkla,@Marelki,33271,1701043260,20,350g,akuma,Soul Gem,50,Fine,soul,,gem
+@Lyranis.Raine,@angelmama2014,33271,1701074163,10,330g,akuma,Soul Gem,50,Fine,soul,,gem
+@Scarrebend,@Zzmonsoon,61011,1701032450,1,1000g,akuma,Artifact-Hunter's Band,cp160,Superior,ring,arcane,
+@ChargeYourWeapons,@DubzVenom,33265,1700998082,200,2800g,akuma,Soul Gem (Empty),50,Normal,soul,,gem
+@RajputLancer,@iago.leo,34665,1701088231,1,90g,akuma,Tough Mining Boots of the Ranger,cp160,Superior,feet,sturdy,
+@viÃ¤tachegg,@DemonicdeathXXX,45332,1701073999,1,110g,akuma,Ruby Ash Restoration Staff,cp150,Normal,two-handed,intricate,
+@Error_72890,@BizzMac,51565,1700975323,1,600g,akuma,Crafting Motif 12: Barbaric Style,1,Epic,consumable,,motif
+@zynemorg,@Voror_Fylgja,51565,1701072346,1,750g,akuma,Crafting Motif 12: Barbaric Style,1,Epic,consumable,,motif
+@AKAZA69,@Voror_Fylgja,51638,1701072366,1,998g,akuma,Crafting Motif 11: Ancient Elf Style,1,Epic,consumable,,motif
+@DAN1968,@CommanderKrypt0,192388,1700958509,1,4000g,akuma,Style Page: Pelin's Paragon Guards,1,Legendary,consumable,,collectible
+@teeje,@Binarstar,172287,1700958254,1,2153g,akuma,Bog Raider's Amulet,cp160,Epic,neck,healthy,
+@Kooish,@Remsen,172287,1700981935,1,500g,akuma,Bog Raider's Amulet,cp160,Superior,neck,healthy,
+@Kooish,@Zzmonsoon,172287,1701032428,1,500g,akuma,Bog Raider's Amulet,cp160,Fine,neck,healthy,
+@Kooish,@Zzmonsoon,172287,1701032429,1,500g,akuma,Bog Raider's Amulet,cp160,Fine,neck,healthy,
+@zynemorg,@limamari,126927,1701063065,1,300g,akuma,"Pattern: Redoran Bed, Single",1,Fine,consumable,,recipe
+@flikao,@saucybb,183353,1701059184,1,45000g,akuma,Rallying Cry Lightning Staff,cp160,Epic,two-handed,charged,
+@DocHol1iday,@Selleys,87943,1701073163,1,45000g,akuma,Deadly Lightning Staff,cp160,Epic,two-handed,charged,
+@Psych0oKiller,@C3N50R3D,167264,1700959110,1,1000g,akuma,Rune-Carved Bone Fragment,1,Epic,consumable,,trophy
+@Psych0oKiller,@C3N50R3D,167264,1700959112,1,1000g,akuma,Rune-Carved Bone Fragment,1,Epic,consumable,,trophy
+@zynemorg,@DubzVenom,57022,1701006282,1,125g,akuma,Recipe: Vivec's Gingergreen Chai,1,Fine,consumable,,recipe
+@cyoadventure,@Kelwindra,171859,1701003982,1,150000g,akuma,Crafting Motif 104: Ancient Daedric Axes,1,Epic,consumable,,motif
+@DocHol1iday,@AKAZA69,87901,1701053767,1,3000g,akuma,Deadly Bow,cp160,Epic,two-handed,precise,
+@Boozly,@kannarius,87901,1701065045,1,5000g,akuma,Deadly Bow,cp160,Epic,two-handed,precise,
+@ChargeYourWeapons,@Aneildy,135161,1701003355,200,10000g,akuma,Ochre,1,Normal,materials,,furnishing
+@KillerClembo,@Zzmonsoon,135162,1701032443,1,900g,akuma,Gloom-Graced Ring,cp160,Superior,ring,healthy,
+@pumbz,@Zzmonsoon,135162,1701032458,1,1000g,akuma,Gloom-Graced Ring,cp160,Superior,ring,healthy,
+@adghar,@Whatzit,118890,1700969982,1,9000g,akuma,"Skull, Human",1,Legendary,furnishings,,undercroft
+@lavenderstar86,@Wildones,151863,1701037545,1,150000g,akuma,"Alinor Windmill, Decorative",1,Legendary,furnishings,,structures
+@PaurandMyrne,@GingerbreadHag,30166,1701030205,30,6000g,akuma,Water Hyacinth,1,Fine,materials,,reagent
+@Mystic.legend,@Elixana,30166,1701048395,20,4000g,akuma,Water Hyacinth,1,Fine,materials,,reagent
+@MouthForWar79,@Elixana,30166,1701048399,200,44444g,akuma,Water Hyacinth,1,Fine,materials,,reagent
+@Domiforu,@Gaspara,180178,1701057861,1,600g,akuma,Hexos' Ward Belt,cp160,Superior,waist,reinforced,
+@sconeindygw,@DeLimaRJ,160504,1700962413,1,3500g,akuma,Crafting Motif 84: Blackreach Vanguard Shields,1,Epic,consumable,,motif
+@Banshee_44,@picoris,181575,1701043740,1,3000g,akuma,"Blueprint: Leyawiin Gate, Wooden Garden",1,Superior,consumable,,recipe
+@Akalam,@BloodFalchion,160518,1700986432,1,500000g,akuma,Style Page: Opal Iceheart Shoulder,1,Legendary,consumable,,collectible
+@Akalam,@BloodFalchion,160522,1700985993,1,350000g,akuma,Style Page: Opal Nightflame Shoulder,1,Legendary,consumable,,collectible
+@Syncro17,@C3N50R3D,119680,1700959057,1,2400g,akuma,Sealed Blacksmithing Writ,1,Epic,master,,writ
+@boyblitzz2,@Heike1,160562,1701044236,1,12629g,akuma,Crafting Motif 86: Sea Giant Boots,1,Epic,consumable,,motif
+@Extremoth,@kannarius,175569,1701064926,1,4000g,akuma,Style Page: Ja'zennji Siir Bracers,1,Legendary,consumable,,collectible
+@pHnt0m,@RemusThunderbrand386,175569,1701039603,1,3000g,akuma,Style Page: Ja'zennji Siir Bracers,1,Legendary,consumable,,collectible
+@sconeindygw,@DeLimaRJ,160616,1700962417,1,4000g,akuma,Crafting Motif 88: Ancestral Orc Daggers,1,Epic,consumable,,motif
+@Cheesed_GB,@warshepherd216,160620,1701060313,1,5000g,akuma,Crafting Motif 88: Ancestral Orc Maces,1,Epic,consumable,,motif
+@Argorious,@RTeoTG,160664,1701067441,1,8000g,akuma,Shoes of Winter's Respite,cp160,Fine,feet,divines,
+@Sweetleigh95,@aeuros,178714,1700991115,1,15000g,akuma,Crafting Motif 108: Fargrave Guardian Helmets,1,Epic,consumable,,motif
+@Sweetleigh95,@AlexiCat,178714,1701034378,1,15000g,akuma,Crafting Motif 108: Fargrave Guardian Helmets,1,Epic,consumable,,motif
+@pumbz,@Zzmonsoon,95453,1701032431,1,600g,akuma,Necklace of Martial Knowledge,cp160,Fine,neck,arcane,
+@Bobthedead,@Mouse.Fitzgerald,171565,1701034618,1,10500g,akuma,Crafting Motif 100: True-Sworn Swords,1,Epic,consumable,,motif
+@GenWitch-2000,@A.Holik,30148,1700978403,25,3750g,akuma,Blue Entoloma,1,Fine,materials,,reagent
+@Fallen_Prophet,@A.Holik,30148,1700978406,5,1000g,akuma,Blue Entoloma,1,Fine,materials,,reagent
+@NixNoctia,@A.Holik,30154,1700978417,30,6048g,akuma,White Cap,1,Normal,materials,,reagent
+@PaurandMyrne,@Elixana,30158,1701048397,10,2000g,akuma,Lady's Smock,1,Fine,materials,,reagent
+@PaurandMyrne,@honestaly,30161,1701040778,25,9000g,akuma,Corn Flower,1,Fine,materials,,reagent
+@Domiforu,@ElQueue,30161,1701080056,20,8600g,akuma,Corn Flower,1,Fine,materials,,reagent
+@trishphegor,@A.Holik,30162,1700978798,200,30000g,akuma,Dragonthorn,1,Fine,materials,,reagent
+@PaurandMyrne,@Elixana,30162,1701048387,10,1250g,akuma,Dragonthorn,1,Fine,materials,,reagent
+@KlumsBabe,@YoungFine,30162,1701060711,5,725g,akuma,Dragonthorn,1,Fine,materials,,reagent
+@Jetxky,@A.Holik,77584,1700979004,33,8976g,akuma,Spider Egg,1,Fine,materials,,reagent
+@Jetxky,@A.Holik,77584,1700979005,16,4400g,akuma,Spider Egg,1,Fine,materials,,reagent
+@Dmaged,@A.Holik,77584,1700979006,10,2340g,akuma,Spider Egg,1,Fine,materials,,reagent
+@akwaaa,@A.Holik,77584,1700979007,5,1185g,akuma,Spider Egg,1,Fine,materials,,reagent
+@Mystic.legend,@A.Holik,77584,1700979008,3,600g,akuma,Spider Egg,1,Fine,materials,,reagent
+@edufalash,@A.Holik,77584,1700979009,2,250g,akuma,Spider Egg,1,Fine,materials,,reagent
+@zynemorg,@he704624772,95980,1700998982,1,1000g,akuma,Lightning Staff of the Trainee,cp160,Fine,two-handed,training,
+@BizzMac,@he704624772,95986,1700998973,1,10000g,akuma,Helm of the Trainee,cp160,Epic,head,training,
+@DocHol1iday,@AKAZA69,147370,1701053582,1,3000g,akuma,Deadly Arm Cops,cp160,Epic,shoulders,infused,
+@GrabbersDivinity,@SarahbyGeorge,188145,1700979909,1,9000g,akuma,"Pattern: High Isle Bed, Canopy Full",1,Superior,consumable,,recipe
+@NixNoctia,@VisionGT5,28609,1700977589,25,275g,akuma,Game,1,Normal,materials,,ingredient
+@PaurandMyrne,@honestaly,30163,1701040782,10,4000g,akuma,Mountain Flower,1,Fine,materials,,reagent
+@NixNoctia,@Elixana,30163,1701048414,20,8999g,akuma,Mountain Flower,1,Fine,materials,,reagent
+@dg1219,@Binarstar,96202,1700958246,1,700g,akuma,Necklace of the Trainee,cp160,Superior,neck,robust,
+@SothaTeleferi,@xablauzin,194549,1700960297,1,550000g,akuma,Crafting Motif 123: Kindred's Concord Legs,1,Epic,consumable,,motif
+@MightBkhrazed,@kannarius,197782,1701064825,1,17000g,akuma,Alleyway Still Life Painting,1,Epic,furnishings,,gallery
+@cyoadventure,@RosyCotton,177028,1701027257,1,8000g,akuma,Companion's Girdle,1,Superior,waist,,bolstered
+@zynemorg,@DubzVenom,56961,1701006369,1,200g,akuma,Recipe: Blacklight Oxen Meatballs,1,Fine,consumable,,recipe
+@Banshee_44,@StabbityDoom,57848,1700957048,1,3000g,akuma,Crafting Motif 17: Xivkyn Swords,1,Epic,consumable,,motif
+@dyrethedragon,@Gaspara,45343,1700964071,1,100g,akuma,Orichalc Helm,26,Normal,head,intricate,
+@DocHol1iday,@AKAZA69,147397,1701053585,1,3000g,akuma,Deadly Guards,cp160,Epic,legs,impenetrable,
+@Carlinhaaa,@Zuriyah_Carissa,155256,1701063579,1,15000g,akuma,Dragonguard Elite's Belt,cp160,Epic,waist,divines,
+@bruiseman5241990,@ImpactPrime,171879,1701015799,1,5000g,akuma,Crafting Motif 103: Black Fin Legion Axes,1,Epic,consumable,,motif
+@Kefkaas,@fonariq,171885,1701050422,2,14000g,akuma,Crafting Motif 103: Black Fin Legion Gloves,1,Epic,consumable,,motif
+@Banshee_44,@Mouse.Fitzgerald,171902,1700955618,1,1000g,akuma,Crafting Motif 101: Ivory Brigade Gloves,1,Epic,consumable,,motif
+@teeje,@Conrad_L,139397,1700975812,1,1150g,akuma,Platinum Ring,cp150,Epic,ring,protective,
+@Orishan,@Sweetrollkiller,96951,1701087170,1,35000g,akuma,Runebox: Nordic Bather's Towel,1,Legendary,consumable,,container
+@GenWitch-2000,@DubzVenom,45837,1700982642,33,990g,akuma,Kuoko,1,Normal,essence,,runestone
+@NoPantsStan,@ChargeYourWeapons,140457,1701085014,3,300g,akuma,Crafting Motif 63: Dremora Staves,1,Epic,consumable,,motif
+@Itsgametime,@Sneasel.Sneas,178713,1701053476,1,10000g,akuma,Crafting Motif 108: Fargrave Guardian Gloves,1,Epic,consumable,,motif
+@Itsgametime,@Kharnjar,178713,1701054764,1,10000g,akuma,Crafting Motif 108: Fargrave Guardian Gloves,1,Epic,consumable,,motif
+@Cloudfloat,@Remsen,64489,1700982137,45,540g,akuma,Rubedite Ingot,1,Normal,normal,,materials
+@jornsnow1975,@Kelwindra,64489,1701003784,200,3000g,akuma,Rubedite Ingot,1,Normal,normal,,materials
+@jornsnow1975,@Brokentop,64489,1701010645,200,3000g,akuma,Rubedite Ingot,1,Normal,normal,,materials
+@wins15,@Remsen,64504,1700982175,200,10787g,akuma,Ancestor Silk,1,Normal,normal,,materials
+@wins15,@Remsen,64504,1700982176,200,10787g,akuma,Ancestor Silk,1,Normal,normal,,materials
+@wins15,@Remsen,64504,1700982177,200,10787g,akuma,Ancestor Silk,1,Normal,normal,,materials
+@jaskos96,@Remsen,64504,1701065652,200,12000g,akuma,Ancestor Silk,1,Normal,normal,,materials
+@SothaTeleferi,@Binarstar,195698,1700958268,1,2500g,akuma,Vivec's Ring of Duality,cp160,Epic,ring,arcane,
+@SothaTeleferi,@Binarstar,195699,1700958272,1,2585g,akuma,Vivec's Amulet of Duality,cp160,Epic,neck,arcane,
+@SothaTeleferi,@Binarstar,195699,1700958274,1,2600g,akuma,Vivec's Amulet of Duality,cp160,Epic,neck,arcane,
+@Mysteria295,@Hireless,45914,1700970017,1,54g,akuma,Recipe: Borscht,1,Fine,consumable,,recipe
+@PaurandMyrne,@GingerbreadHag,30153,1701030207,10,2300g,akuma,Namira's Rot,1,Fine,materials,,reagent
+@SavageHoax,@CommanderKrypt0,192470,1700958527,1,25000g,akuma,Style Page: Eldertide Pauldrons,1,Legendary,consumable,,collectible
+@Extremoth,@Ninjin-Kitsune,180145,1700960197,1,15000g,akuma,Hexos' Ward Dagger,cp160,Superior,one-handed,precise,
+@xamich,@SavageHoax,45661,1700982746,1,1350g,akuma,Recipe: Rabbit Gnocchi Ragu,1,Superior,consumable,,recipe
+@Mystic.legend,@kofer1998,45843,1701059420,3,150g,akuma,Okori,1,Normal,essence,,runestone
+@OneTroubledTurtle,@Remsen,64506,1700982064,200,3000g,akuma,Rubedo Leather,1,Normal,normal,,materials
+@wins15,@Remsen,64506,1700982179,200,3000g,akuma,Rubedo Leather,1,Normal,normal,,materials
+@wins15,@Remsen,64506,1700982180,200,3000g,akuma,Rubedo Leather,1,Normal,normal,,materials
+@NixNoctia,@A.Holik,30149,1700978839,30,8400g,akuma,Stinkhorn,1,Fine,materials,,reagent

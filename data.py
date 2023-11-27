@@ -1,6 +1,17 @@
 import re
 import csv
 
+# Read existing transaction IDs from the previous CSV file
+existing_transaction_ids = set()
+try:
+    with open('data.csv', 'r', newline='', encoding='utf-8') as csvfile:
+        csv_reader = csv.reader(csvfile)
+        next(csv_reader)  # Skip the header row
+        for row in csv_reader:
+            existing_transaction_ids.add(row[3])
+except FileNotFoundError:
+    pass  # Ignore if the file doesn't exist yet
+
 # Read Lua data from the file
 with open('C:/Users/attra/OneDrive/Documents/Elder Scrolls Online/live/SavedVariables/MasterMerchant.lua', 'r') as file:
     lua_data = file.read()
@@ -104,9 +115,8 @@ def extract_item_type2(item_name):
 # Find all matches using the pattern in the trimmed Lua data
 matches = re.findall(pattern, trimmed_lua_data)
 
-with open('data.csv', 'w', newline='', encoding='utf-8') as csvfile:
+with open('data.csv', 'a', newline='', encoding='utf-8') as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(['Seller', 'Buyer', 'Item Number', 'Transaction ID', 'Item Quantity', 'Total Price', 'Guild Name', 'Item Name', 'Item Level', 'Quality', 'Type', 'Trait', 'Type2'])
 
     for match, quantity_match in zip(matches, quantity_matches):
         # Extract item quantity from the quantity match
@@ -139,7 +149,10 @@ with open('data.csv', 'w', newline='', encoding='utf-8') as csvfile:
         # Extract item type2 from the item name
         item_type2 = extract_item_type2(match[6])
 
-        # Write each match to the CSV file including item quantity and transaction ID
-        csv_writer.writerow([f'@{match[0]}', f'@{match[1]}', match[2], match[3], item_quantity_1, total_price, match[5], item_name, item_level, quality, item_type, item_trait, item_type2])
+        # Check if the transaction ID is already processed
+        if match[3] not in existing_transaction_ids:
+            # Write each match to the CSV file including item quantity and transaction ID
+            csv_writer.writerow([f'@{match[0]}', f'@{match[1]}', match[2], match[3], item_quantity_1, total_price, match[5], item_name, item_level, quality, item_type, item_trait, item_type2])
+            existing_transaction_ids.add(match[3])
 
 print("Extraction and parsing completed. Check 'data.csv'")
