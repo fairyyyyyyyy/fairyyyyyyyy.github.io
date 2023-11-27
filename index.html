@@ -73,16 +73,19 @@
                 const rows = data.split('\n').map(row => row.split(','));
                 const tableBody = document.getElementById('csvData');
 
-                // Populate the table with CSV data
-                rows.forEach(rowData => {
+                // Populate the table with CSV data, skipping the first row
+                for (let i = 1; i < rows.length; i++) {
+                    const rowData = rows[i];
                     const row = document.createElement('tr');
+
                     rowData.forEach(cellData => {
                         const cell = document.createElement('td');
                         cell.textContent = cellData;
                         row.appendChild(cell);
                     });
+
                     tableBody.appendChild(row);
-                });
+                }
             } catch (error) {
                 console.error('Error fetching or parsing CSV data:', error);
             }
