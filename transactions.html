@@ -23,7 +23,7 @@
 
         table {
             border-collapse: collapse;
-            width: 50%;
+            width: 100%;
             margin-top: 20px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             background-color: #0d1117;
@@ -56,10 +56,19 @@
 <table>
     <thead>
         <tr>
+            <th>Seller</th>
+            <th>Buyer</th>
+            <th>Item Number</th>
             <th>Transaction ID</th>
-            <th>Item Name</th>
             <th>Item Quantity</th>
             <th>Total Price</th>
+            <th>Guild Name</th>
+            <th>Item Name</th>
+            <th>Item Level</th>
+            <th>Quality</th>
+            <th>Type</th>
+            <th>Trait</th>
+            <th>Type2</th>
         </tr>
     </thead>
     <tbody id="transactionsBody"></tbody>
@@ -78,21 +87,20 @@
         .then(response => response.text())
         .then(data => {
             // Parse CSV data
-            const rows = data.split('\n').slice(1);
+            const rows = data.split('\n');
             const sellerName = getQueryParam('seller');
 
             // Filter rows for the specific seller
             const sellerTransactions = rows
-                .filter(row => row.includes(`@${sellerName},`))
+                .filter(row => row.startsWith(`@${sellerName},`))
                 .map(row => row.split(','));
 
             const transactionsBody = document.getElementById('transactionsBody');
 
             // Create table rows and append to the transactions table
             sellerTransactions.forEach(row => {
-                const [_, transactionId, itemName, itemQuantity, totalPrice] = row;
                 const rowElement = document.createElement('tr');
-                rowElement.innerHTML = `<td>${transactionId}</td><td>${itemName}</td><td>${itemQuantity}</td><td>${totalPrice}</td>`;
+                rowElement.innerHTML = row.map(cell => `<td>${cell}</td>`).join('');
                 transactionsBody.appendChild(rowElement);
             });
         })
