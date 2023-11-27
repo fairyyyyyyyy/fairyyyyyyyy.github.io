@@ -6,98 +6,91 @@
     <title>akuma</title>
     <style>
         body {
-            background-color: black;
-            color: white;
-            font-family: 'Arial', sans-serif;
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
             margin: 0;
             padding: 0;
-        }
-
-        h2 {
-            text-align: center;
-            padding: 20px;
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
+            margin-top: 20px;
         }
 
         th, td {
+            padding: 10px;
             text-align: left;
-            padding: 8px;
-            border: 1px solid #111;  /* Dark grey border */
         }
 
         th {
-            background-color: #333;
-            color: white;
-            font-size: 1.2em;  /* Bigger font size for headers */
-            font-weight: 600; /* Make the text bold */
-            padding: 12px;     /* Increase padding for better visibility */
+            background-color: #000;
+            color: #fff;
+            font-weight: bold;
+            border-bottom: 2px solid #fff;
         }
 
-        tr:nth-child(even) {
-            background-color: #333;  /* Dark grey background for even rows */
-        }
-
-        /* Additional style for even rows with dynamic cell length */
-        tr:nth-child(even) td {
-            background: linear-gradient(to right, #333 0%, #333 calc(100% - 8px), black calc(100% - 8px), black 100%);
+        td {
+            background-color: #000;
+            color: #fff;
+            border-bottom: 1px solid #fff;
         }
     </style>
 </head>
 <body>
 
-<h2>akuma</h2>
+    <table id="csvTable">
+        <thead>
+            <tr>
+                <th>Seller</th>
+                <th>Buyer</th>
+                <th>Item Number</th>
+                <th>Transaction ID</th>
+                <th>Item Quantity</th>
+                <th>Total Price</th>
+                <th>Guild Name</th>
+                <th>Item Name</th>
+                <th>Item Level</th>
+                <th>Quality</th>
+                <th>Type</th>
+                <th>Trait</th>
+                <th>Type2</th>
+            </tr>
+        </thead>
+        <tbody id="csvData">
+            <!-- CSV data will be dynamically added here -->
+        </tbody>
+    </table>
 
-<table id="csvTable">
-    <!-- CSV data will be inserted here dynamically -->
-</table>
+    <script>
+        // Function to fetch CSV data and populate the table
+        async function fetchAndPopulateTable() {
+            try {
+                const response = await fetch('data.csv');
+                const data = await response.text();
 
-<script>
-    // Function to fetch and display CSV data
-    // Function to fetch and display CSV data
-// Function to fetch and display CSV data
-async function loadCSVData() {
-    const response = await fetch('output.csv');
-    const csvData = await response.text();
-    const rows = csvData.split('\n');
-    const table = document.getElementById('csvTable');
+                const rows = data.split('\n').map(row => row.split(','));
+                const tableBody = document.getElementById('csvData');
 
-    for (let i = 0; i < rows.length; i++) {
-        const cells = rows[i].split(',');
-        if (cells.length > 1) {  // Skip rows with no data
-            const row = table.insertRow();
-
-            for (let j = 0; j < cells.length; j++) {
-                const cell = row.insertCell();
-
-                // Combine "item" entries into a single cell
-                if (cells[j] === 'item') {
-                    let combinedItem = 'item';
-                    j++;  // Skip the current cell (already processed)
-                    
-                    // Check if the next cell is also part of the "item" entry
-                    while (j < cells.length && !cells[j].includes('details')) {
-                        combinedItem += ` ${cells[j]}`;
-                        j++;
-                    }
-
-                    cell.textContent = combinedItem.trim();
-                } else {
-                    cell.textContent = cells[j];
-                }
+                // Populate the table with CSV data
+                rows.forEach(rowData => {
+                    const row = document.createElement('tr');
+                    rowData.forEach(cellData => {
+                        const cell = document.createElement('td');
+                        cell.textContent = cellData;
+                        row.appendChild(cell);
+                    });
+                    tableBody.appendChild(row);
+                });
+            } catch (error) {
+                console.error('Error fetching or parsing CSV data:', error);
             }
         }
-    }
-}
 
-
-
-    // Load CSV data when the page is loaded
-    window.onload = loadCSVData;
-</script>
+        // Call the function to fetch and populate the table
+        fetchAndPopulateTable();
+    </script>
 
 </body>
 </html>
