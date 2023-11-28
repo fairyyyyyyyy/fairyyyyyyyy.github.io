@@ -156,10 +156,13 @@ for match, quantity_match in zip(matches, quantity_matches):
     # Extract item type2 from the item name
     item_type2 = extract_item_type2(match[6])
 
+    # Calculate price per item
+    price_per_item = f"{int(match[4]) / int(item_quantity_1)}g"
+
     # Check if the transaction ID is already processed
     if match[3] not in existing_transaction_ids:
         # Add each match to the list of rows
-        rows_to_write.append([f'@{match[0]}', f'@{match[1]}', match[2], transaction_date_time, item_quantity_1, total_price, match[5], item_name, item_level, quality, item_type, item_trait, item_type2])
+        rows_to_write.append([f'@{match[0]}', f'@{match[1]}', match[2], transaction_date_time, item_quantity_1, total_price, price_per_item, match[5], item_name, item_level, quality, item_type, item_trait, item_type2])
         existing_transaction_ids.add(match[3])
 
 # Sort the rows by the transaction date in descending order (most recent first)
