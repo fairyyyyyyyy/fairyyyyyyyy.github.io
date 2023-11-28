@@ -92,28 +92,14 @@
                             const rowData = rows[i];
                             const row = document.createElement('tr');
 
-                            let qualityClass = '';  // Variable to store quality class
+                            let colorClass = getColorClass(rowData.join(' ').toLowerCase());
+                            row.classList.add(colorClass);
 
-                            rowData.forEach((cellData, index) => {
+                            rowData.forEach((cellData) => {
                                 const cell = document.createElement('td');
-
-                                if (index === 9) {
-                                    // Item Name column
-                                    cell.textContent = cellData;
-
-                                    // Use the quality from the next column (assuming quality is at index 10)
-                                    qualityClass = getQualityClass(rows[i][10].toLowerCase());
-                                } else {
-                                    cell.textContent = cellData;
-                                }
-
+                                cell.textContent = cellData;
                                 row.appendChild(cell);
                             });
-
-                            // Apply quality class to the whole row
-                            if (qualityClass) {
-                                row.classList.add(qualityClass);
-                            }
 
                             tableBody.appendChild(row);
                         }
@@ -127,21 +113,20 @@
             }
         }
 
-        // Function to get the appropriate class based on quality
-        function getQualityClass(quality) {
-            switch (quality) {
-                case 'normal':
-                    return 'Normal';
-                case 'fine':
-                    return 'Fine';
-                case 'superior':
-                    return 'Superior';
-                case 'epic':
-                    return 'Epic';
-                case 'legendary':
-                    return 'Legendary';
-                default:
-                    return ''; // Default to no specific class
+        // Function to get the appropriate class based on the presence of specific words
+        function getColorClass(rowData) {
+            if (rowData.includes('normal')) {
+                return 'Normal';
+            } else if (rowData.includes('fine')) {
+                return 'Fine';
+            } else if (rowData.includes('superior')) {
+                return 'Superior';
+            } else if (rowData.includes('epic')) {
+                return 'Epic';
+            } else if (rowData.includes('legendary')) {
+                return 'Legendary';
+            } else {
+                return ''; // Default to no specific class
             }
         }
 
