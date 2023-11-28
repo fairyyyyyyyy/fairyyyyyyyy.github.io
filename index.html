@@ -84,18 +84,15 @@
                             const rowData = rows[i];
                             const row = document.createElement('tr');
 
-                            // Get the appropriate color for "Item Name" and "Quality" columns
-                            let itemNameColor = getColor(rowData[9].toLowerCase());
-                            let qualityColor = getColor(rowData[10].toLowerCase());
+                            // Get the color from "Quality" column
+                            let qualityColor = getColor(rowData[9].toLowerCase());  // Index 9 is "Quality"
 
                             rowData.forEach((cellData, index) => {
                                 const cell = document.createElement('td');
                                 cell.textContent = cellData;
 
-                                // Apply color only to "Item Name" and "Quality" columns
-                                if (index === 9) {
-                                    cell.style.color = itemNameColor;
-                                } else if (index === 10) {
+                                // Apply color to both "Item Name" and "Quality" columns
+                                if (index === 8 || index === 9) { // Index 8 is "Item Name"
                                     cell.style.color = qualityColor;
                                 }
 
