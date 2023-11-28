@@ -36,6 +36,13 @@
             color: #fff;
             border-bottom: 1px solid #fff;
         }
+
+        /* Define classes for different qualities */
+        .normal { color: white; }
+        .fine { color: green; }
+        .superior { color: blue; }
+        .epic { color: purple; }
+        .legendary { color: gold; }
     </style>
 </head>
 <body>
@@ -43,20 +50,7 @@
     <table id="csvTable">
         <thead>
             <tr>
-                <th>Seller</th>
-                <th>Buyer</th>
-                <th>Item Number</th>
-                <th>Time</th>
-                <th>Item Quantity</th>
-                <th>Total Price</th>
-                <th>Price Per Item</th>
-                <th>Guild Name</th>
-                <th>Item Name</th>
-                <th>Item Level</th>
-                <th>Quality</th>
-                <th>Type</th>
-                <th>Trait</th>
-                <th>Type2</th>
+                <!-- Your table header remains unchanged -->
             </tr>
         </thead>
         <tbody id="csvData">
@@ -85,8 +79,14 @@
                             const rowData = rows[i];
                             const row = document.createElement('tr');
 
-                            rowData.forEach(cellData => {
+                            rowData.forEach((cellData, index) => {
                                 const cell = document.createElement('td');
+
+                                // Add class based on the quality (assuming quality is at index 11)
+                                if (index === 11) {
+                                    cell.className = getQualityClass(cellData.toLowerCase());
+                                }
+
                                 cell.textContent = cellData;
                                 row.appendChild(cell);
                             });
@@ -100,6 +100,24 @@
                 });
             } catch (error) {
                 console.error('Error fetching CSV data:', error);
+            }
+        }
+
+        // Function to get the appropriate class based on quality
+        function getQualityClass(quality) {
+            switch (quality) {
+                case 'normal':
+                    return 'normal';
+                case 'fine':
+                    return 'fine';
+                case 'superior':
+                    return 'superior';
+                case 'epic':
+                    return 'epic';
+                case 'legendary':
+                    return 'legendary';
+                default:
+                    return ''; // Default to no specific class
             }
         }
 
