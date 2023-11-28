@@ -92,17 +92,28 @@
                             const rowData = rows[i];
                             const row = document.createElement('tr');
 
+                            let qualityClass = '';  // Variable to store quality class
+
                             rowData.forEach((cellData, index) => {
                                 const cell = document.createElement('td');
 
-                                // Add class based on the quality (assuming quality is at index 10)
-                                if (index === 10 || index === 8) {
-                                    cell.className = getQualityClass(cellData.toLowerCase());
+                                if (index === 9) {
+                                    // Item Name column
+                                    cell.textContent = cellData;
+
+                                    // Use the quality from the next column (assuming quality is at index 10)
+                                    qualityClass = getQualityClass(rows[i][10].toLowerCase());
+                                } else {
+                                    cell.textContent = cellData;
                                 }
 
-                                cell.textContent = cellData;
                                 row.appendChild(cell);
                             });
+
+                            // Apply quality class to the whole row
+                            if (qualityClass) {
+                                row.classList.add(qualityClass);
+                            }
 
                             tableBody.appendChild(row);
                         }
