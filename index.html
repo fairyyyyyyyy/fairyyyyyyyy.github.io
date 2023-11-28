@@ -84,12 +84,21 @@
                             const rowData = rows[i];
                             const row = document.createElement('tr');
 
-                            let color = getColor(rowData.join(' ').toLowerCase());
-                            row.style.color = color;
+                            // Get the appropriate color for "Item Name" and "Quality" columns
+                            let itemNameColor = getColor(rowData[9].toLowerCase());
+                            let qualityColor = getColor(rowData[10].toLowerCase());
 
-                            rowData.forEach((cellData) => {
+                            rowData.forEach((cellData, index) => {
                                 const cell = document.createElement('td');
                                 cell.textContent = cellData;
+
+                                // Apply color only to "Item Name" and "Quality" columns
+                                if (index === 9) {
+                                    cell.style.color = itemNameColor;
+                                } else if (index === 10) {
+                                    cell.style.color = qualityColor;
+                                }
+
                                 row.appendChild(cell);
                             });
 
@@ -106,16 +115,16 @@
         }
 
         // Function to get the appropriate color based on the presence of specific words
-        function getColor(rowData) {
-            if (rowData.includes('normal')) {
+        function getColor(cellData) {
+            if (cellData.includes('normal')) {
                 return 'white';
-            } else if (rowData.includes('fine')) {
+            } else if (cellData.includes('fine')) {
                 return 'green';
-            } else if (rowData.includes('superior')) {
+            } else if (cellData.includes('superior')) {
                 return 'blue';
-            } else if (rowData.includes('epic')) {
+            } else if (cellData.includes('epic')) {
                 return 'purple';
-            } else if (rowData.includes('legendary')) {
+            } else if (cellData.includes('legendary')) {
                 return 'gold';
             } else {
                 return ''; // Default to no specific color
