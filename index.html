@@ -33,8 +33,27 @@
 
         td {
             background-color: #000;
-            color: #fff;
             border-bottom: 1px solid #fff;
+        }
+
+        .normal {
+            color: white;
+        }
+
+        .fine {
+            color: green;
+        }
+
+        .superior {
+            color: blue;
+        }
+
+        .epic {
+            color: purple;
+        }
+
+        .legendary {
+            color: gold;
         }
     </style>
 </head>
@@ -79,8 +98,14 @@
                     const rowData = rows[i];
                     const row = document.createElement('tr');
 
-                    rowData.forEach(cellData => {
+                    rowData.forEach((cellData, index) => {
                         const cell = document.createElement('td');
+
+                        // Add text color based on quality
+                        if (index === 10) { // Quality column index
+                            cell.classList.add(getQualityColorClass(cellData.toLowerCase()));
+                        }
+
                         cell.textContent = cellData;
                         row.appendChild(cell);
                     });
@@ -89,6 +114,24 @@
                 }
             } catch (error) {
                 console.error('Error fetching or parsing CSV data:', error);
+            }
+        }
+
+        // Function to determine the color class based on quality
+        function getQualityColorClass(quality) {
+            switch (quality) {
+                case 'normal':
+                    return 'normal';
+                case 'fine':
+                    return 'fine';
+                case 'superior':
+                    return 'superior';
+                case 'epic':
+                    return 'epic';
+                case 'legendary':
+                    return 'legendary';
+                default:
+                    return '';
             }
         }
 

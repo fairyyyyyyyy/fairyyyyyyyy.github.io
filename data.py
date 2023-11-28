@@ -130,7 +130,7 @@ for match, quantity_match in zip(matches, quantity_matches):
     transaction_date_time = datetime.utcfromtimestamp(int(match[3])).strftime('%Y-%m-%d %H:%M:%S')
 
     # Append 'g' after the total price
-    total_price = f"{match[4]}g"
+    total_price = f"{int(match[4]):,.0f}g"
 
     # Extract item name from the item name and remove commas
     item_name = extract_item_name(match[6])
@@ -157,7 +157,7 @@ for match, quantity_match in zip(matches, quantity_matches):
     item_type2 = extract_item_type2(match[6])
 
     # Calculate price per item
-    price_per_item = f"{int(match[4]) / int(item_quantity_1)}g"
+    price_per_item = f"{int(match[4]) / int(item_quantity_1):,.0f}g"
 
     # Check if the transaction ID is already processed
     if match[3] not in existing_transaction_ids:
