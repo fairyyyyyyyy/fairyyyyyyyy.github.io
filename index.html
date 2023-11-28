@@ -38,11 +38,11 @@
         }
 
         /* Define classes for different qualities */
-        .normal { color: white; }
-        .fine { color: green; }
-        .superior { color: blue; }
-        .epic { color: purple; }
-        .legendary { color: gold; }
+        .Normal { color: white; }
+        .Fine { color: green; }
+        .Superior { color: blue; }
+        .Epic { color: purple; }
+        .Legendary { color: gold; }
     </style>
 </head>
 <body>
@@ -95,8 +95,8 @@
                             rowData.forEach((cellData, index) => {
                                 const cell = document.createElement('td');
 
-                                // Add class based on the quality (assuming quality is at index 11)
-                                if (index === 11) {
+                                // Add class based on the quality (assuming quality is at index 10)
+                                if (index === 10) {
                                     cell.className = getQualityClass(cellData.toLowerCase());
                                 }
 
@@ -120,15 +120,15 @@
         function getQualityClass(quality) {
             switch (quality) {
                 case 'normal':
-                    return 'normal';
+                    return 'Normal';
                 case 'fine':
-                    return 'fine';
+                    return 'Fine';
                 case 'superior':
-                    return 'superior';
+                    return 'Superior';
                 case 'epic':
-                    return 'epic';
+                    return 'Epic';
                 case 'legendary':
-                    return 'legendary';
+                    return 'Legendary';
                 default:
                     return ''; // Default to no specific class
             }
